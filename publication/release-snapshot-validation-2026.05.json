@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "release": "2026.05",
+  "scope": "validation_of_existing_country_snapshot",
+  "full_recalculation_executed": false,
+  "checks": {
+    "v9_input_records_22614": true,
+    "v9_active_sites_22032": true,
+    "v10_ranges_61110": true,
+    "v10_no_class_overlap": true,
+    "v11_population_38035768": true,
+    "v12_admin_2479": true,
+    "v12_country_equals_gmina": true,
+    "v13_recommendations_21909": true,
+    "validations_v10_v13": true
+  },
+  "validation_passed": true,
+  "note": "Sprawdzono zastany snapshot V9-V13. Pelne ponowne przeliczenie Polski jest osobna bramka wydania i nie zostalo wykonane w ramach przygotowania repozytorium."
+}

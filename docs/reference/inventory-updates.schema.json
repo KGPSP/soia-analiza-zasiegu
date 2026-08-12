@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:soia:inventory-updates:1.0.0",
+  "title": "Wiersz aktualizacji inwentaryzacji SOIA",
+  "type": "object",
+  "required": ["operation", "nr_ref"],
+  "properties": {
+    "operation": {"enum": ["add", "update", "disable"]},
+    "nr_ref": {"type": "string", "minLength": 1},
+    "teryt_gmi": {"type": "string", "pattern": "^[0-9]{7}$"},
+    "lat": {"type": "number", "minimum": 48.5, "maximum": 55.2},
+    "lon": {"type": "number", "minimum": 13.5, "maximum": 24.5},
+    "rodzaj_syreny": {"type": "string", "minLength": 1},
+    "moc_w": {"type": "number", "minimum": 300, "maximum": 5500},
+    "wysokosc_nad_terenem_m": {"type": "number", "minimum": 3, "maximum": 30},
+    "npm_m": {"type": "number", "minimum": -10, "maximum": 2600},
+    "wlasciciel": {"type": "string"},
+    "gsm_status": {"enum": ["TAK", "NIE", "N/D", ""]},
+    "sk_psp_status": {"enum": ["TAK", "NIE", "N/D", ""]},
+    "reason": {"type": "string"}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"operation": {"const": "add"}}},
+      "then": {
+        "required": [
+          "teryt_gmi", "lat", "lon", "rodzaj_syreny", "moc_w",
+          "wysokosc_nad_terenem_m"
+        ]
+      }
+    }
+  ],
+  "additionalProperties": false
+}

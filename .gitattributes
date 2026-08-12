@@ -1,0 +1,13 @@
+# Zachowaj bajtowo format wersjonowanych danych i artefaktów binarnych.
+*.csv -text -whitespace
+*.gpkg binary
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
+
+# Dwie spacje na końcu wiersza są semantycznym podziałem linii Markdown.
+*.md whitespace=-trailing-space,-blank-at-eof
+
+# Generator zawiera takie podziały wewnątrz źródła szablonu Markdown.
+src/soia/generator.py whitespace=-trailing-space

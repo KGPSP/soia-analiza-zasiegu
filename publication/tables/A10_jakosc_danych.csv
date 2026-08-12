@@ -1,0 +1,17 @@
+﻿category,metric,value,note
+V9,records,22614,Finalna inwentaryzacja po normalizacji
+V9,columns,31,Kolumny finalnego CSV
+V9,analog_records,14629,Syreny analogowe po przeliczeniu profili
+V9,npm_missing,0,Braki wysokości n.p.m.
+quality,raw_missing_total,43887,Surowe braki i N/D
+quality,actionable_missing_total,0,Braki wymagające interwencji
+quality,duplicate_nr_ref,0,Duplikaty identyfikatorów
+owners,OSP,6453,Liczba syren według właściciela
+owners,Wójt,5244,Liczba syren według właściciela
+owners,Burmistrz,4063,Liczba syren według właściciela
+owners,Prezydent Miasta,2435,Liczba syren według właściciela
+owners,KW PSP,2214,Liczba syren według właściciela
+owners,Wojewoda,1569,Liczba syren według właściciela
+owners,Starosta,369,Liczba syren według właściciela
+owners,Przedsiębiorca,261,Liczba syren według właściciela
+owners,Jednostka Wojskowa,6,Liczba syren według właściciela

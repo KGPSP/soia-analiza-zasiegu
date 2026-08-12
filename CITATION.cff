@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  Cytując oprogramowanie lub analizę, wskaż tę wersję repozytorium i wersję
+  danych 2026.05. DOI zostanie dodany po zatwierdzeniu wydania Zenodo.
+title: "SOIA - reprodukowalna analiza zasięgu syren alarmowych"
+type: software
+version: 1.0.0
+date-released: 2026-08-12
+authors:
+  - family-names: Kłosiński
+    given-names: Michał
+    affiliation: Komenda Główna Państwowej Straży Pożarnej
+  - family-names: Wnęk
+    given-names: Marek
+    affiliation: Komenda Główna Państwowej Straży Pożarnej
+license: MIT
+keywords:
+  - SOIA
+  - syreny alarmowe
+  - GIS
+  - TERYT
+  - analiza przestrzenna

@@ -1,0 +1,14 @@
+﻿metric,value,unit,source
+populacja_GUS_NSP2021,38035768.0,osoby,V11
+pop_night_ge65,29348810.79,osoby,V11
+pct_pop_night_ge65,77.16,pct,V11
+pop_night_outside_ge65,8686957.21,osoby,V11
+riskzone_pop_night_total,2367516.23,osoby,V12
+riskzone_pop_night_ge65,1919923.43,osoby,V12
+riskzone_pop_night_outside_ge65,447592.8,osoby,V12
+riskzone_pct_outside_ge65,18.91,pct,V12
+priority_gaps_count,13050.0,luki,V12
+active_sites_after_deduplication,22032.0,lokalizacje,V10
+sirens_with_coverage,20921.0,lokalizacje,V10
+sensitive_objects_count,85317.0,obiekty,V13
+new_candidate_count,2501.0,lokalizacje,V13

@@ -1,0 +1,13 @@
+.git
+.venv
+.pytest_cache
+__pycache__
+*.pyc
+outputs
+release-artifacts
+reproduction
+data/cache
+data/releases
+data/quickstart-2026.05
+publication/archive
+publication/source

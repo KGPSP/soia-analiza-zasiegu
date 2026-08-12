@@ -1,0 +1,15 @@
+rank,site_uid,nr_ref,woj,powiat,gmina,lat,lon,wlasciciel,rodzaj_syreny,moc_w,gsm_status,sk_psp_status,primary_pop_night_ge65,primary_pop_day_ge65,failure_loss_pop_night_proxy,failure_loss_pop_day_proxy,coverage_count_ge65_method,recommended_action,estimated_cost_pln
+667,7059,SOiA-20260422-21655,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.701254,19.965696,KW PSP,cyfrowa,600,TAK,TAK,7011.504983329933,7219.942352521194,7011.5,7219.94,dominant_siren_proxy,brak_dzialania,0
+2865,6960,SOiA-20260422-34072,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.704455,19.961426,Wójt,cyfrowa,600,TAK,TAK,2735.6161733959343,2525.2021082786227,2735.62,2525.2,dominant_siren_proxy,brak_dzialania,0
+5912,7731,SOiA-20260422-28035,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.663853,19.819306,Wójt,cyfrowa,600,TAK,TAK,1218.6743902616709,1196.1089850452306,1218.67,1196.11,dominant_siren_proxy,brak_dzialania,0
+11550,9769,SOiA-20260421-26041,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.675352,20.052262,Wójt,cyfrowa,600,TAK,TAK,499.8691477945616,501.39702767007543,499.87,501.4,dominant_siren_proxy,brak_dzialania,0
+12905,9936,SOiA-20260421-73066,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.634531,19.958816,Wójt,cyfrowa,600,TAK,TAK,426.536897200902,426.53689720090193,426.54,426.54,dominant_siren_proxy,brak_dzialania,0
+14063,7723,SOiA-20260422-96091,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.612221,19.88718,Wójt,cyfrowa,600,TAK,TAK,375.0,375.0,375.0,375.0,dominant_siren_proxy,brak_dzialania,0
+14082,9919,SOiA-20260421-54794,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.573891,19.921477,KW PSP,cyfrowa,600,TAK,TAK,374.3628302832824,374.3628302832825,374.36,374.36,dominant_siren_proxy,brak_dzialania,0
+14630,9744,SOiA-20260421-16328,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.614567,20.027167,Wójt,cyfrowa,600,NIE,TAK,351.99999999999994,352.0,352.0,352.0,dominant_siren_proxy,integracja,5000
+14924,7703,SOiA-20260422-40957,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.643964,19.847263,Wójt,cyfrowa,600,TAK,TAK,339.5419040178814,339.54190401788145,339.54,339.54,dominant_siren_proxy,brak_dzialania,0
+15661,7712,SOiA-20260422-18814,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.691065,20.095767,Wójt,cyfrowa,600,TAK,TAK,309.33644544630647,319.8317716468821,309.34,319.83,dominant_siren_proxy,brak_dzialania,0
+16012,7748,SOiA-20260422-98349,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.661113,19.937798,Wójt,cyfrowa,600,TAK,TAK,296.0,295.99999999999994,296.0,296.0,dominant_siren_proxy,brak_dzialania,0
+18045,7690,SOiA-20260422-79854,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.619534,19.841711,Wójt,cyfrowa,600,TAK,TAK,215.08133608853785,215.0813360885379,215.08,215.08,dominant_siren_proxy,brak_dzialania,0
+19527,7678,SOiA-20260422-65655,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.595249,19.903217,Wójt,cyfrowa,600,TAK,TAK,145.0,145.0,145.0,145.0,dominant_siren_proxy,brak_dzialania,0
+20406,7667,SOiA-20260422-52209,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,53.533089,19.907017,Wójt,cyfrowa,600,TAK,TAK,76.17568006533824,76.17568006533826,76.18,76.18,dominant_siren_proxy,brak_dzialania,0

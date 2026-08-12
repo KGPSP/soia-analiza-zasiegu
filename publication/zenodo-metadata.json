@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "title": "SOIA — analiza zasięgu syren alarmowych, snapshot 2026.05",
+    "upload_type": "dataset",
+    "description": "Dane źródłowe i pochodne V9–V13 oraz zoptymalizowany quickstart do reprodukowalnych analiz zasięgu syren SOIA dla jednostek TERYT. Inwentaryzacja: maj 2026; rozszerzenie CAP/IoT: eksport lipiec 2026.",
+    "creators": [
+      {
+        "name": "Kłosiński, Michał",
+        "affiliation": "Komenda Główna Państwowej Straży Pożarnej"
+      },
+      {
+        "name": "Wnęk, Marek",
+        "affiliation": "Komenda Główna Państwowej Straży Pożarnej"
+      }
+    ],
+    "version": "2026.05",
+    "language": "pol",
+    "access_right": "restricted",
+    "access_conditions": "Draft przedpublikacyjny. Dostęp zostanie otwarty po zgodzie właściciela danych, kontroli informacji i zatwierdzeniu macierzy wielu licencji.",
+    "keywords": [
+      "SOIA",
+      "syreny alarmowe",
+      "GIS",
+      "TERYT",
+      "ochrona ludności",
+      "zasięg akustyczny",
+      "reprodukowalność"
+    ],
+    "notes": "Pliki mają różne warunki: kod MIT, własna dokumentacja CC BY 4.0, OpenStreetMap ODbL oraz prawa pozostałych źródeł wskazane w data-manifest.json. Przed publikacją należy dodać wszystkie prawa w interfejsie Zenodo; jednej licencji nie wolno stosować do całej paczki."
+  }
+}

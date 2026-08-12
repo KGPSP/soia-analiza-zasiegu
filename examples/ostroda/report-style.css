@@ -1,0 +1,6 @@
+@page { size: A4; margin: 18mm 15mm 18mm 15mm; }
+body { font-family: 'Noto Sans', sans-serif; font-size: 10pt; color: #17202b; }
+h1, h2, h3 { color: #194f7d; page-break-after: avoid; }
+table { width: 100%; border-collapse: collapse; font-size: 8.5pt; }
+th, td { border: 0.4pt solid #aab4bf; padding: 3pt; overflow-wrap: anywhere; }
+tr, img { page-break-inside: avoid; } img { max-width: 100%; height: auto; }

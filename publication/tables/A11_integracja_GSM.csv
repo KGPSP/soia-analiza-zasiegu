@@ -1,0 +1,2146 @@
+﻿wojewodztwo,powiat,gmina,wojewodztwo_key,powiat_key,gmina_key,siren_records_without_gsm,unique_sites_without_gsm,integration_cost_records_pln,integration_cost_unique_sites_pln
+WIELKOPOLSKIE,m. Poznań,Poznań,wielkopolskie,m_poznan,poznan,131,131,655000,655000
+MAŁOPOLSKIE,m. Kraków,Kraków,malopolskie,m_krakow,krakow,99,97,495000,485000
+PODLASKIE,m. Białystok,Białystok,podlaskie,m_bialystok,bialystok,99,99,495000,495000
+POMORSKIE,m. Gdańsk,Gdańsk,pomorskie,m_gdansk,gdansk,95,94,475000,470000
+ZACHODNIOPOMORSKIE,m. Szczecin,Szczecin,zachodniopomorskie,m_szczecin,szczecin,86,79,430000,395000
+ŚLĄSKIE,m. Częstochowa,Częstochowa,slaskie,m_czestochowa,czestochowa,80,80,400000,400000
+KUJAWSKO-POMORSKIE,m. Bydgoszcz,Bydgoszcz,kujawsko_pomorskie,m_bydgoszcz,bydgoszcz,79,79,395000,395000
+POMORSKIE,m. Gdynia,Gdynia,pomorskie,m_gdynia,gdynia,69,68,345000,340000
+MAZOWIECKIE,Warszawa,Śródmieście,mazowieckie,warszawa,srodmiescie,63,63,315000,315000
+ŁÓDZKIE,m. Łódź,Łódź,lodzkie,m_lodz,lodz,56,55,280000,275000
+DOLNOŚLĄSKIE,m. Wrocław,Wrocław,dolnoslaskie,m_wroclaw,wroclaw,55,55,275000,275000
+PODKARPACKIE,m. Rzeszów,Rzeszów,podkarpackie,m_rzeszow,rzeszow,53,50,265000,250000
+ŚLĄSKIE,m. Dąbrowa Górnicza,Dąbrowa Górnicza,slaskie,m_dabrowa_gornicza,dabrowa_gornicza,52,51,260000,255000
+KUJAWSKO-POMORSKIE,m. Toruń,Toruń,kujawsko_pomorskie,m_torun,torun,51,50,255000,250000
+WARMIŃSKO-MAZURSKIE,m. Olsztyn,Olsztyn,warminsko_mazurskie,m_olsztyn,olsztyn,51,51,255000,255000
+MAZOWIECKIE,m. Płock,Płock,mazowieckie,m_plock,plock,47,46,235000,230000
+MAZOWIECKIE,m. Radom,Radom,mazowieckie,m_radom,radom,46,46,230000,230000
+LUBELSKIE,m. Lublin,Lublin,lubelskie,m_lublin,lublin,45,45,225000,225000
+WIELKOPOLSKIE,ostrowski,Ostrów Wielkopolski,wielkopolskie,ostrowski,ostrow_wielkopolski,45,45,225000,225000
+LUBUSKIE,m. Zielona Góra,Zielona Góra,lubuskie,m_zielona_gora,zielona_gora,44,43,220000,215000
+OPOLSKIE,kędzierzyńsko-kozielski,Kędzierzyn-Koźle,opolskie,kedzierzynsko_kozielski,kedzierzyn_kozle,44,43,220000,215000
+ŚLĄSKIE,m. Katowice,Katowice,slaskie,m_katowice,katowice,44,44,220000,220000
+MAZOWIECKIE,Warszawa,Mokotów,mazowieckie,warszawa,mokotow,43,42,215000,210000
+ŚWIĘTOKRZYSKIE,m. Kielce,Kielce,swietokrzyskie,m_kielce,kielce,41,40,205000,200000
+MAZOWIECKIE,Warszawa,Bielany,mazowieckie,warszawa,bielany,38,36,190000,180000
+ŚLĄSKIE,m. Bielsko-Biała,Bielsko-Biała,slaskie,m_bielsko_biala,bielsko_biala,38,37,190000,185000
+MAZOWIECKIE,Warszawa,Praga-Południe,mazowieckie,warszawa,praga_poludnie,37,35,185000,175000
+WIELKOPOLSKIE,m. Konin,Konin,wielkopolskie,m_konin,konin,37,32,185000,160000
+LUBELSKIE,puławski,Puławy,lubelskie,pulawski,pulawy,36,36,180000,180000
+WIELKOPOLSKIE,m. Kalisz,Kalisz,wielkopolskie,m_kalisz,kalisz,36,34,180000,170000
+ŚLĄSKIE,m. Gliwice,Gliwice,slaskie,m_gliwice,gliwice,35,35,175000,175000
+DOLNOŚLĄSKIE,m. Legnica,Legnica,dolnoslaskie,m_legnica,legnica,34,34,170000,170000
+ŚLĄSKIE,m. Rybnik,Rybnik,slaskie,m_rybnik,rybnik,34,34,170000,170000
+POMORSKIE,chojnicki,Chojnice,pomorskie,chojnicki,chojnice,33,30,165000,150000
+MAZOWIECKIE,Warszawa,Wola,mazowieckie,warszawa,wola,32,32,160000,160000
+MAZOWIECKIE,przasnyski,Chorzele,mazowieckie,przasnyski,chorzele,32,32,160000,160000
+DOLNOŚLĄSKIE,m. Jelenia Góra,Jelenia Góra,dolnoslaskie,m_jelenia_gora,jelenia_gora,31,31,155000,155000
+MAZOWIECKIE,Warszawa,Ursynów,mazowieckie,warszawa,ursynow,31,31,155000,155000
+PODKARPACKIE,jasielski,Jasło,podkarpackie,jasielski,jaslo,31,31,155000,155000
+ŚLĄSKIE,m. Bytom,Bytom,slaskie,m_bytom,bytom,31,31,155000,155000
+MAZOWIECKIE,Warszawa,Bemowo,mazowieckie,warszawa,bemowo,30,28,150000,140000
+MAZOWIECKIE,sokołowski,Sokołów Podlaski,mazowieckie,sokolowski,sokolow_podlaski,30,30,150000,150000
+LUBUSKIE,m. Gorzów Wielkopolski,Gorzów Wielkopolski,lubuskie,m_gorzow_wielkopolski,gorzow_wielkopolski,29,29,145000,145000
+MAZOWIECKIE,m. Ostrołęka,Ostrołęka,mazowieckie,m_ostroleka,ostroleka,29,28,145000,140000
+ŁÓDZKIE,sieradzki,Sieradz,lodzkie,sieradzki,sieradz,29,29,145000,145000
+MAŁOPOLSKIE,nowotarski,Nowy Targ,malopolskie,nowotarski,nowy_targ,28,28,140000,140000
+WARMIŃSKO-MAZURSKIE,iławski,Iława,warminsko_mazurskie,ilawski,ilawa,28,28,140000,140000
+ŚLĄSKIE,m. Jaworzno,Jaworzno,slaskie,m_jaworzno,jaworzno,28,27,140000,135000
+MAZOWIECKIE,Warszawa,Targówek,mazowieckie,warszawa,targowek,27,27,135000,135000
+MAZOWIECKIE,ostrowski,Ostrów Mazowiecka,mazowieckie,ostrowski,ostrow_mazowiecka,27,27,135000,135000
+MAŁOPOLSKIE,olkuski,Olkusz,malopolskie,olkuski,olkusz,27,27,135000,135000
+POMORSKIE,wejherowski,Wejherowo,pomorskie,wejherowski,wejherowo,27,22,135000,110000
+ŚLĄSKIE,m. Tychy,Tychy,slaskie,m_tychy,tychy,27,27,135000,135000
+KUJAWSKO-POMORSKIE,bydgoski,Koronowo,kujawsko_pomorskie,bydgoski,koronowo,26,23,130000,115000
+POMORSKIE,gdański,Cedry Wielkie,pomorskie,gdanski,cedry_wielkie,26,26,130000,130000
+WIELKOPOLSKIE,jarociński,Jarocin,wielkopolskie,jarocinski,jarocin,26,25,130000,125000
+WIELKOPOLSKIE,m. Leszno,Leszno,wielkopolskie,m_leszno,leszno,26,26,130000,130000
+ŁÓDZKIE,kutnowski,Kutno,lodzkie,kutnowski,kutno,26,26,130000,130000
+ŁÓDZKIE,tomaszowski,Tomaszów Mazowiecki,lodzkie,tomaszowski,tomaszow_mazowiecki,26,26,130000,130000
+ŚLĄSKIE,m. Ruda Śląska,Ruda Śląska,slaskie,m_ruda_slaska,ruda_slaska,26,26,130000,130000
+WIELKOPOLSKIE,gostyński,Gostyń,wielkopolskie,gostynski,gostyn,25,25,125000,125000
+ZACHODNIOPOMORSKIE,m. Koszalin,Koszalin,zachodniopomorskie,m_koszalin,koszalin,25,25,125000,125000
+ŁÓDZKIE,zgierski,Zgierz,lodzkie,zgierski,zgierz,25,25,125000,125000
+ŚLĄSKIE,m. Jastrzębie-Zdrój,Jastrzębie-Zdrój,slaskie,m_jastrzebie_zdroj,jastrzebie_zdroj,25,25,125000,125000
+LUBELSKIE,bialski,Międzyrzec Podlaski,lubelskie,bialski,miedzyrzec_podlaski,24,23,120000,115000
+OPOLSKIE,m. Opole,Opole,opolskie,m_opole,opole,24,24,120000,120000
+ŁÓDZKIE,m. Piotrków Trybunalski,Piotrków Trybunalski,lodzkie,m_piotrkow_trybunalski,piotrkow_trybunalski,24,24,120000,120000
+ŚLĄSKIE,m. Sosnowiec,Sosnowiec,slaskie,m_sosnowiec,sosnowiec,24,23,120000,115000
+MAZOWIECKIE,Warszawa,Białołęka,mazowieckie,warszawa,bialoleka,23,23,115000,115000
+MAŁOPOLSKIE,olkuski,Wolbrom,malopolskie,olkuski,wolbrom,23,23,115000,115000
+PODKARPACKIE,ropczycko-sędziszowski,Sędziszów Małopolski,podkarpackie,ropczycko_sedziszowski,sedziszow_malopolski,23,23,115000,115000
+WIELKOPOLSKIE,kościański,Kościan,wielkopolskie,koscianski,koscian,23,23,115000,115000
+ŁÓDZKIE,zduńskowolski,Zduńska Wola,lodzkie,zdunskowolski,zdunska_wola,23,23,115000,115000
+ŚLĄSKIE,m. Piekary Śląskie,Piekary Śląskie,slaskie,m_piekary_slaskie,piekary_slaskie,23,23,115000,115000
+OPOLSKIE,prudnicki,Biała,opolskie,prudnicki,biala,22,22,110000,110000
+POMORSKIE,gdański,Pruszcz Gdański,pomorskie,gdanski,pruszcz_gdanski,22,22,110000,110000
+WIELKOPOLSKIE,kościański,Śmigiel,wielkopolskie,koscianski,smigiel,22,22,110000,110000
+WIELKOPOLSKIE,pilski,Piła,wielkopolskie,pilski,pila,22,20,110000,100000
+LUBELSKIE,biłgorajski,Biłgoraj,lubelskie,bilgorajski,bilgoraj,21,21,105000,105000
+MAZOWIECKIE,pułtuski,Pułtusk,mazowieckie,pultuski,pultusk,21,21,105000,105000
+MAŁOPOLSKIE,wielicki,Gdów,malopolskie,wielicki,gdow,21,21,105000,105000
+PODKARPACKIE,sanocki,Sanok,podkarpackie,sanocki,sanok,21,20,105000,100000
+POMORSKIE,starogardzki,Starogard Gdański,pomorskie,starogardzki,starogard_gdanski,21,21,105000,105000
+POMORSKIE,tczewski,Tczew,pomorskie,tczewski,tczew,21,21,105000,105000
+WIELKOPOLSKIE,gostyński,Krobia,wielkopolskie,gostynski,krobia,21,20,105000,100000
+WIELKOPOLSKIE,wolsztyński,Siedlec,wielkopolskie,wolsztynski,siedlec,21,21,105000,105000
+KUJAWSKO-POMORSKIE,świecki,Świecie,kujawsko_pomorskie,swiecki,swiecie,20,20,100000,100000
+MAZOWIECKIE,przasnyski,Przasnysz,mazowieckie,przasnyski,przasnysz,20,20,100000,100000
+MAŁOPOLSKIE,krakowski,Krzeszowice,malopolskie,krakowski,krzeszowice,20,18,100000,90000
+MAŁOPOLSKIE,proszowicki,Proszowice,malopolskie,proszowicki,proszowice,20,20,100000,100000
+WIELKOPOLSKIE,słupecki,Zagórów,wielkopolskie,slupecki,zagorow,20,20,100000,100000
+ŚLĄSKIE,m. Chorzów,Chorzów,slaskie,m_chorzow,chorzow,20,20,100000,100000
+LUBUSKIE,nowosolski,Nowa Sól,lubuskie,nowosolski,nowa_sol,19,19,95000,95000
+MAZOWIECKIE,m. Siedlce,Siedlce,mazowieckie,m_siedlce,siedlce,19,19,95000,95000
+MAŁOPOLSKIE,myślenicki,Myślenice,malopolskie,myslenicki,myslenice,19,19,95000,95000
+MAŁOPOLSKIE,nowotarski,Czarny Dunajec,malopolskie,nowotarski,czarny_dunajec,19,19,95000,95000
+PODKARPACKIE,ropczycko-sędziszowski,Ropczyce,podkarpackie,ropczycko_sedziszowski,ropczyce,19,16,95000,80000
+PODKARPACKIE,strzyżowski,Strzyżów,podkarpackie,strzyzowski,strzyzow,19,16,95000,80000
+PODLASKIE,augustowski,Augustów,podlaskie,augustowski,augustow,19,19,95000,95000
+PODLASKIE,łomżyński,Piątnica,podlaskie,lomzynski,piatnica,19,19,95000,95000
+POMORSKIE,kościerski,Kościerzyna,pomorskie,koscierski,koscierzyna,19,19,95000,95000
+WIELKOPOLSKIE,nowotomyski,Zbąszyń,wielkopolskie,nowotomyski,zbaszyn,19,17,95000,85000
+WIELKOPOLSKIE,ostrowski,Raszków,wielkopolskie,ostrowski,raszkow,19,19,95000,95000
+ŁÓDZKIE,radomszczański,Radomsko,lodzkie,radomszczanski,radomsko,19,16,95000,80000
+ŚLĄSKIE,m. Zabrze,Zabrze,slaskie,m_zabrze,zabrze,19,19,95000,95000
+DOLNOŚLĄSKIE,kłodzki,Kłodzko,dolnoslaskie,klodzki,klodzko,18,18,90000,90000
+LUBELSKIE,krasnostawski,Krasnystaw,lubelskie,krasnostawski,krasnystaw,18,18,90000,90000
+LUBELSKIE,rycki,Ryki,lubelskie,rycki,ryki,18,18,90000,90000
+MAZOWIECKIE,Warszawa,Ochota,mazowieckie,warszawa,ochota,18,18,90000,90000
+MAŁOPOLSKIE,miechowski,Gołcza,malopolskie,miechowski,golcza,18,18,90000,90000
+MAŁOPOLSKIE,oświęcimski,Oświęcim,malopolskie,oswiecimski,oswiecim,18,18,90000,90000
+OPOLSKIE,nyski,Nysa,opolskie,nyski,nysa,18,18,90000,90000
+PODLASKIE,hajnowski,Hajnówka,podlaskie,hajnowski,hajnowka,18,18,90000,90000
+POMORSKIE,nowodworski,Stegna,pomorskie,nowodworski,stegna,18,18,90000,90000
+WIELKOPOLSKIE,grodziski,Rakoniewice,wielkopolskie,grodziski,rakoniewice,18,16,90000,80000
+WIELKOPOLSKIE,kościański,Krzywiń,wielkopolskie,koscianski,krzywin,18,18,90000,90000
+WIELKOPOLSKIE,obornicki,Oborniki,wielkopolskie,obornicki,oborniki,18,18,90000,90000
+WIELKOPOLSKIE,wolsztyński,Przemęt,wielkopolskie,wolsztynski,przemet,18,18,90000,90000
+ŚLĄSKIE,kłobucki,Wręczyca Wielka,slaskie,klobucki,wreczyca_wielka,18,18,90000,90000
+LUBELSKIE,biłgorajski,Turobin,lubelskie,bilgorajski,turobin,17,17,85000,85000
+LUBELSKIE,lubelski,Bychawa,lubelskie,lubelski,bychawa,17,17,85000,85000
+LUBUSKIE,nowosolski,Kożuchów,lubuskie,nowosolski,kozuchow,17,17,85000,85000
+MAZOWIECKIE,Warszawa,Żoliborz,mazowieckie,warszawa,zoliborz,17,15,85000,75000
+MAZOWIECKIE,sokołowski,Jabłonna Lacka,mazowieckie,sokolowski,jablonna_lacka,17,16,85000,80000
+MAŁOPOLSKIE,gorlicki,Gorlice,malopolskie,gorlicki,gorlice,17,17,85000,85000
+MAŁOPOLSKIE,m. Nowy Sącz,Nowy Sącz,malopolskie,m_nowy_sacz,nowy_sacz,17,17,85000,85000
+MAŁOPOLSKIE,proszowicki,Koniusza,malopolskie,proszowicki,koniusza,17,17,85000,85000
+PODKARPACKIE,jarosławski,Jarosław,podkarpackie,jaroslawski,jaroslaw,17,17,85000,85000
+PODKARPACKIE,łańcucki,Łańcut,podkarpackie,lancucki,lancut,17,12,85000,60000
+PODLASKIE,grajewski,Grajewo,podlaskie,grajewski,grajewo,17,17,85000,85000
+PODLASKIE,zambrowski,Zambrów,podlaskie,zambrowski,zambrow,17,17,85000,85000
+WIELKOPOLSKIE,wolsztyński,Wolsztyn,wielkopolskie,wolsztynski,wolsztyn,17,17,85000,85000
+ZACHODNIOPOMORSKIE,myśliborski,Dębno,zachodniopomorskie,mysliborski,debno,17,17,85000,85000
+ZACHODNIOPOMORSKIE,pyrzycki,Pyrzyce,zachodniopomorskie,pyrzycki,pyrzyce,17,17,85000,85000
+ZACHODNIOPOMORSKIE,sławieński,Darłowo,zachodniopomorskie,slawienski,darlowo,17,17,85000,85000
+ŁÓDZKIE,sieradzki,Błaszki,lodzkie,sieradzki,blaszki,17,17,85000,85000
+ŚLĄSKIE,będziński,Będzin,slaskie,bedzinski,bedzin,17,17,85000,85000
+ŚLĄSKIE,tarnogórski,Tarnowskie Góry,slaskie,tarnogorski,tarnowskie_gory,17,15,85000,75000
+ŚLĄSKIE,zawierciański,Pilica,slaskie,zawiercianski,pilica,17,17,85000,85000
+LUBELSKIE,hrubieszowski,Hrubieszów,lubelskie,hrubieszowski,hrubieszow,16,16,80000,80000
+LUBELSKIE,lubartowski,Lubartów,lubelskie,lubartowski,lubartow,16,16,80000,80000
+LUBELSKIE,m. Chełm,Chełm,lubelskie,m_chelm,chelm,16,16,80000,80000
+LUBUSKIE,świebodziński,Świebodzin,lubuskie,swiebodzinski,swiebodzin,16,16,80000,80000
+MAZOWIECKIE,miński,Mińsk Mazowiecki,mazowieckie,minski,minsk_mazowiecki,16,16,80000,80000
+MAZOWIECKIE,sochaczewski,Sochaczew,mazowieckie,sochaczewski,sochaczew,16,15,80000,75000
+MAZOWIECKIE,sokołowski,Kosów Lacki,mazowieckie,sokolowski,kosow_lacki,16,15,80000,75000
+MAŁOPOLSKIE,brzeski,Szczurowa,malopolskie,brzeski,szczurowa,16,16,80000,80000
+OPOLSKIE,oleski,Olesno,opolskie,oleski,olesno,16,16,80000,80000
+OPOLSKIE,strzelecki,Strzelce Opolskie,opolskie,strzelecki,strzelce_opolskie,16,16,80000,80000
+PODKARPACKIE,jasielski,Nowy Żmigród,podkarpackie,jasielski,nowy_zmigrod,16,15,80000,75000
+PODKARPACKIE,przeworski,Przeworsk,podkarpackie,przeworski,przeworsk,16,16,80000,80000
+POMORSKIE,m. Sopot,Sopot,pomorskie,m_sopot,sopot,16,16,80000,80000
+WARMIŃSKO-MAZURSKIE,iławski,Lubawa,warminsko_mazurskie,ilawski,lubawa,16,16,80000,80000
+WARMIŃSKO-MAZURSKIE,m. Elbląg,Elbląg,warminsko_mazurskie,m_elblag,elblag,16,16,80000,80000
+WIELKOPOLSKIE,gostyński,Poniec,wielkopolskie,gostynski,poniec,16,16,80000,80000
+WIELKOPOLSKIE,kaliski,Blizanów,wielkopolskie,kaliski,blizanow,16,16,80000,80000
+WIELKOPOLSKIE,słupecki,Słupca,wielkopolskie,slupecki,slupca,16,16,80000,80000
+ZACHODNIOPOMORSKIE,goleniowski,Nowogard,zachodniopomorskie,goleniowski,nowogard,16,16,80000,80000
+ZACHODNIOPOMORSKIE,m. Świnoujście,Świnoujście,zachodniopomorskie,m_swinoujscie,swinoujscie,16,16,80000,80000
+ZACHODNIOPOMORSKIE,policki,Police,zachodniopomorskie,policki,police,16,15,80000,75000
+ŚLĄSKIE,myszkowski,Koziegłowy,slaskie,myszkowski,kozieglowy,16,16,80000,80000
+ŚWIĘTOKRZYSKIE,buski,Busko-Zdrój,swietokrzyskie,buski,busko_zdroj,16,16,80000,80000
+DOLNOŚLĄSKIE,zgorzelecki,Bogatynia,dolnoslaskie,zgorzelecki,bogatynia,15,15,75000,75000
+KUJAWSKO-POMORSKIE,mogileński,Mogilno,kujawsko_pomorskie,mogilenski,mogilno,15,15,75000,75000
+LUBELSKIE,biłgorajski,Frampol,lubelskie,bilgorajski,frampol,15,14,75000,70000
+LUBELSKIE,lubelski,Wysokie,lubelskie,lubelski,wysokie,15,15,75000,75000
+LUBELSKIE,zamojski,Radecznica,lubelskie,zamojski,radecznica,15,14,75000,70000
+MAZOWIECKIE,grodziski,Grodzisk Mazowiecki,mazowieckie,grodziski,grodzisk_mazowiecki,15,14,75000,70000
+MAZOWIECKIE,sokołowski,Sterdyń,mazowieckie,sokolowski,sterdyn,15,15,75000,75000
+MAŁOPOLSKIE,krakowski,Iwanowice,malopolskie,krakowski,iwanowice,15,14,75000,70000
+MAŁOPOLSKIE,krakowski,Skawina,malopolskie,krakowski,skawina,15,14,75000,70000
+MAŁOPOLSKIE,krakowski,Zabierzów,malopolskie,krakowski,zabierzow,15,14,75000,70000
+OPOLSKIE,głubczycki,Głubczyce,opolskie,glubczycki,glubczyce,15,15,75000,75000
+PODKARPACKIE,leżajski,Leżajsk,podkarpackie,lezajski,lezajsk,15,15,75000,75000
+PODKARPACKIE,stalowowolski,Stalowa Wola,podkarpackie,stalowowolski,stalowa_wola,15,15,75000,75000
+POMORSKIE,chojnicki,Brusy,pomorskie,chojnicki,brusy,15,15,75000,75000
+POMORSKIE,pucki,Puck,pomorskie,pucki,puck,15,15,75000,75000
+POMORSKIE,tczewski,Gniew,pomorskie,tczewski,gniew,15,15,75000,75000
+WIELKOPOLSKIE,gnieźnieński,Gniezno,wielkopolskie,gnieznienski,gniezno,15,15,75000,75000
+WIELKOPOLSKIE,kaliski,Opatówek,wielkopolskie,kaliski,opatowek,15,15,75000,75000
+WIELKOPOLSKIE,koniński,Kramsk,wielkopolskie,koninski,kramsk,15,15,75000,75000
+WIELKOPOLSKIE,koniński,Rzgów,wielkopolskie,koninski,rzgow,15,15,75000,75000
+WIELKOPOLSKIE,ostrowski,Sieroszewice,wielkopolskie,ostrowski,sieroszewice,15,15,75000,75000
+DOLNOŚLĄSKIE,zgorzelecki,Zgorzelec,dolnoslaskie,zgorzelecki,zgorzelec,14,14,70000,70000
+DOLNOŚLĄSKIE,ząbkowicki,Ziębice,dolnoslaskie,zabkowicki,ziebice,14,14,70000,70000
+LUBELSKIE,tomaszowski,Susiec,lubelskie,tomaszowski,susiec,14,14,70000,70000
+LUBELSKIE,łukowski,Łuków,lubelskie,lukowski,lukow,14,14,70000,70000
+MAZOWIECKIE,Warszawa,Wawer,mazowieckie,warszawa,wawer,14,12,70000,60000
+MAZOWIECKIE,płocki,Staroźreby,mazowieckie,plocki,starozreby,14,13,70000,65000
+MAZOWIECKIE,sokołowski,Repki,mazowieckie,sokolowski,repki,14,14,70000,70000
+MAŁOPOLSKIE,myślenicki,Dobczyce,malopolskie,myslenicki,dobczyce,14,14,70000,70000
+OPOLSKIE,namysłowski,Namysłów,opolskie,namyslowski,namyslow,14,14,70000,70000
+PODKARPACKIE,bieszczadzki,Ustrzyki Dolne,podkarpackie,bieszczadzki,ustrzyki_dolne,14,14,70000,70000
+PODKARPACKIE,strzyżowski,Wiśniowa,podkarpackie,strzyzowski,wisniowa,14,11,70000,55000
+PODLASKIE,białostocki,Choroszcz,podlaskie,bialostocki,choroszcz,14,14,70000,70000
+PODLASKIE,bielski,Bielsk Podlaski,podlaskie,bielski,bielsk_podlaski,14,14,70000,70000
+POMORSKIE,chojnicki,Czersk,pomorskie,chojnicki,czersk,14,13,70000,65000
+POMORSKIE,nowodworski,Nowy Dwór Gdański,pomorskie,nowodworski,nowy_dwor_gdanski,14,13,70000,65000
+WIELKOPOLSKIE,jarociński,Jaraczewo,wielkopolskie,jarocinski,jaraczewo,14,14,70000,70000
+WIELKOPOLSKIE,koniński,Golina,wielkopolskie,koninski,golina,14,11,70000,55000
+ŁÓDZKIE,radomszczański,Kodrąb,lodzkie,radomszczanski,kodrab,14,14,70000,70000
+ŁÓDZKIE,sieradzki,Warta,lodzkie,sieradzki,warta,14,14,70000,70000
+ŚLĄSKIE,cieszyński,Cieszyn,slaskie,cieszynski,cieszyn,14,14,70000,70000
+ŚLĄSKIE,raciborski,Racibórz,slaskie,raciborski,raciborz,14,14,70000,70000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Jędrzejów,swietokrzyskie,jedrzejowski,jedrzejow,14,14,70000,70000
+DOLNOŚLĄSKIE,kłodzki,Nowa Ruda,dolnoslaskie,klodzki,nowa_ruda,13,13,65000,65000
+DOLNOŚLĄSKIE,oleśnicki,Oleśnica,dolnoslaskie,olesnicki,olesnica,13,13,65000,65000
+KUJAWSKO-POMORSKIE,m. Grudziądz,Grudziądz,kujawsko_pomorskie,m_grudziadz,grudziadz,13,13,65000,65000
+KUJAWSKO-POMORSKIE,sępoleński,Kamień Krajeński,kujawsko_pomorskie,sepolenski,kamien_krajenski,13,13,65000,65000
+KUJAWSKO-POMORSKIE,wąbrzeski,Ryńsk,kujawsko_pomorskie,wabrzeski,rynsk,13,13,65000,65000
+LUBELSKIE,chełmski,Leśniowice,lubelskie,chelmski,lesniowice,13,13,65000,65000
+LUBELSKIE,opolski,Opole Lubelskie,lubelskie,opolski,opole_lubelskie,13,13,65000,65000
+LUBUSKIE,krośnieński,Gubin,lubuskie,krosnienski,gubin,13,13,65000,65000
+LUBUSKIE,żarski,Żary,lubuskie,zarski,zary,13,13,65000,65000
+MAZOWIECKIE,Warszawa,Praga-Północ,mazowieckie,warszawa,praga_polnoc,13,13,65000,65000
+MAZOWIECKIE,miński,Mrozy,mazowieckie,minski,mrozy,13,13,65000,65000
+MAZOWIECKIE,ostrołęcki,Czerwin,mazowieckie,ostrolecki,czerwin,13,13,65000,65000
+MAZOWIECKIE,sokołowski,Bielany,mazowieckie,sokolowski,bielany,13,9,65000,45000
+MAŁOPOLSKIE,bocheński,Bochnia,malopolskie,bochenski,bochnia,13,13,65000,65000
+MAŁOPOLSKIE,brzeski,Brzesko,malopolskie,brzeski,brzesko,13,13,65000,65000
+MAŁOPOLSKIE,miechowski,Miechów,malopolskie,miechowski,miechow,13,13,65000,65000
+MAŁOPOLSKIE,nowosądecki,Krynica-Zdrój,malopolskie,nowosadecki,krynica_zdroj,13,13,65000,65000
+MAŁOPOLSKIE,wielicki,Wieliczka,malopolskie,wielicki,wieliczka,13,13,65000,65000
+OPOLSKIE,kluczborski,Kluczbork,opolskie,kluczborski,kluczbork,13,13,65000,65000
+PODKARPACKIE,dębicki,Dębica,podkarpackie,debicki,debica,13,12,65000,60000
+PODKARPACKIE,jasielski,Skołyszyn,podkarpackie,jasielski,skolyszyn,13,8,65000,40000
+PODKARPACKIE,jasielski,Tarnowiec,podkarpackie,jasielski,tarnowiec,13,13,65000,65000
+PODKARPACKIE,leżajski,Nowa Sarzyna,podkarpackie,lezajski,nowa_sarzyna,13,12,65000,60000
+PODKARPACKIE,strzyżowski,Frysztak,podkarpackie,strzyzowski,frysztak,13,11,65000,55000
+PODLASKIE,siemiatycki,Siemiatycze,podlaskie,siemiatycki,siemiatycze,13,12,65000,60000
+POMORSKIE,słupski,Redzikowo,pomorskie,slupski,redzikowo,13,12,65000,60000
+POMORSKIE,wejherowski,Szemud,pomorskie,wejherowski,szemud,13,12,65000,60000
+WIELKOPOLSKIE,gostyński,Pępowo,wielkopolskie,gostynski,pepowo,13,13,65000,65000
+WIELKOPOLSKIE,koniński,Wierzbinek,wielkopolskie,koninski,wierzbinek,13,13,65000,65000
+WIELKOPOLSKIE,leszczyński,Włoszakowice,wielkopolskie,leszczynski,wloszakowice,13,12,65000,60000
+WIELKOPOLSKIE,rawicki,Jutrosin,wielkopolskie,rawicki,jutrosin,13,13,65000,65000
+WIELKOPOLSKIE,rawicki,Rawicz,wielkopolskie,rawicki,rawicz,13,13,65000,65000
+ZACHODNIOPOMORSKIE,gryficki,Gryfice,zachodniopomorskie,gryficki,gryfice,13,13,65000,65000
+ZACHODNIOPOMORSKIE,policki,Dobra (Szczecińska),zachodniopomorskie,policki,dobra_szczecinska,13,13,65000,65000
+ZACHODNIOPOMORSKIE,stargardzki,Stargard,zachodniopomorskie,stargardzki,stargard,13,13,65000,65000
+ZACHODNIOPOMORSKIE,świdwiński,Świdwin,zachodniopomorskie,swidwinski,swidwin,13,13,65000,65000
+ŁÓDZKIE,wieruszowski,Wieruszów,lodzkie,wieruszowski,wieruszow,13,13,65000,65000
+ŚLĄSKIE,zawierciański,Kroczyce,slaskie,zawiercianski,kroczyce,13,13,65000,65000
+ŚLĄSKIE,zawierciański,Szczekociny,slaskie,zawiercianski,szczekociny,13,13,65000,65000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Małogoszcz,swietokrzyskie,jedrzejowski,malogoszcz,13,13,65000,65000
+DOLNOŚLĄSKIE,lubiński,Lubin,dolnoslaskie,lubinski,lubin,12,12,60000,60000
+DOLNOŚLĄSKIE,lwówecki,Lwówek Śląski,dolnoslaskie,lwowecki,lwowek_slaski,12,12,60000,60000
+KUJAWSKO-POMORSKIE,nakielski,Kcynia,kujawsko_pomorskie,nakielski,kcynia,12,12,60000,60000
+KUJAWSKO-POMORSKIE,sępoleński,Więcbork,kujawsko_pomorskie,sepolenski,wiecbork,12,12,60000,60000
+LUBELSKIE,lubelski,Bełżyce,lubelskie,lubelski,belzyce,12,12,60000,60000
+LUBELSKIE,lubelski,Wojciechów,lubelskie,lubelski,wojciechow,12,12,60000,60000
+LUBELSKIE,lubelski,Zakrzew,lubelskie,lubelski,zakrzew,12,12,60000,60000
+LUBELSKIE,puławski,Końskowola,lubelskie,pulawski,konskowola,12,12,60000,60000
+LUBELSKIE,rycki,Kłoczew,lubelskie,rycki,kloczew,12,12,60000,60000
+LUBELSKIE,zamojski,Nielisz,lubelskie,zamojski,nielisz,12,12,60000,60000
+LUBELSKIE,zamojski,Zamość,lubelskie,zamojski,zamosc,12,12,60000,60000
+LUBELSKIE,świdnicki,Piaski,lubelskie,swidnicki,piaski,12,12,60000,60000
+LUBUSKIE,strzelecko-drezdenecki,Drezdenko,lubuskie,strzelecko_drezdenecki,drezdenko,12,12,60000,60000
+MAZOWIECKIE,kozienicki,Kozienice,mazowieckie,kozienicki,kozienice,12,12,60000,60000
+MAZOWIECKIE,lipski,Sienno,mazowieckie,lipski,sienno,12,12,60000,60000
+MAZOWIECKIE,miński,Latowicz,mazowieckie,minski,latowicz,12,12,60000,60000
+MAZOWIECKIE,ostrowski,Wąsewo,mazowieckie,ostrowski,wasewo,12,12,60000,60000
+MAZOWIECKIE,płocki,Stara Biała,mazowieckie,plocki,stara_biala,12,12,60000,60000
+MAZOWIECKIE,szydłowiecki,Chlewiska,mazowieckie,szydlowiecki,chlewiska,12,12,60000,60000
+MAŁOPOLSKIE,brzeski,Dębno,malopolskie,brzeski,debno,12,12,60000,60000
+MAŁOPOLSKIE,dąbrowski,Gręboszów,malopolskie,dabrowski,greboszow,12,12,60000,60000
+MAŁOPOLSKIE,gorlicki,Biecz,malopolskie,gorlicki,biecz,12,12,60000,60000
+MAŁOPOLSKIE,krakowski,Czernichów,malopolskie,krakowski,czernichow,12,11,60000,55000
+MAŁOPOLSKIE,krakowski,Skała,malopolskie,krakowski,skala,12,11,60000,55000
+MAŁOPOLSKIE,krakowski,Słomniki,malopolskie,krakowski,slomniki,12,11,60000,55000
+MAŁOPOLSKIE,nowosądecki,Grybów,malopolskie,nowosadecki,grybow,12,12,60000,60000
+MAŁOPOLSKIE,tarnowski,Żabno,malopolskie,tarnowski,zabno,12,12,60000,60000
+MAŁOPOLSKIE,wadowicki,Andrychów,malopolskie,wadowicki,andrychow,12,8,60000,40000
+OPOLSKIE,nyski,Głuchołazy,opolskie,nyski,glucholazy,12,12,60000,60000
+PODKARPACKIE,leski,Lesko,podkarpackie,leski,lesko,12,11,60000,55000
+PODLASKIE,sokólski,Suchowola,podlaskie,sokolski,suchowola,12,12,60000,60000
+POMORSKIE,bytowski,Tuchomie,pomorskie,bytowski,tuchomie,12,12,60000,60000
+WIELKOPOLSKIE,gnieźnieński,Trzemeszno,wielkopolskie,gnieznienski,trzemeszno,12,12,60000,60000
+WIELKOPOLSKIE,gostyński,Piaski,wielkopolskie,gostynski,piaski,12,12,60000,60000
+WIELKOPOLSKIE,kaliski,Brzeziny,wielkopolskie,kaliski,brzeziny,12,12,60000,60000
+WIELKOPOLSKIE,kaliski,Godziesze Wielkie,wielkopolskie,kaliski,godziesze_wielkie,12,12,60000,60000
+WIELKOPOLSKIE,kaliski,Koźminek,wielkopolskie,kaliski,kozminek,12,12,60000,60000
+WIELKOPOLSKIE,kaliski,Szczytniki,wielkopolskie,kaliski,szczytniki,12,12,60000,60000
+WIELKOPOLSKIE,koniński,Grodziec,wielkopolskie,koninski,grodziec,12,12,60000,60000
+WIELKOPOLSKIE,krotoszyński,Krotoszyn,wielkopolskie,krotoszynski,krotoszyn,12,12,60000,60000
+WIELKOPOLSKIE,leszczyński,Święciechowa,wielkopolskie,leszczynski,swieciechowa,12,12,60000,60000
+WIELKOPOLSKIE,ostrowski,Przygodzice,wielkopolskie,ostrowski,przygodzice,12,12,60000,60000
+WIELKOPOLSKIE,ostrzeszowski,Grabów nad Prosną,wielkopolskie,ostrzeszowski,grabow_nad_prosna,12,12,60000,60000
+ZACHODNIOPOMORSKIE,goleniowski,Goleniów,zachodniopomorskie,goleniowski,goleniow,12,12,60000,60000
+ZACHODNIOPOMORSKIE,wałecki,Wałcz,zachodniopomorskie,walecki,walcz,12,12,60000,60000
+ŁÓDZKIE,radomszczański,Lgota Wielka,lodzkie,radomszczanski,lgota_wielka,12,11,60000,55000
+ŁÓDZKIE,zduńskowolski,Szadek,lodzkie,zdunskowolski,szadek,12,12,60000,60000
+ŚLĄSKIE,m. Żory,Żory,slaskie,m_zory,zory,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,kielecki,Morawica,swietokrzyskie,kielecki,morawica,12,11,60000,55000
+ŚWIĘTOKRZYSKIE,opatowski,Opatów,swietokrzyskie,opatowski,opatow,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,opatowski,Ożarów,swietokrzyskie,opatowski,ozarow,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,pińczowski,Pińczów,swietokrzyskie,pinczowski,pinczow,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,sandomierski,Sandomierz,swietokrzyskie,sandomierski,sandomierz,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,włoszczowski,Krasocin,swietokrzyskie,wloszczowski,krasocin,12,12,60000,60000
+ŚWIĘTOKRZYSKIE,włoszczowski,Włoszczowa,swietokrzyskie,wloszczowski,wloszczowa,12,12,60000,60000
+DOLNOŚLĄSKIE,dzierżoniowski,Dzierżoniów,dolnoslaskie,dzierzoniowski,dzierzoniow,11,11,55000,55000
+DOLNOŚLĄSKIE,lwówecki,Mirsk,dolnoslaskie,lwowecki,mirsk,11,11,55000,55000
+DOLNOŚLĄSKIE,strzeliński,Strzelin,dolnoslaskie,strzelinski,strzelin,11,11,55000,55000
+DOLNOŚLĄSKIE,ząbkowicki,Kamieniec Ząbkowicki,dolnoslaskie,zabkowicki,kamieniec_zabkowicki,11,11,55000,55000
+KUJAWSKO-POMORSKIE,aleksandrowski,Aleksandrów Kujawski,kujawsko_pomorskie,aleksandrowski,aleksandrow_kujawski,11,11,55000,55000
+LUBELSKIE,biłgorajski,Józefów,lubelskie,bilgorajski,jozefow,11,10,55000,50000
+LUBELSKIE,krasnostawski,Izbica,lubelskie,krasnostawski,izbica,11,11,55000,55000
+LUBELSKIE,kraśnicki,Trzydnik Duży,lubelskie,krasnicki,trzydnik_duzy,11,11,55000,55000
+LUBELSKIE,lubelski,Konopnica,lubelskie,lubelski,konopnica,11,11,55000,55000
+LUBELSKIE,lubelski,Krzczonów,lubelskie,lubelski,krzczonow,11,11,55000,55000
+LUBELSKIE,lubelski,Strzyżewice,lubelskie,lubelski,strzyzewice,11,11,55000,55000
+LUBELSKIE,opolski,Poniatowa,lubelskie,opolski,poniatowa,11,11,55000,55000
+LUBELSKIE,tomaszowski,Tomaszów Lubelski,lubelskie,tomaszowski,tomaszow_lubelski,11,11,55000,55000
+LUBELSKIE,zamojski,Krasnobród,lubelskie,zamojski,krasnobrod,11,11,55000,55000
+LUBELSKIE,zamojski,Skierbieszów,lubelskie,zamojski,skierbieszow,11,11,55000,55000
+MAZOWIECKIE,Warszawa,Ursus,mazowieckie,warszawa,ursus,11,11,55000,55000
+MAZOWIECKIE,gostyniński,Gostynin,mazowieckie,gostyninski,gostynin,11,11,55000,55000
+MAZOWIECKIE,makowski,Krasnosielc,mazowieckie,makowski,krasnosielc,11,11,55000,55000
+MAZOWIECKIE,mławski,Strzegowo,mazowieckie,mlawski,strzegowo,11,11,55000,55000
+MAZOWIECKIE,otwocki,Otwock,mazowieckie,otwocki,otwock,11,8,55000,40000
+MAZOWIECKIE,przasnyski,Krzynowłoga Mała,mazowieckie,przasnyski,krzynowloga_mala,11,11,55000,55000
+MAZOWIECKIE,płocki,Bodzanów,mazowieckie,plocki,bodzanow,11,10,55000,50000
+MAZOWIECKIE,płocki,Brudzeń Duży,mazowieckie,plocki,brudzen_duzy,11,11,55000,55000
+MAZOWIECKIE,płocki,Mała Wieś,mazowieckie,plocki,mala_wies,11,10,55000,50000
+MAZOWIECKIE,sierpecki,Sierpc,mazowieckie,sierpecki,sierpc,11,11,55000,55000
+MAZOWIECKIE,sokołowski,Ceranów,mazowieckie,sokolowski,ceranow,11,11,55000,55000
+MAZOWIECKIE,warszawski zachodni,Izabelin,mazowieckie,warszawski_zachodni,izabelin,11,11,55000,55000
+MAŁOPOLSKIE,suski,Maków Podhalański,malopolskie,suski,makow_podhalanski,11,10,55000,50000
+PODKARPACKIE,jarosławski,Pruchnik,podkarpackie,jaroslawski,pruchnik,11,10,55000,50000
+PODKARPACKIE,jasielski,Dębowiec,podkarpackie,jasielski,debowiec,11,11,55000,55000
+PODKARPACKIE,krośnieński,Rymanów,podkarpackie,krosnienski,rymanow,11,11,55000,55000
+PODKARPACKIE,przemyski,Dubiecko,podkarpackie,przemyski,dubiecko,11,11,55000,55000
+PODKARPACKIE,przeworski,Kańczuga,podkarpackie,przeworski,kanczuga,11,10,55000,50000
+PODKARPACKIE,ropczycko-sędziszowski,Ostrów,podkarpackie,ropczycko_sedziszowski,ostrow,11,8,55000,40000
+PODKARPACKIE,ropczycko-sędziszowski,Wielopole Skrzyńskie,podkarpackie,ropczycko_sedziszowski,wielopole_skrzynskie,11,7,55000,35000
+PODKARPACKIE,tarnobrzeski,Nowa Dęba,podkarpackie,tarnobrzeski,nowa_deba,11,11,55000,55000
+PODLASKIE,wysokomazowiecki,Wysokie Mazowieckie,podlaskie,wysokomazowiecki,wysokie_mazowieckie,11,11,55000,55000
+POMORSKIE,człuchowski,Człuchów,pomorskie,czluchowski,czluchow,11,11,55000,55000
+POMORSKIE,kwidzyński,Kwidzyn,pomorskie,kwidzynski,kwidzyn,11,11,55000,55000
+POMORSKIE,lęborski,Nowa Wieś Lęborska,pomorskie,leborski,nowa_wies_leborska,11,11,55000,55000
+POMORSKIE,m. Słupsk,Słupsk,pomorskie,m_slupsk,slupsk,11,11,55000,55000
+POMORSKIE,malborski,Malbork,pomorskie,malborski,malbork,11,11,55000,55000
+POMORSKIE,malborski,Nowy Staw,pomorskie,malborski,nowy_staw,11,11,55000,55000
+POMORSKIE,słupski,Ustka,pomorskie,slupski,ustka,11,11,55000,55000
+POMORSKIE,wejherowski,Reda,pomorskie,wejherowski,reda,11,11,55000,55000
+WARMIŃSKO-MAZURSKIE,ełcki,Ełk,warminsko_mazurskie,elcki,elk,11,11,55000,55000
+WARMIŃSKO-MAZURSKIE,piski,Pisz,warminsko_mazurskie,piski,pisz,11,11,55000,55000
+WIELKOPOLSKIE,jarociński,Żerków,wielkopolskie,jarocinski,zerkow,11,11,55000,55000
+WIELKOPOLSKIE,kaliski,Żelazków,wielkopolskie,kaliski,zelazkow,11,11,55000,55000
+WIELKOPOLSKIE,krotoszyński,Koźmin Wielkopolski,wielkopolskie,krotoszynski,kozmin_wielkopolski,11,11,55000,55000
+WIELKOPOLSKIE,nowotomyski,Opalenica,wielkopolskie,nowotomyski,opalenica,11,11,55000,55000
+WIELKOPOLSKIE,ostrowski,Odolanów,wielkopolskie,ostrowski,odolanow,11,11,55000,55000
+WIELKOPOLSKIE,pleszewski,Pleszew,wielkopolskie,pleszewski,pleszew,11,10,55000,50000
+WIELKOPOLSKIE,poznański,Czerwonak,wielkopolskie,poznanski,czerwonak,11,10,55000,50000
+WIELKOPOLSKIE,poznański,Murowana Goślina,wielkopolskie,poznanski,murowana_goslina,11,9,55000,45000
+WIELKOPOLSKIE,rawicki,Bojanowo,wielkopolskie,rawicki,bojanowo,11,11,55000,55000
+WIELKOPOLSKIE,rawicki,Pakosław,wielkopolskie,rawicki,pakoslaw,11,11,55000,55000
+ZACHODNIOPOMORSKIE,białogardzki,Białogard,zachodniopomorskie,bialogardzki,bialogard,11,11,55000,55000
+ZACHODNIOPOMORSKIE,gryficki,Brojce,zachodniopomorskie,gryficki,brojce,11,11,55000,55000
+ZACHODNIOPOMORSKIE,gryfiński,Gryfino,zachodniopomorskie,gryfinski,gryfino,11,11,55000,55000
+ZACHODNIOPOMORSKIE,kołobrzeski,Kołobrzeg,zachodniopomorskie,kolobrzeski,kolobrzeg,11,11,55000,55000
+ZACHODNIOPOMORSKIE,myśliborski,Myślibórz,zachodniopomorskie,mysliborski,mysliborz,11,11,55000,55000
+ŁÓDZKIE,bełchatowski,Bełchatów,lodzkie,belchatowski,belchatow,11,11,55000,55000
+ŁÓDZKIE,sieradzki,Brzeźnio,lodzkie,sieradzki,brzeznio,11,11,55000,55000
+ŚLĄSKIE,bieruńsko-lędziński,Bieruń,slaskie,bierunsko_ledzinski,bierun,11,9,55000,45000
+ŚLĄSKIE,będziński,Siewierz,slaskie,bedzinski,siewierz,11,11,55000,55000
+ŚWIĘTOKRZYSKIE,buski,Pacanów,swietokrzyskie,buski,pacanow,11,11,55000,55000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Imielno,swietokrzyskie,jedrzejowski,imielno,11,11,55000,55000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Słupia,swietokrzyskie,jedrzejowski,slupia,11,11,55000,55000
+ŚWIĘTOKRZYSKIE,pińczowski,Działoszyce,swietokrzyskie,pinczowski,dzialoszyce,11,11,55000,55000
+DOLNOŚLĄSKIE,kłodzki,Bystrzyca Kłodzka,dolnoslaskie,klodzki,bystrzyca_klodzka,10,10,50000,50000
+DOLNOŚLĄSKIE,lwówecki,Lubomierz,dolnoslaskie,lwowecki,lubomierz,10,9,50000,45000
+DOLNOŚLĄSKIE,oławski,Oława,dolnoslaskie,olawski,olawa,10,10,50000,50000
+DOLNOŚLĄSKIE,świdnicki,Strzegom,dolnoslaskie,swidnicki,strzegom,10,10,50000,50000
+KUJAWSKO-POMORSKIE,bydgoski,Dobrcz,kujawsko_pomorskie,bydgoski,dobrcz,10,8,50000,40000
+KUJAWSKO-POMORSKIE,toruński,Chełmża,kujawsko_pomorskie,torunski,chelmza,10,10,50000,50000
+KUJAWSKO-POMORSKIE,tucholski,Cekcyn,kujawsko_pomorskie,tucholski,cekcyn,10,10,50000,50000
+LUBELSKIE,bialski,Biała Podlaska,lubelskie,bialski,biala_podlaska,10,9,50000,45000
+LUBELSKIE,biłgorajski,Księżpol,lubelskie,bilgorajski,ksiezpol,10,10,50000,50000
+LUBELSKIE,biłgorajski,Potok Górny,lubelskie,bilgorajski,potok_gorny,10,10,50000,50000
+LUBELSKIE,lubartowski,Ostrów Lubelski,lubelskie,lubartowski,ostrow_lubelski,10,9,50000,45000
+LUBELSKIE,lubelski,Borzechów,lubelskie,lubelski,borzechow,10,10,50000,50000
+LUBELSKIE,opolski,Łaziska,lubelskie,opolski,laziska,10,10,50000,50000
+LUBELSKIE,radzyński,Radzyń Podlaski,lubelskie,radzynski,radzyn_podlaski,10,10,50000,50000
+LUBELSKIE,tomaszowski,Tyszowce,lubelskie,tomaszowski,tyszowce,10,10,50000,50000
+LUBELSKIE,zamojski,Grabowiec,lubelskie,zamojski,grabowiec,10,10,50000,50000
+LUBELSKIE,zamojski,Miączyn,lubelskie,zamojski,miaczyn,10,10,50000,50000
+LUBELSKIE,zamojski,Sitno,lubelskie,zamojski,sitno,10,10,50000,50000
+LUBELSKIE,zamojski,Stary Zamość,lubelskie,zamojski,stary_zamosc,10,10,50000,50000
+LUBUSKIE,strzelecko-drezdenecki,Strzelce Krajeńskie,lubuskie,strzelecko_drezdenecki,strzelce_krajenskie,10,10,50000,50000
+MAZOWIECKIE,Warszawa,Rembertów,mazowieckie,warszawa,rembertow,10,9,50000,45000
+MAZOWIECKIE,Warszawa,Wilanów,mazowieckie,warszawa,wilanow,10,10,50000,50000
+MAZOWIECKIE,kozienicki,Głowaczów,mazowieckie,kozienicki,glowaczow,10,8,50000,40000
+MAZOWIECKIE,mławski,Stupsk,mazowieckie,mlawski,stupsk,10,10,50000,50000
+MAZOWIECKIE,nowodworski,Nasielsk,mazowieckie,nowodworski,nasielsk,10,10,50000,50000
+MAZOWIECKIE,ostrowski,Nur,mazowieckie,ostrowski,nur,10,10,50000,50000
+MAZOWIECKIE,otwocki,Kołbiel,mazowieckie,otwocki,kolbiel,10,5,50000,25000
+MAZOWIECKIE,przasnyski,Jednorożec,mazowieckie,przasnyski,jednorozec,10,10,50000,50000
+MAZOWIECKIE,płocki,Bielsk,mazowieckie,plocki,bielsk,10,10,50000,50000
+MAZOWIECKIE,płocki,Gąbin,mazowieckie,plocki,gabin,10,9,50000,45000
+MAZOWIECKIE,płocki,Wyszogród,mazowieckie,plocki,wyszogrod,10,9,50000,45000
+MAZOWIECKIE,płoński,Raciąż,mazowieckie,plonski,raciaz,10,10,50000,50000
+MAZOWIECKIE,siedlecki,Skórzec,mazowieckie,siedlecki,skorzec,10,9,50000,45000
+MAZOWIECKIE,sierpecki,Gozdowo,mazowieckie,sierpecki,gozdowo,10,10,50000,50000
+MAZOWIECKIE,warszawski zachodni,Błonie,mazowieckie,warszawski_zachodni,blonie,10,10,50000,50000
+MAZOWIECKIE,warszawski zachodni,Kampinos,mazowieckie,warszawski_zachodni,kampinos,10,10,50000,50000
+MAZOWIECKIE,zwoleński,Kazanów,mazowieckie,zwolenski,kazanow,10,10,50000,50000
+MAZOWIECKIE,zwoleński,Zwoleń,mazowieckie,zwolenski,zwolen,10,10,50000,50000
+MAŁOPOLSKIE,gorlicki,Uście Gorlickie,malopolskie,gorlicki,uscie_gorlickie,10,10,50000,50000
+MAŁOPOLSKIE,krakowski,Kocmyrzów-Luborzyca,malopolskie,krakowski,kocmyrzow_luborzyca,10,10,50000,50000
+MAŁOPOLSKIE,krakowski,Liszki,malopolskie,krakowski,liszki,10,10,50000,50000
+MAŁOPOLSKIE,miechowski,Książ Wielki,malopolskie,miechowski,ksiaz_wielki,10,10,50000,50000
+MAŁOPOLSKIE,olkuski,Trzyciąż,malopolskie,olkuski,trzyciaz,10,10,50000,50000
+MAŁOPOLSKIE,suski,Jordanów,malopolskie,suski,jordanow,10,8,50000,40000
+MAŁOPOLSKIE,wadowicki,Brzeźnica,malopolskie,wadowicki,brzeznica,10,7,50000,35000
+MAŁOPOLSKIE,wadowicki,Kalwaria Zebrzydowska,malopolskie,wadowicki,kalwaria_zebrzydowska,10,9,50000,45000
+MAŁOPOLSKIE,wadowicki,Wadowice,malopolskie,wadowicki,wadowice,10,8,50000,40000
+OPOLSKIE,brzeski,Grodków,opolskie,brzeski,grodkow,10,10,50000,50000
+OPOLSKIE,kędzierzyńsko-kozielski,Pawłowiczki,opolskie,kedzierzynsko_kozielski,pawlowiczki,10,10,50000,50000
+PODKARPACKIE,leski,Solina,podkarpackie,leski,solina,10,9,50000,45000
+PODKARPACKIE,m. Krosno,Krosno,podkarpackie,m_krosno,krosno,10,10,50000,50000
+PODKARPACKIE,m. Tarnobrzeg,Tarnobrzeg,podkarpackie,m_tarnobrzeg,tarnobrzeg,10,10,50000,50000
+PODKARPACKIE,rzeszowski,Dynów,podkarpackie,rzeszowski,dynow,10,10,50000,50000
+PODKARPACKIE,strzyżowski,Niebylec,podkarpackie,strzyzowski,niebylec,10,6,50000,30000
+PODKARPACKIE,tarnobrzeski,Baranów Sandomierski,podkarpackie,tarnobrzeski,baranow_sandomierski,10,10,50000,50000
+PODLASKIE,białostocki,Tykocin,podlaskie,bialostocki,tykocin,10,10,50000,50000
+PODLASKIE,białostocki,Łapy,podlaskie,bialostocki,lapy,10,9,50000,45000
+PODLASKIE,siemiatycki,Perlejewo,podlaskie,siemiatycki,perlejewo,10,10,50000,50000
+POMORSKIE,bytowski,Bytów,pomorskie,bytowski,bytow,10,10,50000,50000
+POMORSKIE,starogardzki,Skarszewy,pomorskie,starogardzki,skarszewy,10,9,50000,45000
+POMORSKIE,tczewski,Pelplin,pomorskie,tczewski,pelplin,10,10,50000,50000
+POMORSKIE,wejherowski,Rumia,pomorskie,wejherowski,rumia,10,10,50000,50000
+WARMIŃSKO-MAZURSKIE,działdowski,Działdowo,warminsko_mazurskie,dzialdowski,dzialdowo,10,10,50000,50000
+WARMIŃSKO-MAZURSKIE,mrągowski,Mrągowo,warminsko_mazurskie,mragowski,mragowo,10,10,50000,50000
+WIELKOPOLSKIE,chodzieski,Chodzież,wielkopolskie,chodzieski,chodziez,10,9,50000,45000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Czarnków,wielkopolskie,czarnkowsko_trzcianecki,czarnkow,10,10,50000,50000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Lubasz,wielkopolskie,czarnkowsko_trzcianecki,lubasz,10,10,50000,50000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Trzcianka,wielkopolskie,czarnkowsko_trzcianecki,trzcianka,10,10,50000,50000
+WIELKOPOLSKIE,grodziski,Kamieniec,wielkopolskie,grodziski,kamieniec,10,10,50000,50000
+WIELKOPOLSKIE,jarociński,Kotlin,wielkopolskie,jarocinski,kotlin,10,10,50000,50000
+WIELKOPOLSKIE,kaliski,Mycielin,wielkopolskie,kaliski,mycielin,10,10,50000,50000
+WIELKOPOLSKIE,kolski,Kłodawa,wielkopolskie,kolski,klodawa,10,10,50000,50000
+WIELKOPOLSKIE,kościański,Czempiń,wielkopolskie,koscianski,czempin,10,9,50000,45000
+WIELKOPOLSKIE,nowotomyski,Nowy Tomyśl,wielkopolskie,nowotomyski,nowy_tomysl,10,10,50000,50000
+WIELKOPOLSKIE,pilski,Ujście,wielkopolskie,pilski,ujscie,10,10,50000,50000
+WIELKOPOLSKIE,rawicki,Miejska Górka,wielkopolskie,rawicki,miejska_gorka,10,10,50000,50000
+WIELKOPOLSKIE,turecki,Turek,wielkopolskie,turecki,turek,10,10,50000,50000
+ŁÓDZKIE,m. Skierniewice,Skierniewice,lodzkie,m_skierniewice,skierniewice,10,10,50000,50000
+ŁÓDZKIE,pabianicki,Pabianice,lodzkie,pabianicki,pabianice,10,10,50000,50000
+ŁÓDZKIE,piotrkowski,Grabica,lodzkie,piotrkowski,grabica,10,10,50000,50000
+ŁÓDZKIE,rawski,Rawa Mazowiecka,lodzkie,rawski,rawa_mazowiecka,10,10,50000,50000
+ŁÓDZKIE,łódzki wschodni,Koluszki,lodzkie,lodzki_wschodni,koluszki,10,10,50000,50000
+ŚLĄSKIE,myszkowski,Niegowa,slaskie,myszkowski,niegowa,10,10,50000,50000
+ŚLĄSKIE,wodzisławski,Wodzisław Śląski,slaskie,wodzislawski,wodzislaw_slaski,10,8,50000,40000
+ŚWIĘTOKRZYSKIE,buski,Nowy Korczyn,swietokrzyskie,buski,nowy_korczyn,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Nagłowice,swietokrzyskie,jedrzejowski,naglowice,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Sędziszów,swietokrzyskie,jedrzejowski,sedziszow,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Wodzisław,swietokrzyskie,jedrzejowski,wodzislaw,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,konecki,Końskie,swietokrzyskie,konecki,konskie,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,opatowski,Tarłów,swietokrzyskie,opatowski,tarlow,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Ostrowiec Świętokrzyski,swietokrzyskie,ostrowiecki,ostrowiec_swietokrzyski,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,staszowski,Bogoria,swietokrzyskie,staszowski,bogoria,10,10,50000,50000
+ŚWIĘTOKRZYSKIE,włoszczowski,Kluczewsko,swietokrzyskie,wloszczowski,kluczewsko,10,10,50000,50000
+DOLNOŚLĄSKIE,dzierżoniowski,Bielawa,dolnoslaskie,dzierzoniowski,bielawa,9,9,45000,45000
+DOLNOŚLĄSKIE,górowski,Góra,dolnoslaskie,gorowski,gora,9,9,45000,45000
+DOLNOŚLĄSKIE,górowski,Niechlów,dolnoslaskie,gorowski,niechlow,9,9,45000,45000
+DOLNOŚLĄSKIE,strzeliński,Kondratowice,dolnoslaskie,strzelinski,kondratowice,9,9,45000,45000
+DOLNOŚLĄSKIE,świdnicki,Świdnica,dolnoslaskie,swidnicki,swidnica,9,9,45000,45000
+KUJAWSKO-POMORSKIE,bydgoski,Solec Kujawski,kujawsko_pomorskie,bydgoski,solec_kujawski,9,8,45000,40000
+KUJAWSKO-POMORSKIE,lipnowski,Lipno,kujawsko_pomorskie,lipnowski,lipno,9,9,45000,45000
+KUJAWSKO-POMORSKIE,nakielski,Mrocza,kujawsko_pomorskie,nakielski,mrocza,9,9,45000,45000
+KUJAWSKO-POMORSKIE,nakielski,Szubin,kujawsko_pomorskie,nakielski,szubin,9,9,45000,45000
+KUJAWSKO-POMORSKIE,radziejowski,Piotrków Kujawski,kujawsko_pomorskie,radziejowski,piotrkow_kujawski,9,9,45000,45000
+KUJAWSKO-POMORSKIE,sępoleński,Sośno,kujawsko_pomorskie,sepolenski,sosno,9,9,45000,45000
+KUJAWSKO-POMORSKIE,sępoleński,Sępólno Krajeńskie,kujawsko_pomorskie,sepolenski,sepolno_krajenskie,9,9,45000,45000
+KUJAWSKO-POMORSKIE,toruński,Zławieś Wielka,kujawsko_pomorskie,torunski,zlawies_wielka,9,9,45000,45000
+KUJAWSKO-POMORSKIE,wąbrzeski,Płużnica,kujawsko_pomorskie,wabrzeski,pluznica,9,9,45000,45000
+KUJAWSKO-POMORSKIE,świecki,Jeżewo,kujawsko_pomorskie,swiecki,jezewo,9,9,45000,45000
+LUBELSKIE,chełmski,Sawin,lubelskie,chelmski,sawin,9,9,45000,45000
+LUBELSKIE,hrubieszowski,Dołhobyczów,lubelskie,hrubieszowski,dolhobyczow,9,9,45000,45000
+LUBELSKIE,hrubieszowski,Werbkowice,lubelskie,hrubieszowski,werbkowice,9,9,45000,45000
+LUBELSKIE,janowski,Dzwola,lubelskie,janowski,dzwola,9,9,45000,45000
+LUBELSKIE,kraśnicki,Annopol,lubelskie,krasnicki,annopol,9,9,45000,45000
+LUBELSKIE,kraśnicki,Szastarka,lubelskie,krasnicki,szastarka,9,9,45000,45000
+LUBELSKIE,kraśnicki,Zakrzówek,lubelskie,krasnicki,zakrzowek,9,9,45000,45000
+LUBELSKIE,lubartowski,Abramów,lubelskie,lubartowski,abramow,9,9,45000,45000
+LUBELSKIE,lubartowski,Jeziorzany,lubelskie,lubartowski,jeziorzany,9,9,45000,45000
+LUBELSKIE,lubartowski,Niedźwiada,lubelskie,lubartowski,niedzwiada,9,9,45000,45000
+LUBELSKIE,lubartowski,Ostrówek,lubelskie,lubartowski,ostrowek,9,9,45000,45000
+LUBELSKIE,lubelski,Niemce,lubelskie,lubelski,niemce,9,9,45000,45000
+LUBELSKIE,m. Biała Podlaska,Biała Podlaska,lubelskie,m_biala_podlaska,biala_podlaska,9,8,45000,40000
+LUBELSKIE,opolski,Józefów nad Wisłą,lubelskie,opolski,jozefow_nad_wisla,9,9,45000,45000
+LUBELSKIE,opolski,Karczmiska,lubelskie,opolski,karczmiska,9,9,45000,45000
+LUBELSKIE,puławski,Żyrzyn,lubelskie,pulawski,zyrzyn,9,9,45000,45000
+LUBELSKIE,radzyński,Borki,lubelskie,radzynski,borki,9,9,45000,45000
+LUBELSKIE,tomaszowski,Ulhówek,lubelskie,tomaszowski,ulhowek,9,9,45000,45000
+LUBELSKIE,zamojski,Adamów,lubelskie,zamojski,adamow,9,9,45000,45000
+LUBELSKIE,łęczyński,Łęczna,lubelskie,leczynski,leczna,9,9,45000,45000
+LUBELSKIE,świdnicki,Świdnik,lubelskie,swidnicki,swidnik,9,9,45000,45000
+LUBUSKIE,krośnieński,Krosno Odrzańskie,lubuskie,krosnienski,krosno_odrzanskie,9,9,45000,45000
+LUBUSKIE,żagański,Żagań,lubuskie,zaganski,zagan,9,9,45000,45000
+MAZOWIECKIE,Warszawa,Włochy,mazowieckie,warszawa,wlochy,9,9,45000,45000
+MAZOWIECKIE,białobrzeski,Promna,mazowieckie,bialobrzeski,promna,9,9,45000,45000
+MAZOWIECKIE,lipski,Rzeczniów,mazowieckie,lipski,rzeczniow,9,9,45000,45000
+MAZOWIECKIE,ostrołęcki,Kadzidło,mazowieckie,ostrolecki,kadzidlo,9,7,45000,35000
+MAZOWIECKIE,ostrołęcki,Troszyn,mazowieckie,ostrolecki,troszyn,9,9,45000,45000
+MAZOWIECKIE,piaseczyński,Konstancin-Jeziorna,mazowieckie,piaseczynski,konstancin_jeziorna,9,7,45000,35000
+MAZOWIECKIE,piaseczyński,Piaseczno,mazowieckie,piaseczynski,piaseczno,9,5,45000,25000
+MAZOWIECKIE,płocki,Bulkowo,mazowieckie,plocki,bulkowo,9,9,45000,45000
+MAZOWIECKIE,płocki,Drobin,mazowieckie,plocki,drobin,9,8,45000,40000
+MAZOWIECKIE,płoński,Naruszewo,mazowieckie,plonski,naruszewo,9,9,45000,45000
+MAZOWIECKIE,siedlecki,Kotuń,mazowieckie,siedlecki,kotun,9,8,45000,40000
+MAZOWIECKIE,siedlecki,Zbuczyn,mazowieckie,siedlecki,zbuczyn,9,8,45000,40000
+MAZOWIECKIE,sokołowski,Sabnie,mazowieckie,sokolowski,sabnie,9,8,45000,40000
+MAZOWIECKIE,warszawski zachodni,Ożarów Mazowiecki,mazowieckie,warszawski_zachodni,ozarow_mazowiecki,9,9,45000,45000
+MAZOWIECKIE,zwoleński,Przyłęk,mazowieckie,zwolenski,przylek,9,9,45000,45000
+MAZOWIECKIE,łosicki,Olszanka,mazowieckie,losicki,olszanka,9,9,45000,45000
+MAZOWIECKIE,żyrardowski,Wiskitki,mazowieckie,zyrardowski,wiskitki,9,9,45000,45000
+MAŁOPOLSKIE,bocheński,Drwinia,malopolskie,bochenski,drwinia,9,9,45000,45000
+MAŁOPOLSKIE,krakowski,Igołomia-Wawrzeńczyce,malopolskie,krakowski,igolomia_wawrzenczyce,9,9,45000,45000
+MAŁOPOLSKIE,krakowski,Zielonki,malopolskie,krakowski,zielonki,9,9,45000,45000
+MAŁOPOLSKIE,miechowski,Charsznica,malopolskie,miechowski,charsznica,9,9,45000,45000
+MAŁOPOLSKIE,nowotarski,Łapsze Niżne,malopolskie,nowotarski,lapsze_nizne,9,9,45000,45000
+MAŁOPOLSKIE,proszowicki,Radziemice,malopolskie,proszowicki,radziemice,9,9,45000,45000
+MAŁOPOLSKIE,suski,Stryszawa,malopolskie,suski,stryszawa,9,7,45000,35000
+MAŁOPOLSKIE,tarnowski,Lisia Góra,malopolskie,tarnowski,lisia_gora,9,9,45000,45000
+OPOLSKIE,głubczycki,Branice,opolskie,glubczycki,branice,9,9,45000,45000
+OPOLSKIE,kędzierzyńsko-kozielski,Bierawa,opolskie,kedzierzynsko_kozielski,bierawa,9,9,45000,45000
+OPOLSKIE,kędzierzyńsko-kozielski,Cisek,opolskie,kedzierzynsko_kozielski,cisek,9,9,45000,45000
+OPOLSKIE,nyski,Otmuchów,opolskie,nyski,otmuchow,9,9,45000,45000
+OPOLSKIE,prudnicki,Głogówek,opolskie,prudnicki,glogowek,9,9,45000,45000
+OPOLSKIE,prudnicki,Lubrza,opolskie,prudnicki,lubrza,9,9,45000,45000
+PODKARPACKIE,jarosławski,Wiązownica,podkarpackie,jaroslawski,wiazownica,9,9,45000,45000
+PODKARPACKIE,krośnieński,Dukla,podkarpackie,krosnienski,dukla,9,9,45000,45000
+PODKARPACKIE,niżański,Harasiuki,podkarpackie,nizanski,harasiuki,9,9,45000,45000
+PODKARPACKIE,niżański,Krzeszów,podkarpackie,nizanski,krzeszow,9,9,45000,45000
+PODKARPACKIE,niżański,Ulanów,podkarpackie,nizanski,ulanow,9,9,45000,45000
+PODKARPACKIE,przeworski,Sieniawa,podkarpackie,przeworski,sieniawa,9,9,45000,45000
+PODKARPACKIE,przeworski,Zarzecze,podkarpackie,przeworski,zarzecze,9,9,45000,45000
+PODKARPACKIE,ropczycko-sędziszowski,Iwierzyce,podkarpackie,ropczycko_sedziszowski,iwierzyce,9,6,45000,30000
+PODLASKIE,augustowski,Sztabin,podlaskie,augustowski,sztabin,9,9,45000,45000
+PODLASKIE,grajewski,Szczuczyn,podlaskie,grajewski,szczuczyn,9,9,45000,45000
+PODLASKIE,sokólski,Dąbrowa Białostocka,podlaskie,sokolski,dabrowa_bialostocka,9,9,45000,45000
+PODLASKIE,sokólski,Sokółka,podlaskie,sokolski,sokolka,9,9,45000,45000
+PODLASKIE,wysokomazowiecki,Nowe Piekuty,podlaskie,wysokomazowiecki,nowe_piekuty,9,9,45000,45000
+PODLASKIE,wysokomazowiecki,Szepietowo,podlaskie,wysokomazowiecki,szepietowo,9,9,45000,45000
+PODLASKIE,zambrowski,Szumowo,podlaskie,zambrowski,szumowo,9,9,45000,45000
+POMORSKIE,bytowski,Miastko,pomorskie,bytowski,miastko,9,9,45000,45000
+POMORSKIE,słupski,Dębnica Kaszubska,pomorskie,slupski,debnica_kaszubska,9,9,45000,45000
+POMORSKIE,słupski,Kępice,pomorskie,slupski,kepice,9,9,45000,45000
+WARMIŃSKO-MAZURSKIE,braniewski,Braniewo,warminsko_mazurskie,braniewski,braniewo,9,9,45000,45000
+WARMIŃSKO-MAZURSKIE,działdowski,Lidzbark,warminsko_mazurskie,dzialdowski,lidzbark,9,9,45000,45000
+WARMIŃSKO-MAZURSKIE,elbląski,Młynary,warminsko_mazurskie,elblaski,mlynary,9,8,45000,40000
+WARMIŃSKO-MAZURSKIE,piski,Orzysz,warminsko_mazurskie,piski,orzysz,9,8,45000,40000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Połajewo,wielkopolskie,czarnkowsko_trzcianecki,polajewo,9,9,45000,45000
+WIELKOPOLSKIE,gostyński,Pogorzela,wielkopolskie,gostynski,pogorzela,9,9,45000,45000
+WIELKOPOLSKIE,kolski,Kościelec,wielkopolskie,kolski,koscielec,9,9,45000,45000
+WIELKOPOLSKIE,koniński,Rychwał,wielkopolskie,koninski,rychwal,9,9,45000,45000
+WIELKOPOLSKIE,koniński,Skulsk,wielkopolskie,koninski,skulsk,9,9,45000,45000
+WIELKOPOLSKIE,koniński,Sompolno,wielkopolskie,koninski,sompolno,9,9,45000,45000
+WIELKOPOLSKIE,koniński,Stare Miasto,wielkopolskie,koninski,stare_miasto,9,9,45000,45000
+WIELKOPOLSKIE,koniński,Ślesin,wielkopolskie,koninski,slesin,9,8,45000,40000
+WIELKOPOLSKIE,krotoszyński,Rozdrażew,wielkopolskie,krotoszynski,rozdrazew,9,9,45000,45000
+WIELKOPOLSKIE,leszczyński,Krzemieniewo,wielkopolskie,leszczynski,krzemieniewo,9,9,45000,45000
+WIELKOPOLSKIE,nowotomyski,Lwówek,wielkopolskie,nowotomyski,lwowek,9,9,45000,45000
+WIELKOPOLSKIE,obornicki,Ryczywół,wielkopolskie,obornicki,ryczywol,9,9,45000,45000
+WIELKOPOLSKIE,pleszewski,Czermin,wielkopolskie,pleszewski,czermin,9,7,45000,35000
+WIELKOPOLSKIE,pleszewski,Dobrzyca,wielkopolskie,pleszewski,dobrzyca,9,8,45000,40000
+WIELKOPOLSKIE,poznański,Komorniki,wielkopolskie,poznanski,komorniki,9,9,45000,45000
+WIELKOPOLSKIE,turecki,Tuliszków,wielkopolskie,turecki,tuliszkow,9,9,45000,45000
+WIELKOPOLSKIE,średzki,Krzykosy,wielkopolskie,sredzki,krzykosy,9,9,45000,45000
+ZACHODNIOPOMORSKIE,goleniowski,Osina,zachodniopomorskie,goleniowski,osina,9,9,45000,45000
+ZACHODNIOPOMORSKIE,gryficki,Trzebiatów,zachodniopomorskie,gryficki,trzebiatow,9,9,45000,45000
+ŁÓDZKIE,kutnowski,Bedlno,lodzkie,kutnowski,bedlno,9,9,45000,45000
+ŁÓDZKIE,piotrkowski,Rozprza,lodzkie,piotrkowski,rozprza,9,9,45000,45000
+ŁÓDZKIE,poddębicki,Dalików,lodzkie,poddebicki,dalikow,9,9,45000,45000
+ŁÓDZKIE,rawski,Biała Rawska,lodzkie,rawski,biala_rawska,9,9,45000,45000
+ŁÓDZKIE,sieradzki,Wróblew,lodzkie,sieradzki,wroblew,9,9,45000,45000
+ŚLĄSKIE,gliwicki,Rudziniec,slaskie,gliwicki,rudziniec,9,9,45000,45000
+ŚLĄSKIE,kłobucki,Panki,slaskie,klobucki,panki,9,9,45000,45000
+ŚLĄSKIE,lubliniecki,Woźniki,slaskie,lubliniecki,wozniki,9,8,45000,40000
+ŚLĄSKIE,m. Świętochłowice,Świętochłowice,slaskie,m_swietochlowice,swietochlowice,9,9,45000,45000
+ŚLĄSKIE,mikołowski,Orzesze,slaskie,mikolowski,orzesze,9,9,45000,45000
+ŚLĄSKIE,zawierciański,Ogrodzieniec,slaskie,zawiercianski,ogrodzieniec,9,9,45000,45000
+ŚWIĘTOKRZYSKIE,kielecki,Chęciny,swietokrzyskie,kielecki,checiny,9,9,45000,45000
+ŚWIĘTOKRZYSKIE,opatowski,Wojciechowice,swietokrzyskie,opatowski,wojciechowice,9,9,45000,45000
+ŚWIĘTOKRZYSKIE,włoszczowski,Secemin,swietokrzyskie,wloszczowski,secemin,9,9,45000,45000
+DOLNOŚLĄSKIE,jaworski,Bolków,dolnoslaskie,jaworski,bolkow,8,8,40000,40000
+DOLNOŚLĄSKIE,jaworski,Jawor,dolnoslaskie,jaworski,jawor,8,8,40000,40000
+DOLNOŚLĄSKIE,m. Wałbrzych,Wałbrzych,dolnoslaskie,m_walbrzych,walbrzych,8,8,40000,40000
+DOLNOŚLĄSKIE,trzebnicki,Żmigród,dolnoslaskie,trzebnicki,zmigrod,8,8,40000,40000
+KUJAWSKO-POMORSKIE,bydgoski,Białe Błota,kujawsko_pomorskie,bydgoski,biale_blota,8,8,40000,40000
+KUJAWSKO-POMORSKIE,chełmiński,Lisewo,kujawsko_pomorskie,chelminski,lisewo,8,8,40000,40000
+KUJAWSKO-POMORSKIE,golubsko-dobrzyński,Golub-Dobrzyń,kujawsko_pomorskie,golubsko_dobrzynski,golub_dobrzyn,8,8,40000,40000
+KUJAWSKO-POMORSKIE,rypiński,Rypin,kujawsko_pomorskie,rypinski,rypin,8,8,40000,40000
+KUJAWSKO-POMORSKIE,toruński,Lubicz,kujawsko_pomorskie,torunski,lubicz,8,8,40000,40000
+KUJAWSKO-POMORSKIE,tucholski,Lubiewo,kujawsko_pomorskie,tucholski,lubiewo,8,8,40000,40000
+KUJAWSKO-POMORSKIE,wąbrzeski,Dębowa Łąka,kujawsko_pomorskie,wabrzeski,debowa_laka,8,8,40000,40000
+KUJAWSKO-POMORSKIE,włocławski,Izbica Kujawska,kujawsko_pomorskie,wloclawski,izbica_kujawska,8,8,40000,40000
+KUJAWSKO-POMORSKIE,włocławski,Lubraniec,kujawsko_pomorskie,wloclawski,lubraniec,8,8,40000,40000
+LUBELSKIE,bialski,Sosnówka,lubelskie,bialski,sosnowka,8,8,40000,40000
+LUBELSKIE,bialski,Tuczna,lubelskie,bialski,tuczna,8,8,40000,40000
+LUBELSKIE,biłgorajski,Goraj,lubelskie,bilgorajski,goraj,8,7,40000,35000
+LUBELSKIE,chełmski,Białopole,lubelskie,chelmski,bialopole,8,8,40000,40000
+LUBELSKIE,chełmski,Wojsławice,lubelskie,chelmski,wojslawice,8,8,40000,40000
+LUBELSKIE,hrubieszowski,Mircze,lubelskie,hrubieszowski,mircze,8,8,40000,40000
+LUBELSKIE,lubartowski,Firlej,lubelskie,lubartowski,firlej,8,8,40000,40000
+LUBELSKIE,lubartowski,Kamionka,lubelskie,lubartowski,kamionka,8,8,40000,40000
+LUBELSKIE,lubartowski,Michów,lubelskie,lubartowski,michow,8,8,40000,40000
+LUBELSKIE,lubartowski,Uścimów,lubelskie,lubartowski,uscimow,8,8,40000,40000
+LUBELSKIE,lubelski,Niedrzwica Duża,lubelskie,lubelski,niedrzwica_duza,8,8,40000,40000
+LUBELSKIE,parczewski,Milanów,lubelskie,parczewski,milanow,8,8,40000,40000
+LUBELSKIE,tomaszowski,Telatyn,lubelskie,tomaszowski,telatyn,8,8,40000,40000
+LUBELSKIE,włodawski,Włodawa,lubelskie,wlodawski,wlodawa,8,8,40000,40000
+LUBELSKIE,zamojski,Szczebrzeszyn,lubelskie,zamojski,szczebrzeszyn,8,8,40000,40000
+LUBELSKIE,zamojski,Zwierzyniec,lubelskie,zamojski,zwierzyniec,8,8,40000,40000
+LUBELSKIE,łukowski,Krzywda,lubelskie,lukowski,krzywda,8,8,40000,40000
+LUBELSKIE,świdnicki,Rybczewice,lubelskie,swidnicki,rybczewice,8,8,40000,40000
+MAZOWIECKIE,garwoliński,Miastków Kościelny,mazowieckie,garwolinski,miastkow_koscielny,8,8,40000,40000
+MAZOWIECKIE,garwoliński,Żelechów,mazowieckie,garwolinski,zelechow,8,8,40000,40000
+MAZOWIECKIE,lipski,Solec nad Wisłą,mazowieckie,lipski,solec_nad_wisla,8,8,40000,40000
+MAZOWIECKIE,ostrowski,Andrzejewo,mazowieckie,ostrowski,andrzejewo,8,8,40000,40000
+MAZOWIECKIE,otwocki,Sobienie-Jeziory,mazowieckie,otwocki,sobienie_jeziory,8,7,40000,35000
+MAZOWIECKIE,pułtuski,Obryte,mazowieckie,pultuski,obryte,8,8,40000,40000
+MAZOWIECKIE,pułtuski,Pokrzywnica,mazowieckie,pultuski,pokrzywnica,8,8,40000,40000
+MAZOWIECKIE,płocki,Radzanowo,mazowieckie,plocki,radzanowo,8,7,40000,35000
+MAZOWIECKIE,płocki,Słupno,mazowieckie,plocki,slupno,8,7,40000,35000
+MAZOWIECKIE,płoński,Sochocin,mazowieckie,plonski,sochocin,8,8,40000,40000
+MAZOWIECKIE,siedlecki,Mordy,mazowieckie,siedlecki,mordy,8,8,40000,40000
+MAZOWIECKIE,siedlecki,Wiśniew,mazowieckie,siedlecki,wisniew,8,7,40000,35000
+MAZOWIECKIE,siedlecki,Wodynie,mazowieckie,siedlecki,wodynie,8,6,40000,30000
+MAZOWIECKIE,sierpecki,Mochowo,mazowieckie,sierpecki,mochowo,8,6,40000,30000
+MAZOWIECKIE,sochaczewski,Brochów,mazowieckie,sochaczewski,brochow,8,8,40000,40000
+MAZOWIECKIE,sochaczewski,Teresin,mazowieckie,sochaczewski,teresin,8,8,40000,40000
+MAZOWIECKIE,warszawski zachodni,Leszno,mazowieckie,warszawski_zachodni,leszno,8,8,40000,40000
+MAZOWIECKIE,warszawski zachodni,Stare Babice,mazowieckie,warszawski_zachodni,stare_babice,8,7,40000,35000
+MAZOWIECKIE,warszawski zachodni,Łomianki,mazowieckie,warszawski_zachodni,lomianki,8,8,40000,40000
+MAZOWIECKIE,zwoleński,Policzna,mazowieckie,zwolenski,policzna,8,8,40000,40000
+MAZOWIECKIE,łosicki,Sarnaki,mazowieckie,losicki,sarnaki,8,8,40000,40000
+MAZOWIECKIE,żuromiński,Żuromin,mazowieckie,zurominski,zuromin,8,8,40000,40000
+MAZOWIECKIE,żyrardowski,Żyrardów,mazowieckie,zyrardowski,zyrardow,8,8,40000,40000
+MAŁOPOLSKIE,krakowski,Jerzmanowice-Przeginia,malopolskie,krakowski,jerzmanowice_przeginia,8,7,40000,35000
+MAŁOPOLSKIE,limanowski,Limanowa,malopolskie,limanowski,limanowa,8,8,40000,40000
+MAŁOPOLSKIE,m. Tarnów,Tarnów,malopolskie,m_tarnow,tarnow,8,8,40000,40000
+MAŁOPOLSKIE,miechowski,Słaboszów,malopolskie,miechowski,slaboszow,8,8,40000,40000
+MAŁOPOLSKIE,myślenicki,Raciechowice,malopolskie,myslenicki,raciechowice,8,8,40000,40000
+MAŁOPOLSKIE,nowosądecki,Podegrodzie,malopolskie,nowosadecki,podegrodzie,8,8,40000,40000
+MAŁOPOLSKIE,oświęcimski,Kęty,malopolskie,oswiecimski,kety,8,8,40000,40000
+MAŁOPOLSKIE,tarnowski,Tuchów,malopolskie,tarnowski,tuchow,8,8,40000,40000
+MAŁOPOLSKIE,tarnowski,Wietrzychowice,malopolskie,tarnowski,wietrzychowice,8,8,40000,40000
+MAŁOPOLSKIE,tarnowski,Zakliczyn,malopolskie,tarnowski,zakliczyn,8,8,40000,40000
+OPOLSKIE,głubczycki,Kietrz,opolskie,glubczycki,kietrz,8,8,40000,40000
+OPOLSKIE,kluczborski,Wołczyn,opolskie,kluczborski,wolczyn,8,8,40000,40000
+OPOLSKIE,opolski,Ozimek,opolskie,opolski,ozimek,8,6,40000,30000
+PODKARPACKIE,brzozowski,Nozdrzec,podkarpackie,brzozowski,nozdrzec,8,8,40000,40000
+PODKARPACKIE,jarosławski,Laszki,podkarpackie,jaroslawski,laszki,8,7,40000,35000
+PODKARPACKIE,jasielski,Osiek Jasielski,podkarpackie,jasielski,osiek_jasielski,8,8,40000,40000
+PODKARPACKIE,kolbuszowski,Kolbuszowa,podkarpackie,kolbuszowski,kolbuszowa,8,8,40000,40000
+PODKARPACKIE,krośnieński,Wojaszówka,podkarpackie,krosnienski,wojaszowka,8,8,40000,40000
+PODKARPACKIE,leski,Olszanica,podkarpackie,leski,olszanica,8,6,40000,30000
+PODKARPACKIE,niżański,Jeżowe,podkarpackie,nizanski,jezowe,8,8,40000,40000
+PODKARPACKIE,tarnobrzeski,Grębów,podkarpackie,tarnobrzeski,grebow,8,8,40000,40000
+PODLASKIE,kolneński,Kolno,podlaskie,kolnenski,kolno,8,7,40000,35000
+PODLASKIE,moniecki,Mońki,podlaskie,moniecki,monki,8,8,40000,40000
+PODLASKIE,siemiatycki,Drohiczyn,podlaskie,siemiatycki,drohiczyn,8,8,40000,40000
+PODLASKIE,wysokomazowiecki,Ciechanowiec,podlaskie,wysokomazowiecki,ciechanowiec,8,8,40000,40000
+POMORSKIE,bytowski,Lipnica,pomorskie,bytowski,lipnica,8,8,40000,40000
+POMORSKIE,kościerski,Stara Kiszewa,pomorskie,koscierski,stara_kiszewa,8,8,40000,40000
+POMORSKIE,kwidzyński,Prabuty,pomorskie,kwidzynski,prabuty,8,8,40000,40000
+POMORSKIE,lęborski,Lębork,pomorskie,leborski,lebork,8,8,40000,40000
+POMORSKIE,pucki,Krokowa,pomorskie,pucki,krokowa,8,8,40000,40000
+WARMIŃSKO-MAZURSKIE,działdowski,Rybno,warminsko_mazurskie,dzialdowski,rybno,8,8,40000,40000
+WARMIŃSKO-MAZURSKIE,nidzicki,Nidzica,warminsko_mazurskie,nidzicki,nidzica,8,8,40000,40000
+WARMIŃSKO-MAZURSKIE,węgorzewski,Węgorzewo,warminsko_mazurskie,wegorzewski,wegorzewo,8,8,40000,40000
+WIELKOPOLSKIE,leszczyński,Lipno,wielkopolskie,leszczynski,lipno,8,8,40000,40000
+WIELKOPOLSKIE,leszczyński,Osieczna,wielkopolskie,leszczynski,osieczna,8,8,40000,40000
+WIELKOPOLSKIE,międzychodzki,Sieraków,wielkopolskie,miedzychodzki,sierakow,8,8,40000,40000
+WIELKOPOLSKIE,nowotomyski,Kuślin,wielkopolskie,nowotomyski,kuslin,8,8,40000,40000
+WIELKOPOLSKIE,ostrowski,Sośnie,wielkopolskie,ostrowski,sosnie,8,8,40000,40000
+WIELKOPOLSKIE,ostrzeszowski,Kobyla Góra,wielkopolskie,ostrzeszowski,kobyla_gora,8,8,40000,40000
+WIELKOPOLSKIE,ostrzeszowski,Ostrzeszów,wielkopolskie,ostrzeszowski,ostrzeszow,8,8,40000,40000
+WIELKOPOLSKIE,pleszewski,Gizałki,wielkopolskie,pleszewski,gizalki,8,7,40000,35000
+WIELKOPOLSKIE,pleszewski,Gołuchów,wielkopolskie,pleszewski,goluchow,8,8,40000,40000
+WIELKOPOLSKIE,poznański,Pobiedziska,wielkopolskie,poznanski,pobiedziska,8,8,40000,40000
+WIELKOPOLSKIE,słupecki,Lądek,wielkopolskie,slupecki,ladek,8,8,40000,40000
+WIELKOPOLSKIE,słupecki,Strzałkowo,wielkopolskie,slupecki,strzalkowo,8,8,40000,40000
+WIELKOPOLSKIE,średzki,Środa Wielkopolska,wielkopolskie,sredzki,sroda_wielkopolska,8,8,40000,40000
+ZACHODNIOPOMORSKIE,koszaliński,Bobolice,zachodniopomorskie,koszalinski,bobolice,8,8,40000,40000
+ZACHODNIOPOMORSKIE,policki,Kołbaskowo,zachodniopomorskie,policki,kolbaskowo,8,8,40000,40000
+ŁÓDZKIE,pabianicki,Lutomiersk,lodzkie,pabianicki,lutomiersk,8,8,40000,40000
+ŁÓDZKIE,poddębicki,Pęczniew,lodzkie,poddebicki,peczniew,8,8,40000,40000
+ŁÓDZKIE,poddębicki,Wartkowice,lodzkie,poddebicki,wartkowice,8,8,40000,40000
+ŁÓDZKIE,poddębicki,Zadzim,lodzkie,poddebicki,zadzim,8,8,40000,40000
+ŁÓDZKIE,radomszczański,Wielgomłyny,lodzkie,radomszczanski,wielgomlyny,8,8,40000,40000
+ŁÓDZKIE,sieradzki,Goszczanów,lodzkie,sieradzki,goszczanow,8,8,40000,40000
+ŁÓDZKIE,skierniewicki,Głuchów,lodzkie,skierniewicki,gluchow,8,8,40000,40000
+ŁÓDZKIE,wieluński,Pątnów,lodzkie,wielunski,patnow,8,8,40000,40000
+ŁÓDZKIE,wieluński,Wieluń,lodzkie,wielunski,wielun,8,7,40000,35000
+ŚLĄSKIE,częstochowski,Koniecpol,slaskie,czestochowski,koniecpol,8,8,40000,40000
+ŚLĄSKIE,kłobucki,Lipie,slaskie,klobucki,lipie,8,8,40000,40000
+ŚLĄSKIE,m. Siemianowice Śląskie,Siemianowice Śląskie,slaskie,m_siemianowice_slaskie,siemianowice_slaskie,8,8,40000,40000
+ŚLĄSKIE,myszkowski,Myszków,slaskie,myszkowski,myszkow,8,8,40000,40000
+ŚLĄSKIE,wodzisławski,Gorzyce,slaskie,wodzislawski,gorzyce,8,6,40000,30000
+ŚLĄSKIE,wodzisławski,Lubomia,slaskie,wodzislawski,lubomia,8,5,40000,25000
+ŚWIĘTOKRZYSKIE,buski,Tuczępy,swietokrzyskie,buski,tuczepy,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,buski,Wiślica,swietokrzyskie,buski,wislica,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Sobków,swietokrzyskie,jedrzejowski,sobkow,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,kazimierski,Bejsce,swietokrzyskie,kazimierski,bejsce,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,kielecki,Daleszyce,swietokrzyskie,kielecki,daleszyce,8,7,40000,35000
+ŚWIĘTOKRZYSKIE,opatowski,Iwaniska,swietokrzyskie,opatowski,iwaniska,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Kunów,swietokrzyskie,ostrowiecki,kunow,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Ćmielów,swietokrzyskie,ostrowiecki,cmielow,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,pińczowski,Michałów,swietokrzyskie,pinczowski,michalow,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,pińczowski,Złota,swietokrzyskie,pinczowski,zlota,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,sandomierski,Wilczyce,swietokrzyskie,sandomierski,wilczyce,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,sandomierski,Zawichost,swietokrzyskie,sandomierski,zawichost,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,staszowski,Szydłów,swietokrzyskie,staszowski,szydlow,8,8,40000,40000
+ŚWIĘTOKRZYSKIE,włoszczowski,Moskorzew,swietokrzyskie,wloszczowski,moskorzew,8,8,40000,40000
+DOLNOŚLĄSKIE,karkonoski,Piechowice,dolnoslaskie,karkonoski,piechowice,7,7,35000,35000
+DOLNOŚLĄSKIE,legnicki,Chojnów,dolnoslaskie,legnicki,chojnow,7,7,35000,35000
+DOLNOŚLĄSKIE,lubański,Leśna,dolnoslaskie,lubanski,lesna,7,6,35000,30000
+DOLNOŚLĄSKIE,milicki,Milicz,dolnoslaskie,milicki,milicz,7,7,35000,35000
+DOLNOŚLĄSKIE,oleśnicki,Dziadowa Kłoda,dolnoslaskie,olesnicki,dziadowa_kloda,7,7,35000,35000
+DOLNOŚLĄSKIE,strzeliński,Przeworno,dolnoslaskie,strzelinski,przeworno,7,7,35000,35000
+DOLNOŚLĄSKIE,wrocławski,Długołęka,dolnoslaskie,wroclawski,dlugoleka,7,3,35000,15000
+DOLNOŚLĄSKIE,zgorzelecki,Sulików,dolnoslaskie,zgorzelecki,sulikow,7,7,35000,35000
+DOLNOŚLĄSKIE,ząbkowicki,Stoszowice,dolnoslaskie,zabkowicki,stoszowice,7,7,35000,35000
+DOLNOŚLĄSKIE,złotoryjski,Świerzawa,dolnoslaskie,zlotoryjski,swierzawa,7,7,35000,35000
+DOLNOŚLĄSKIE,średzki,Udanin,dolnoslaskie,sredzki,udanin,7,7,35000,35000
+DOLNOŚLĄSKIE,świdnicki,Żarów,dolnoslaskie,swidnicki,zarow,7,7,35000,35000
+KUJAWSKO-POMORSKIE,brodnicki,Bobrowo,kujawsko_pomorskie,brodnicki,bobrowo,7,7,35000,35000
+KUJAWSKO-POMORSKIE,nakielski,Nakło nad Notecią,kujawsko_pomorskie,nakielski,naklo_nad_notecia,7,7,35000,35000
+KUJAWSKO-POMORSKIE,rypiński,Rogowo,kujawsko_pomorskie,rypinski,rogowo,7,7,35000,35000
+KUJAWSKO-POMORSKIE,toruński,Czernikowo,kujawsko_pomorskie,torunski,czernikowo,7,6,35000,30000
+KUJAWSKO-POMORSKIE,toruński,Łubianka,kujawsko_pomorskie,torunski,lubianka,7,7,35000,35000
+KUJAWSKO-POMORSKIE,tucholski,Gostycyn,kujawsko_pomorskie,tucholski,gostycyn,7,7,35000,35000
+KUJAWSKO-POMORSKIE,tucholski,Tuchola,kujawsko_pomorskie,tucholski,tuchola,7,7,35000,35000
+KUJAWSKO-POMORSKIE,włocławski,Chodecz,kujawsko_pomorskie,wloclawski,chodecz,7,7,35000,35000
+LUBELSKIE,bialski,Piszczac,lubelskie,bialski,piszczac,7,7,35000,35000
+LUBELSKIE,bialski,Rokitno,lubelskie,bialski,rokitno,7,7,35000,35000
+LUBELSKIE,bialski,Terespol,lubelskie,bialski,terespol,7,7,35000,35000
+LUBELSKIE,bialski,Zalesie,lubelskie,bialski,zalesie,7,6,35000,30000
+LUBELSKIE,bialski,Łomazy,lubelskie,bialski,lomazy,7,7,35000,35000
+LUBELSKIE,chełmski,Chełm,lubelskie,chelmski,chelm,7,7,35000,35000
+LUBELSKIE,hrubieszowski,Trzeszczany,lubelskie,hrubieszowski,trzeszczany,7,7,35000,35000
+LUBELSKIE,hrubieszowski,Uchanie,lubelskie,hrubieszowski,uchanie,7,7,35000,35000
+LUBELSKIE,janowski,Batorz,lubelskie,janowski,batorz,7,7,35000,35000
+LUBELSKIE,krasnostawski,Kraśniczyn,lubelskie,krasnostawski,krasniczyn,7,7,35000,35000
+LUBELSKIE,krasnostawski,Łopiennik Górny,lubelskie,krasnostawski,lopiennik_gorny,7,7,35000,35000
+LUBELSKIE,kraśnicki,Kraśnik,lubelskie,krasnicki,krasnik,7,7,35000,35000
+LUBELSKIE,kraśnicki,Urzędów,lubelskie,krasnicki,urzedow,7,7,35000,35000
+LUBELSKIE,lubelski,Jastków,lubelskie,lubelski,jastkow,7,7,35000,35000
+LUBELSKIE,opolski,Chodel,lubelskie,opolski,chodel,7,7,35000,35000
+LUBELSKIE,parczewski,Parczew,lubelskie,parczewski,parczew,7,7,35000,35000
+LUBELSKIE,puławski,Kazimierz Dolny,lubelskie,pulawski,kazimierz_dolny,7,7,35000,35000
+LUBELSKIE,rycki,Stężyca,lubelskie,rycki,stezyca,7,7,35000,35000
+LUBELSKIE,tomaszowski,Jarczów,lubelskie,tomaszowski,jarczow,7,7,35000,35000
+LUBELSKIE,tomaszowski,Krynice,lubelskie,tomaszowski,krynice,7,7,35000,35000
+LUBELSKIE,zamojski,Sułów,lubelskie,zamojski,sulow,7,7,35000,35000
+LUBELSKIE,zamojski,Łabunie,lubelskie,zamojski,labunie,7,7,35000,35000
+LUBELSKIE,łukowski,Stoczek Łukowski,lubelskie,lukowski,stoczek_lukowski,7,7,35000,35000
+LUBELSKIE,łukowski,Trzebieszów,lubelskie,lukowski,trzebieszow,7,7,35000,35000
+LUBELSKIE,świdnicki,Mełgiew,lubelskie,swidnicki,melgiew,7,7,35000,35000
+LUBELSKIE,świdnicki,Trawniki,lubelskie,swidnicki,trawniki,7,7,35000,35000
+LUBUSKIE,gorzowski,Deszczno,lubuskie,gorzowski,deszczno,7,7,35000,35000
+LUBUSKIE,nowosolski,Nowe Miasteczko,lubuskie,nowosolski,nowe_miasteczko,7,7,35000,35000
+LUBUSKIE,strzelecko-drezdenecki,Stare Kurowo,lubuskie,strzelecko_drezdenecki,stare_kurowo,7,7,35000,35000
+LUBUSKIE,żarski,Lubsko,lubuskie,zarski,lubsko,7,7,35000,35000
+MAZOWIECKIE,Warszawa,Wesoła,mazowieckie,warszawa,wesola,7,7,35000,35000
+MAZOWIECKIE,białobrzeski,Radzanów,mazowieckie,bialobrzeski,radzanow,7,7,35000,35000
+MAZOWIECKIE,białobrzeski,Stromiec,mazowieckie,bialobrzeski,stromiec,7,7,35000,35000
+MAZOWIECKIE,grójecki,Grójec,mazowieckie,grojecki,grojec,7,7,35000,35000
+MAZOWIECKIE,kozienicki,Magnuszew,mazowieckie,kozienicki,magnuszew,7,6,35000,30000
+MAZOWIECKIE,makowski,Karniewo,mazowieckie,makowski,karniewo,7,7,35000,35000
+MAZOWIECKIE,miński,Siennica,mazowieckie,minski,siennica,7,7,35000,35000
+MAZOWIECKIE,mławski,Lipowiec Kościelny,mazowieckie,mlawski,lipowiec_koscielny,7,7,35000,35000
+MAZOWIECKIE,mławski,Mława,mazowieckie,mlawski,mlawa,7,7,35000,35000
+MAZOWIECKIE,mławski,Wieczfnia Kościelna,mazowieckie,mlawski,wieczfnia_koscielna,7,7,35000,35000
+MAZOWIECKIE,nowodworski,Czosnów,mazowieckie,nowodworski,czosnow,7,7,35000,35000
+MAZOWIECKIE,ostrowski,Stary Lubotyń,mazowieckie,ostrowski,stary_lubotyn,7,7,35000,35000
+MAZOWIECKIE,otwocki,Celestynów,mazowieckie,otwocki,celestynow,7,2,35000,10000
+MAZOWIECKIE,otwocki,Osieck,mazowieckie,otwocki,osieck,7,6,35000,30000
+MAZOWIECKIE,piaseczyński,Góra Kalwaria,mazowieckie,piaseczynski,gora_kalwaria,7,4,35000,20000
+MAZOWIECKIE,pruszkowski,Piastów,mazowieckie,pruszkowski,piastow,7,7,35000,35000
+MAZOWIECKIE,przysuski,Przysucha,mazowieckie,przysuski,przysucha,7,6,35000,30000
+MAZOWIECKIE,płocki,Słubice,mazowieckie,plocki,slubice,7,6,35000,30000
+MAZOWIECKIE,płoński,Baboszewo,mazowieckie,plonski,baboszewo,7,7,35000,35000
+MAZOWIECKIE,płoński,Dzierzążnia,mazowieckie,plonski,dzierzaznia,7,7,35000,35000
+MAZOWIECKIE,płoński,Płońsk,mazowieckie,plonski,plonsk,7,7,35000,35000
+MAZOWIECKIE,radomski,Skaryszew,mazowieckie,radomski,skaryszew,7,7,35000,35000
+MAZOWIECKIE,siedlecki,Przesmyki,mazowieckie,siedlecki,przesmyki,7,6,35000,30000
+MAZOWIECKIE,siedlecki,Suchożebry,mazowieckie,siedlecki,suchozebry,7,7,35000,35000
+MAZOWIECKIE,sochaczewski,Iłów,mazowieckie,sochaczewski,ilow,7,7,35000,35000
+MAZOWIECKIE,sochaczewski,Rybno,mazowieckie,sochaczewski,rybno,7,7,35000,35000
+MAZOWIECKIE,szydłowiecki,Jastrząb,mazowieckie,szydlowiecki,jastrzab,7,7,35000,35000
+MAZOWIECKIE,wyszkowski,Brańszczyk,mazowieckie,wyszkowski,branszczyk,7,7,35000,35000
+MAZOWIECKIE,wyszkowski,Wyszków,mazowieckie,wyszkowski,wyszkow,7,7,35000,35000
+MAZOWIECKIE,łosicki,Łosice,mazowieckie,losicki,losice,7,7,35000,35000
+MAZOWIECKIE,żyrardowski,Mszczonów,mazowieckie,zyrardowski,mszczonow,7,4,35000,20000
+MAŁOPOLSKIE,bocheński,Rzezawa,malopolskie,bochenski,rzezawa,7,7,35000,35000
+MAŁOPOLSKIE,bocheński,Łapanów,malopolskie,bochenski,lapanow,7,7,35000,35000
+MAŁOPOLSKIE,brzeski,Gnojnik,malopolskie,brzeski,gnojnik,7,7,35000,35000
+MAŁOPOLSKIE,dąbrowski,Bolesław,malopolskie,dabrowski,boleslaw,7,7,35000,35000
+MAŁOPOLSKIE,dąbrowski,Szczucin,malopolskie,dabrowski,szczucin,7,7,35000,35000
+MAŁOPOLSKIE,gorlicki,Bobowa,malopolskie,gorlicki,bobowa,7,7,35000,35000
+MAŁOPOLSKIE,gorlicki,Sękowa,malopolskie,gorlicki,sekowa,7,7,35000,35000
+MAŁOPOLSKIE,krakowski,Michałowice,malopolskie,krakowski,michalowice,7,6,35000,30000
+MAŁOPOLSKIE,krakowski,Wielka Wieś,malopolskie,krakowski,wielka_wies,7,7,35000,35000
+MAŁOPOLSKIE,myślenicki,Wiśniowa,malopolskie,myslenicki,wisniowa,7,6,35000,30000
+MAŁOPOLSKIE,nowosądecki,Gródek nad Dunajcem,malopolskie,nowosadecki,grodek_nad_dunajcem,7,7,35000,35000
+MAŁOPOLSKIE,nowotarski,Czorsztyn,malopolskie,nowotarski,czorsztyn,7,7,35000,35000
+MAŁOPOLSKIE,nowotarski,Raba Wyżna,malopolskie,nowotarski,raba_wyzna,7,7,35000,35000
+MAŁOPOLSKIE,nowotarski,Rabka-Zdrój,malopolskie,nowotarski,rabka_zdroj,7,7,35000,35000
+MAŁOPOLSKIE,proszowicki,Pałecznica,malopolskie,proszowicki,palecznica,7,7,35000,35000
+MAŁOPOLSKIE,suski,Budzów,malopolskie,suski,budzow,7,7,35000,35000
+MAŁOPOLSKIE,suski,Zawoja,malopolskie,suski,zawoja,7,7,35000,35000
+MAŁOPOLSKIE,tarnowski,Radłów,malopolskie,tarnowski,radlow,7,7,35000,35000
+MAŁOPOLSKIE,tarnowski,Tarnów,malopolskie,tarnowski,tarnow,7,7,35000,35000
+MAŁOPOLSKIE,tarnowski,Wierzchosławice,malopolskie,tarnowski,wierzchoslawice,7,7,35000,35000
+MAŁOPOLSKIE,tatrzański,Zakopane,malopolskie,tatrzanski,zakopane,7,7,35000,35000
+MAŁOPOLSKIE,wadowicki,Tomice,malopolskie,wadowicki,tomice,7,7,35000,35000
+OPOLSKIE,brzeski,Brzeg,opolskie,brzeski,brzeg,7,7,35000,35000
+OPOLSKIE,głubczycki,Baborów,opolskie,glubczycki,baborow,7,7,35000,35000
+OPOLSKIE,kluczborski,Byczyna,opolskie,kluczborski,byczyna,7,7,35000,35000
+OPOLSKIE,kędzierzyńsko-kozielski,Reńska Wieś,opolskie,kedzierzynsko_kozielski,renska_wies,7,7,35000,35000
+OPOLSKIE,oleski,Gorzów Śląski,opolskie,oleski,gorzow_slaski,7,7,35000,35000
+OPOLSKIE,oleski,Praszka,opolskie,oleski,praszka,7,7,35000,35000
+OPOLSKIE,oleski,Rudniki,opolskie,oleski,rudniki,7,7,35000,35000
+OPOLSKIE,opolski,Turawa,opolskie,opolski,turawa,7,7,35000,35000
+PODKARPACKIE,brzozowski,Brzozów,podkarpackie,brzozowski,brzozow,7,7,35000,35000
+PODKARPACKIE,jarosławski,Radymno,podkarpackie,jaroslawski,radymno,7,6,35000,30000
+PODKARPACKIE,jarosławski,Roźwienica,podkarpackie,jaroslawski,rozwienica,7,7,35000,35000
+PODKARPACKIE,jasielski,Kołaczyce,podkarpackie,jasielski,kolaczyce,7,6,35000,30000
+PODKARPACKIE,krośnieński,Chorkówka,podkarpackie,krosnienski,chorkowka,7,7,35000,35000
+PODKARPACKIE,krośnieński,Jedlicze,podkarpackie,krosnienski,jedlicze,7,7,35000,35000
+PODKARPACKIE,mielecki,Mielec,podkarpackie,mielecki,mielec,7,7,35000,35000
+PODKARPACKIE,przemyski,Żurawica,podkarpackie,przemyski,zurawica,7,6,35000,30000
+PODKARPACKIE,rzeszowski,Błażowa,podkarpackie,rzeszowski,blazowa,7,7,35000,35000
+PODKARPACKIE,łańcucki,Białobrzegi,podkarpackie,lancucki,bialobrzegi,7,7,35000,35000
+PODLASKIE,augustowski,Bargłów Kościelny,podlaskie,augustowski,barglow_koscielny,7,7,35000,35000
+PODLASKIE,augustowski,Płaska,podlaskie,augustowski,plaska,7,7,35000,35000
+PODLASKIE,białostocki,Juchnowiec Kościelny,podlaskie,bialostocki,juchnowiec_koscielny,7,7,35000,35000
+PODLASKIE,białostocki,Zabłudów,podlaskie,bialostocki,zabludow,7,7,35000,35000
+PODLASKIE,siemiatycki,Dziadkowice,podlaskie,siemiatycki,dziadkowice,7,7,35000,35000
+PODLASKIE,siemiatycki,Mielnik,podlaskie,siemiatycki,mielnik,7,7,35000,35000
+PODLASKIE,suwalski,Raczki,podlaskie,suwalski,raczki,7,4,35000,20000
+PODLASKIE,wysokomazowiecki,Klukowo,podlaskie,wysokomazowiecki,klukowo,7,7,35000,35000
+POMORSKIE,bytowski,Czarna Dąbrówka,pomorskie,bytowski,czarna_dabrowka,7,7,35000,35000
+POMORSKIE,bytowski,Parchowo,pomorskie,bytowski,parchowo,7,7,35000,35000
+POMORSKIE,gdański,Suchy Dąb,pomorskie,gdanski,suchy_dab,7,7,35000,35000
+POMORSKIE,kwidzyński,Gardeja,pomorskie,kwidzynski,gardeja,7,7,35000,35000
+POMORSKIE,starogardzki,Skórcz,pomorskie,starogardzki,skorcz,7,6,35000,30000
+POMORSKIE,słupski,Kobylnica,pomorskie,slupski,kobylnica,7,7,35000,35000
+WARMIŃSKO-MAZURSKIE,bartoszycki,Bartoszyce,warminsko_mazurskie,bartoszycki,bartoszyce,7,7,35000,35000
+WARMIŃSKO-MAZURSKIE,działdowski,Płośnica,warminsko_mazurskie,dzialdowski,plosnica,7,7,35000,35000
+WARMIŃSKO-MAZURSKIE,elbląski,Pasłęk,warminsko_mazurskie,elblaski,paslek,7,7,35000,35000
+WARMIŃSKO-MAZURSKIE,nidzicki,Kozłowo,warminsko_mazurskie,nidzicki,kozlowo,7,7,35000,35000
+WARMIŃSKO-MAZURSKIE,olsztyński,Biskupiec,warminsko_mazurskie,olsztynski,biskupiec,7,7,35000,35000
+WIELKOPOLSKIE,grodziski,Granowo,wielkopolskie,grodziski,granowo,7,7,35000,35000
+WIELKOPOLSKIE,grodziski,Grodzisk Wielkopolski,wielkopolskie,grodziski,grodzisk_wielkopolski,7,7,35000,35000
+WIELKOPOLSKIE,grodziski,Wielichowo,wielkopolskie,grodziski,wielichowo,7,7,35000,35000
+WIELKOPOLSKIE,kaliski,Lisków,wielkopolskie,kaliski,liskow,7,7,35000,35000
+WIELKOPOLSKIE,kolski,Olszówka,wielkopolskie,kolski,olszowka,7,7,35000,35000
+WIELKOPOLSKIE,koniński,Kazimierz Biskupi,wielkopolskie,koninski,kazimierz_biskupi,7,7,35000,35000
+WIELKOPOLSKIE,kępiński,Perzów,wielkopolskie,kepinski,perzow,7,7,35000,35000
+WIELKOPOLSKIE,kępiński,Łęka Opatowska,wielkopolskie,kepinski,leka_opatowska,7,7,35000,35000
+WIELKOPOLSKIE,leszczyński,Rydzyna,wielkopolskie,leszczynski,rydzyna,7,7,35000,35000
+WIELKOPOLSKIE,międzychodzki,Kwilcz,wielkopolskie,miedzychodzki,kwilcz,7,7,35000,35000
+WIELKOPOLSKIE,ostrowski,Nowe Skalmierzyce,wielkopolskie,ostrowski,nowe_skalmierzyce,7,7,35000,35000
+WIELKOPOLSKIE,ostrzeszowski,Doruchów,wielkopolskie,ostrzeszowski,doruchow,7,6,35000,30000
+WIELKOPOLSKIE,poznański,Buk,wielkopolskie,poznanski,buk,7,7,35000,35000
+WIELKOPOLSKIE,szamotulski,Duszniki,wielkopolskie,szamotulski,duszniki,7,7,35000,35000
+WIELKOPOLSKIE,turecki,Brudzew,wielkopolskie,turecki,brudzew,7,7,35000,35000
+WIELKOPOLSKIE,turecki,Dobra,wielkopolskie,turecki,dobra,7,7,35000,35000
+WIELKOPOLSKIE,wągrowiecki,Wągrowiec,wielkopolskie,wagrowiecki,wagrowiec,7,7,35000,35000
+WIELKOPOLSKIE,śremski,Śrem,wielkopolskie,sremski,srem,7,7,35000,35000
+ZACHODNIOPOMORSKIE,drawski,Czaplinek,zachodniopomorskie,drawski,czaplinek,7,7,35000,35000
+ZACHODNIOPOMORSKIE,świdwiński,Połczyn-Zdrój,zachodniopomorskie,swidwinski,polczyn_zdroj,7,7,35000,35000
+ŁÓDZKIE,brzeziński,Brzeziny,lodzkie,brzezinski,brzeziny,7,7,35000,35000
+ŁÓDZKIE,kutnowski,Krzyżanów,lodzkie,kutnowski,krzyzanow,7,7,35000,35000
+ŁÓDZKIE,opoczyński,Drzewica,lodzkie,opoczynski,drzewica,7,7,35000,35000
+ŁÓDZKIE,pabianicki,Konstantynów Łódzki,lodzkie,pabianicki,konstantynow_lodzki,7,7,35000,35000
+ŁÓDZKIE,piotrkowski,Sulejów,lodzkie,piotrkowski,sulejow,7,7,35000,35000
+ŁÓDZKIE,rawski,Sadkowice,lodzkie,rawski,sadkowice,7,7,35000,35000
+ŁÓDZKIE,sieradzki,Brąszewice,lodzkie,sieradzki,braszewice,7,7,35000,35000
+ŁÓDZKIE,wieluński,Biała,lodzkie,wielunski,biala,7,7,35000,35000
+ŁÓDZKIE,łaski,Sędziejowice,lodzkie,laski,sedziejowice,7,7,35000,35000
+ŚLĄSKIE,bielski,Czechowice-Dziedzice,slaskie,bielski,czechowice_dziedzice,7,7,35000,35000
+ŚLĄSKIE,będziński,Mierzęcice,slaskie,bedzinski,mierzecice,7,7,35000,35000
+ŚLĄSKIE,częstochowski,Lelów,slaskie,czestochowski,lelow,7,7,35000,35000
+ŚLĄSKIE,gliwicki,Sośnicowice,slaskie,gliwicki,sosnicowice,7,7,35000,35000
+ŚLĄSKIE,gliwicki,Wielowieś,slaskie,gliwicki,wielowies,7,6,35000,30000
+ŚLĄSKIE,kłobucki,Krzepice,slaskie,klobucki,krzepice,7,7,35000,35000
+ŚLĄSKIE,kłobucki,Kłobuck,slaskie,klobucki,klobuck,7,7,35000,35000
+ŚLĄSKIE,kłobucki,Opatów,slaskie,klobucki,opatow,7,7,35000,35000
+ŚLĄSKIE,lubliniecki,Ciasna,slaskie,lubliniecki,ciasna,7,7,35000,35000
+ŚLĄSKIE,mikołowski,Mikołów,slaskie,mikolowski,mikolow,7,7,35000,35000
+ŚLĄSKIE,mikołowski,Łaziska Górne,slaskie,mikolowski,laziska_gorne,7,7,35000,35000
+ŚLĄSKIE,tarnogórski,Zbrosławice,slaskie,tarnogorski,zbroslawice,7,4,35000,20000
+ŚLĄSKIE,zawierciański,Włodowice,slaskie,zawiercianski,wlodowice,7,7,35000,35000
+ŚLĄSKIE,zawierciański,Zawiercie,slaskie,zawiercianski,zawiercie,7,7,35000,35000
+ŚLĄSKIE,zawierciański,Łazy,slaskie,zawiercianski,lazy,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,jędrzejowski,Oksa,swietokrzyskie,jedrzejowski,oksa,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,kazimierski,Kazimierza Wielka,swietokrzyskie,kazimierski,kazimierza_wielka,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,kielecki,Chmielnik,swietokrzyskie,kielecki,chmielnik,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,konecki,Ruda Maleniecka,swietokrzyskie,konecki,ruda_maleniecka,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,konecki,Słupia Konecka,swietokrzyskie,konecki,slupia_konecka,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,opatowski,Lipnik,swietokrzyskie,opatowski,lipnik,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,pińczowski,Kije,swietokrzyskie,pinczowski,kije,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,sandomierski,Klimontów,swietokrzyskie,sandomierski,klimontow,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,sandomierski,Obrazów,swietokrzyskie,sandomierski,obrazow,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,starachowicki,Mirzec,swietokrzyskie,starachowicki,mirzec,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,staszowski,Staszów,swietokrzyskie,staszowski,staszow,7,7,35000,35000
+ŚWIĘTOKRZYSKIE,włoszczowski,Radków,swietokrzyskie,wloszczowski,radkow,7,7,35000,35000
+DOLNOŚLĄSKIE,bolesławiecki,Gromadka,dolnoslaskie,boleslawiecki,gromadka,6,6,30000,30000
+DOLNOŚLĄSKIE,górowski,Jemielno,dolnoslaskie,gorowski,jemielno,6,6,30000,30000
+DOLNOŚLĄSKIE,kamiennogórski,Kamienna Góra,dolnoslaskie,kamiennogorski,kamienna_gora,6,6,30000,30000
+DOLNOŚLĄSKIE,kamiennogórski,Lubawka,dolnoslaskie,kamiennogorski,lubawka,6,6,30000,30000
+DOLNOŚLĄSKIE,kłodzki,Międzylesie,dolnoslaskie,klodzki,miedzylesie,6,6,30000,30000
+DOLNOŚLĄSKIE,kłodzki,Radków,dolnoslaskie,klodzki,radkow,6,6,30000,30000
+DOLNOŚLĄSKIE,lubański,Lubań,dolnoslaskie,lubanski,luban,6,6,30000,30000
+DOLNOŚLĄSKIE,lwówecki,Gryfów Śląski,dolnoslaskie,lwowecki,gryfow_slaski,6,6,30000,30000
+DOLNOŚLĄSKIE,polkowicki,Polkowice,dolnoslaskie,polkowicki,polkowice,6,6,30000,30000
+DOLNOŚLĄSKIE,trzebnicki,Oborniki Śląskie,dolnoslaskie,trzebnicki,oborniki_slaskie,6,6,30000,30000
+DOLNOŚLĄSKIE,trzebnicki,Trzebnica,dolnoslaskie,trzebnicki,trzebnica,6,6,30000,30000
+DOLNOŚLĄSKIE,wołowski,Wińsko,dolnoslaskie,wolowski,winsko,6,6,30000,30000
+DOLNOŚLĄSKIE,wołowski,Wołów,dolnoslaskie,wolowski,wolow,6,6,30000,30000
+DOLNOŚLĄSKIE,złotoryjski,Złotoryja,dolnoslaskie,zlotoryjski,zlotoryja,6,6,30000,30000
+DOLNOŚLĄSKIE,świdnicki,Jaworzyna Śląska,dolnoslaskie,swidnicki,jaworzyna_slaska,6,6,30000,30000
+KUJAWSKO-POMORSKIE,aleksandrowski,Bądkowo,kujawsko_pomorskie,aleksandrowski,badkowo,6,6,30000,30000
+KUJAWSKO-POMORSKIE,brodnicki,Brzozie,kujawsko_pomorskie,brodnicki,brzozie,6,6,30000,30000
+KUJAWSKO-POMORSKIE,grudziądzki,Łasin,kujawsko_pomorskie,grudziadzki,lasin,6,6,30000,30000
+KUJAWSKO-POMORSKIE,inowrocławski,Kruszwica,kujawsko_pomorskie,inowroclawski,kruszwica,6,6,30000,30000
+KUJAWSKO-POMORSKIE,radziejowski,Osięciny,kujawsko_pomorskie,radziejowski,osieciny,6,6,30000,30000
+KUJAWSKO-POMORSKIE,radziejowski,Topólka,kujawsko_pomorskie,radziejowski,topolka,6,6,30000,30000
+KUJAWSKO-POMORSKIE,rypiński,Brzuze,kujawsko_pomorskie,rypinski,brzuze,6,6,30000,30000
+KUJAWSKO-POMORSKIE,toruński,Obrowo,kujawsko_pomorskie,torunski,obrowo,6,6,30000,30000
+KUJAWSKO-POMORSKIE,tucholski,Śliwice,kujawsko_pomorskie,tucholski,sliwice,6,6,30000,30000
+KUJAWSKO-POMORSKIE,świecki,Drzycim,kujawsko_pomorskie,swiecki,drzycim,6,5,30000,25000
+KUJAWSKO-POMORSKIE,świecki,Pruszcz,kujawsko_pomorskie,swiecki,pruszcz,6,6,30000,30000
+KUJAWSKO-POMORSKIE,świecki,Warlubie,kujawsko_pomorskie,swiecki,warlubie,6,6,30000,30000
+LUBELSKIE,biłgorajski,Obsza,lubelskie,bilgorajski,obsza,6,6,30000,30000
+LUBELSKIE,chełmski,Dorohusk,lubelskie,chelmski,dorohusk,6,4,30000,20000
+LUBELSKIE,chełmski,Wierzbica,lubelskie,chelmski,wierzbica,6,6,30000,30000
+LUBELSKIE,krasnostawski,Fajsławice,lubelskie,krasnostawski,fajslawice,6,6,30000,30000
+LUBELSKIE,krasnostawski,Siennica Różana,lubelskie,krasnostawski,siennica_rozana,6,6,30000,30000
+LUBELSKIE,lubartowski,Kock,lubelskie,lubartowski,kock,6,6,30000,30000
+LUBELSKIE,lubelski,Garbów,lubelskie,lubelski,garbow,6,6,30000,30000
+LUBELSKIE,lubelski,Głusk,lubelskie,lubelski,glusk,6,6,30000,30000
+LUBELSKIE,lubelski,Jabłonna,lubelskie,lubelski,jablonna,6,6,30000,30000
+LUBELSKIE,lubelski,Wólka,lubelskie,lubelski,wolka,6,6,30000,30000
+LUBELSKIE,parczewski,Siemień,lubelskie,parczewski,siemien,6,5,30000,25000
+LUBELSKIE,puławski,Wąwolnica,lubelskie,pulawski,wawolnica,6,6,30000,30000
+LUBELSKIE,rycki,Ułęż,lubelskie,rycki,ulez,6,6,30000,30000
+LUBELSKIE,tomaszowski,Lubycza Królewska,lubelskie,tomaszowski,lubycza_krolewska,6,6,30000,30000
+LUBELSKIE,tomaszowski,Rachanie,lubelskie,tomaszowski,rachanie,6,6,30000,30000
+LUBELSKIE,tomaszowski,Tarnawatka,lubelskie,tomaszowski,tarnawatka,6,6,30000,30000
+LUBELSKIE,zamojski,Komarów-Osada,lubelskie,zamojski,komarow_osada,6,6,30000,30000
+LUBELSKIE,łęczyński,Cyców,lubelskie,leczynski,cycow,6,6,30000,30000
+LUBUSKIE,gorzowski,Kostrzyn nad Odrą,lubuskie,gorzowski,kostrzyn_nad_odra,6,6,30000,30000
+LUBUSKIE,nowosolski,Bytom Odrzański,lubuskie,nowosolski,bytom_odrzanski,6,6,30000,30000
+LUBUSKIE,świebodziński,Skąpe,lubuskie,swiebodzinski,skape,6,6,30000,30000
+MAZOWIECKIE,garwoliński,Borowie,mazowieckie,garwolinski,borowie,6,6,30000,30000
+MAZOWIECKIE,garwoliński,Trojanów,mazowieckie,garwolinski,trojanow,6,6,30000,30000
+MAZOWIECKIE,kozienicki,Sieciechów,mazowieckie,kozienicki,sieciechow,6,6,30000,30000
+MAZOWIECKIE,lipski,Ciepielów,mazowieckie,lipski,ciepielow,6,6,30000,30000
+MAZOWIECKIE,lipski,Lipsko,mazowieckie,lipski,lipsko,6,6,30000,30000
+MAZOWIECKIE,makowski,Płoniawy-Bramura,mazowieckie,makowski,ploniawy_bramura,6,6,30000,30000
+MAZOWIECKIE,makowski,Sypniewo,mazowieckie,makowski,sypniewo,6,6,30000,30000
+MAZOWIECKIE,miński,Dobre,mazowieckie,minski,dobre,6,6,30000,30000
+MAZOWIECKIE,mławski,Radzanów,mazowieckie,mlawski,radzanow,6,6,30000,30000
+MAZOWIECKIE,mławski,Wiśniewo,mazowieckie,mlawski,wisniewo,6,6,30000,30000
+MAZOWIECKIE,pruszkowski,Nadarzyn,mazowieckie,pruszkowski,nadarzyn,6,6,30000,30000
+MAZOWIECKIE,przysuski,Klwów,mazowieckie,przysuski,klwow,6,5,30000,25000
+MAZOWIECKIE,pułtuski,Winnica,mazowieckie,pultuski,winnica,6,6,30000,30000
+MAZOWIECKIE,siedlecki,Korczew,mazowieckie,siedlecki,korczew,6,6,30000,30000
+MAZOWIECKIE,siedlecki,Mokobody,mazowieckie,siedlecki,mokobody,6,5,30000,25000
+MAZOWIECKIE,siedlecki,Siedlce,mazowieckie,siedlecki,siedlce,6,5,30000,25000
+MAZOWIECKIE,sierpecki,Zawidz,mazowieckie,sierpecki,zawidz,6,6,30000,30000
+MAZOWIECKIE,szydłowiecki,Mirów,mazowieckie,szydlowiecki,mirow,6,6,30000,30000
+MAZOWIECKIE,szydłowiecki,Orońsko,mazowieckie,szydlowiecki,oronsko,6,5,30000,25000
+MAZOWIECKIE,szydłowiecki,Szydłowiec,mazowieckie,szydlowiecki,szydlowiec,6,6,30000,30000
+MAZOWIECKIE,zwoleński,Tczów,mazowieckie,zwolenski,tczow,6,6,30000,30000
+MAZOWIECKIE,żyrardowski,Puszcza Mariańska,mazowieckie,zyrardowski,puszcza_marianska,6,6,30000,30000
+MAŁOPOLSKIE,bocheński,Żegocina,malopolskie,bochenski,zegocina,6,6,30000,30000
+MAŁOPOLSKIE,brzeski,Borzęcin,malopolskie,brzeski,borzecin,6,6,30000,30000
+MAŁOPOLSKIE,brzeski,Czchów,malopolskie,brzeski,czchow,6,6,30000,30000
+MAŁOPOLSKIE,chrzanowski,Trzebinia,malopolskie,chrzanowski,trzebinia,6,6,30000,30000
+MAŁOPOLSKIE,dąbrowski,Dąbrowa Tarnowska,malopolskie,dabrowski,dabrowa_tarnowska,6,6,30000,30000
+MAŁOPOLSKIE,gorlicki,Łużna,malopolskie,gorlicki,luzna,6,6,30000,30000
+MAŁOPOLSKIE,myślenicki,Tokarnia,malopolskie,myslenicki,tokarnia,6,6,30000,30000
+MAŁOPOLSKIE,nowosądecki,Stary Sącz,malopolskie,nowosadecki,stary_sacz,6,6,30000,30000
+MAŁOPOLSKIE,nowosądecki,Łącko,malopolskie,nowosadecki,lacko,6,6,30000,30000
+MAŁOPOLSKIE,nowotarski,Jabłonka,malopolskie,nowotarski,jablonka,6,6,30000,30000
+MAŁOPOLSKIE,nowotarski,Szaflary,malopolskie,nowotarski,szaflary,6,6,30000,30000
+MAŁOPOLSKIE,proszowicki,Nowe Brzesko,malopolskie,proszowicki,nowe_brzesko,6,6,30000,30000
+MAŁOPOLSKIE,suski,Sucha Beskidzka,malopolskie,suski,sucha_beskidzka,6,4,30000,20000
+MAŁOPOLSKIE,tarnowski,Ryglice,malopolskie,tarnowski,ryglice,6,6,30000,30000
+MAŁOPOLSKIE,tarnowski,Wojnicz,malopolskie,tarnowski,wojnicz,6,6,30000,30000
+MAŁOPOLSKIE,tatrzański,Bukowina Tatrzańska,malopolskie,tatrzanski,bukowina_tatrzanska,6,6,30000,30000
+MAŁOPOLSKIE,wadowicki,Wieprz,malopolskie,wadowicki,wieprz,6,5,30000,25000
+MAŁOPOLSKIE,wielicki,Kłaj,malopolskie,wielicki,klaj,6,6,30000,30000
+MAŁOPOLSKIE,wielicki,Niepołomice,malopolskie,wielicki,niepolomice,6,6,30000,30000
+OPOLSKIE,kluczborski,Lasowice Wielkie,opolskie,kluczborski,lasowice_wielkie,6,6,30000,30000
+OPOLSKIE,nyski,Paczków,opolskie,nyski,paczkow,6,6,30000,30000
+OPOLSKIE,oleski,Radłów,opolskie,oleski,radlow,6,6,30000,30000
+OPOLSKIE,opolski,Murów,opolskie,opolski,murow,6,6,30000,30000
+PODKARPACKIE,jasielski,Brzyska,podkarpackie,jasielski,brzyska,6,6,30000,30000
+PODKARPACKIE,leżajski,Kuryłówka,podkarpackie,lezajski,kurylowka,6,6,30000,30000
+PODKARPACKIE,przemyski,Fredropol,podkarpackie,przemyski,fredropol,6,6,30000,30000
+PODKARPACKIE,przemyski,Orły,podkarpackie,przemyski,orly,6,6,30000,30000
+PODKARPACKIE,stalowowolski,Radomyśl nad Sanem,podkarpackie,stalowowolski,radomysl_nad_sanem,6,6,30000,30000
+PODKARPACKIE,stalowowolski,Zaleszany,podkarpackie,stalowowolski,zaleszany,6,6,30000,30000
+PODKARPACKIE,tarnobrzeski,Gorzyce,podkarpackie,tarnobrzeski,gorzyce,6,6,30000,30000
+PODLASKIE,augustowski,Lipsk,podlaskie,augustowski,lipsk,6,5,30000,25000
+PODLASKIE,białostocki,Czarna Białostocka,podlaskie,bialostocki,czarna_bialostocka,6,6,30000,30000
+PODLASKIE,grajewski,Rajgród,podlaskie,grajewski,rajgrod,6,6,30000,30000
+PODLASKIE,grajewski,Wąsosz,podlaskie,grajewski,wasosz,6,6,30000,30000
+PODLASKIE,hajnowski,Dubicze Cerkiewne,podlaskie,hajnowski,dubicze_cerkiewne,6,6,30000,30000
+PODLASKIE,kolneński,Grabowo,podlaskie,kolnenski,grabowo,6,6,30000,30000
+PODLASKIE,sejneński,Sejny,podlaskie,sejnenski,sejny,6,6,30000,30000
+PODLASKIE,siemiatycki,Grodzisk,podlaskie,siemiatycki,grodzisk,6,6,30000,30000
+PODLASKIE,zambrowski,Rutki,podlaskie,zambrowski,rutki,6,6,30000,30000
+PODLASKIE,łomżyński,Miastkowo,podlaskie,lomzynski,miastkowo,6,6,30000,30000
+POMORSKIE,bytowski,Borzytuchom,pomorskie,bytowski,borzytuchom,6,6,30000,30000
+POMORSKIE,bytowski,Studzienice,pomorskie,bytowski,studzienice,6,6,30000,30000
+POMORSKIE,kartuski,Kartuzy,pomorskie,kartuski,kartuzy,6,6,30000,30000
+POMORSKIE,nowodworski,Ostaszewo,pomorskie,nowodworski,ostaszewo,6,6,30000,30000
+POMORSKIE,starogardzki,Osiek,pomorskie,starogardzki,osiek,6,5,30000,25000
+POMORSKIE,sztumski,Sztum,pomorskie,sztumski,sztum,6,6,30000,30000
+POMORSKIE,słupski,Główczyce,pomorskie,slupski,glowczyce,6,6,30000,30000
+POMORSKIE,słupski,Smołdzino,pomorskie,slupski,smoldzino,6,6,30000,30000
+POMORSKIE,wejherowski,Gniewino,pomorskie,wejherowski,gniewino,6,6,30000,30000
+POMORSKIE,wejherowski,Łęczyce,pomorskie,wejherowski,leczyce,6,6,30000,30000
+WARMIŃSKO-MAZURSKIE,elbląski,Markusy,warminsko_mazurskie,elblaski,markusy,6,6,30000,30000
+WARMIŃSKO-MAZURSKIE,giżycki,Giżycko,warminsko_mazurskie,gizycki,gizycko,6,5,30000,25000
+WARMIŃSKO-MAZURSKIE,iławski,Zalewo,warminsko_mazurskie,ilawski,zalewo,6,6,30000,30000
+WARMIŃSKO-MAZURSKIE,lidzbarski,Lidzbark Warmiński,warminsko_mazurskie,lidzbarski,lidzbark_warminski,6,6,30000,30000
+WIELKOPOLSKIE,kaliski,Ceków-Kolonia,wielkopolskie,kaliski,cekow_kolonia,6,6,30000,30000
+WIELKOPOLSKIE,kolski,Dąbie,wielkopolskie,kolski,dabie,6,6,30000,30000
+WIELKOPOLSKIE,kolski,Grzegorzew,wielkopolskie,kolski,grzegorzew,6,6,30000,30000
+WIELKOPOLSKIE,kolski,Osiek Mały,wielkopolskie,kolski,osiek_maly,6,6,30000,30000
+WIELKOPOLSKIE,koniński,Kleczew,wielkopolskie,koninski,kleczew,6,6,30000,30000
+WIELKOPOLSKIE,kępiński,Kępno,wielkopolskie,kepinski,kepno,6,6,30000,30000
+WIELKOPOLSKIE,międzychodzki,Chrzypsko Wielkie,wielkopolskie,miedzychodzki,chrzypsko_wielkie,6,6,30000,30000
+WIELKOPOLSKIE,międzychodzki,Międzychód,wielkopolskie,miedzychodzki,miedzychod,6,6,30000,30000
+WIELKOPOLSKIE,ostrzeszowski,Czajków,wielkopolskie,ostrzeszowski,czajkow,6,6,30000,30000
+WIELKOPOLSKIE,ostrzeszowski,Kraszewice,wielkopolskie,ostrzeszowski,kraszewice,6,6,30000,30000
+WIELKOPOLSKIE,pilski,Kaczory,wielkopolskie,pilski,kaczory,6,5,30000,25000
+WIELKOPOLSKIE,pilski,Wysoka,wielkopolskie,pilski,wysoka,6,6,30000,30000
+WIELKOPOLSKIE,szamotulski,Pniewy,wielkopolskie,szamotulski,pniewy,6,6,30000,30000
+WIELKOPOLSKIE,słupecki,Ostrowite,wielkopolskie,slupecki,ostrowite,6,6,30000,30000
+WIELKOPOLSKIE,turecki,Władysławów,wielkopolskie,turecki,wladyslawow,6,6,30000,30000
+WIELKOPOLSKIE,wągrowiecki,Gołańcz,wielkopolskie,wagrowiecki,golancz,6,6,30000,30000
+WIELKOPOLSKIE,złotowski,Krajenka,wielkopolskie,zlotowski,krajenka,6,4,30000,20000
+WIELKOPOLSKIE,średzki,Nowe Miasto nad Wartą,wielkopolskie,sredzki,nowe_miasto_nad_warta,6,6,30000,30000
+ZACHODNIOPOMORSKIE,białogardzki,Tychowo,zachodniopomorskie,bialogardzki,tychowo,6,6,30000,30000
+ZACHODNIOPOMORSKIE,goleniowski,Maszewo,zachodniopomorskie,goleniowski,maszewo,6,6,30000,30000
+ZACHODNIOPOMORSKIE,goleniowski,Stepnica,zachodniopomorskie,goleniowski,stepnica,6,6,30000,30000
+ZACHODNIOPOMORSKIE,gryficki,Płoty,zachodniopomorskie,gryficki,ploty,6,6,30000,30000
+ZACHODNIOPOMORSKIE,gryfiński,Mieszkowice,zachodniopomorskie,gryfinski,mieszkowice,6,6,30000,30000
+ZACHODNIOPOMORSKIE,kamieński,Wolin,zachodniopomorskie,kamienski,wolin,6,6,30000,30000
+ZACHODNIOPOMORSKIE,koszaliński,Sianów,zachodniopomorskie,koszalinski,sianow,6,6,30000,30000
+ZACHODNIOPOMORSKIE,pyrzycki,Bielice,zachodniopomorskie,pyrzycki,bielice,6,6,30000,30000
+ZACHODNIOPOMORSKIE,pyrzycki,Kozielice,zachodniopomorskie,pyrzycki,kozielice,6,6,30000,30000
+ZACHODNIOPOMORSKIE,sławieński,Sławno,zachodniopomorskie,slawienski,slawno,6,6,30000,30000
+ŁÓDZKIE,kutnowski,Krośniewice,lodzkie,kutnowski,krosniewice,6,6,30000,30000
+ŁÓDZKIE,kutnowski,Żychlin,lodzkie,kutnowski,zychlin,6,5,30000,25000
+ŁÓDZKIE,opoczyński,Białaczów,lodzkie,opoczynski,bialaczow,6,6,30000,30000
+ŁÓDZKIE,poddębicki,Poddębice,lodzkie,poddebicki,poddebice,6,6,30000,30000
+ŁÓDZKIE,radomszczański,Kobiele Wielkie,lodzkie,radomszczanski,kobiele_wielkie,6,6,30000,30000
+ŁÓDZKIE,radomszczański,Masłowice,lodzkie,radomszczanski,maslowice,6,6,30000,30000
+ŁÓDZKIE,wieruszowski,Galewice,lodzkie,wieruszowski,galewice,6,6,30000,30000
+ŁÓDZKIE,łaski,Buczek,lodzkie,laski,buczek,6,6,30000,30000
+ŚLĄSKIE,kłobucki,Miedźno,slaskie,klobucki,miedzno,6,6,30000,30000
+ŚLĄSKIE,kłobucki,Przystajń,slaskie,klobucki,przystajn,6,6,30000,30000
+ŚLĄSKIE,lubliniecki,Herby,slaskie,lubliniecki,herby,6,6,30000,30000
+ŚLĄSKIE,lubliniecki,Lubliniec,slaskie,lubliniecki,lubliniec,6,6,30000,30000
+ŚLĄSKIE,lubliniecki,Pawonków,slaskie,lubliniecki,pawonkow,6,6,30000,30000
+ŚLĄSKIE,tarnogórski,Miasteczko Śląskie,slaskie,tarnogorski,miasteczko_slaskie,6,6,30000,30000
+ŚLĄSKIE,zawierciański,Żarnowiec,slaskie,zawiercianski,zarnowiec,6,6,30000,30000
+ŚWIĘTOKRZYSKIE,buski,Stopnica,swietokrzyskie,buski,stopnica,6,6,30000,30000
+ŚWIĘTOKRZYSKIE,kazimierski,Czarnocin,swietokrzyskie,kazimierski,czarnocin,6,6,30000,30000
+ŚWIĘTOKRZYSKIE,kielecki,Nowa Słupia,swietokrzyskie,kielecki,nowa_slupia,6,6,30000,30000
+ŚWIĘTOKRZYSKIE,kielecki,Strawczyn,swietokrzyskie,kielecki,strawczyn,6,5,30000,25000
+ŚWIĘTOKRZYSKIE,starachowicki,Pawłów,swietokrzyskie,starachowicki,pawlow,6,6,30000,30000
+DOLNOŚLĄSKIE,bolesławiecki,Nowogrodziec,dolnoslaskie,boleslawiecki,nowogrodziec,5,5,25000,25000
+DOLNOŚLĄSKIE,dzierżoniowski,Łagiewniki,dolnoslaskie,dzierzoniowski,lagiewniki,5,4,25000,20000
+DOLNOŚLĄSKIE,górowski,Wąsosz,dolnoslaskie,gorowski,wasosz,5,4,25000,20000
+DOLNOŚLĄSKIE,głogowski,Głogów,dolnoslaskie,glogowski,glogow,5,5,25000,25000
+DOLNOŚLĄSKIE,karkonoski,Mysłakowice,dolnoslaskie,karkonoski,myslakowice,5,5,25000,25000
+DOLNOŚLĄSKIE,kłodzki,Kudowa-Zdrój,dolnoslaskie,klodzki,kudowa_zdroj,5,4,25000,20000
+DOLNOŚLĄSKIE,kłodzki,Lądek-Zdrój,dolnoslaskie,klodzki,ladek_zdroj,5,5,25000,25000
+DOLNOŚLĄSKIE,oleśnicki,Syców,dolnoslaskie,olesnicki,sycow,5,5,25000,25000
+DOLNOŚLĄSKIE,wałbrzyski,Czarny Bór,dolnoslaskie,walbrzyski,czarny_bor,5,5,25000,25000
+DOLNOŚLĄSKIE,zgorzelecki,Węgliniec,dolnoslaskie,zgorzelecki,wegliniec,5,2,25000,10000
+DOLNOŚLĄSKIE,ząbkowicki,Ząbkowice Śląskie,dolnoslaskie,zabkowicki,zabkowice_slaskie,5,5,25000,25000
+DOLNOŚLĄSKIE,złotoryjski,Pielgrzymka,dolnoslaskie,zlotoryjski,pielgrzymka,5,5,25000,25000
+DOLNOŚLĄSKIE,średzki,Środa Śląska,dolnoslaskie,sredzki,sroda_slaska,5,5,25000,25000
+DOLNOŚLĄSKIE,świdnicki,Marcinowice,dolnoslaskie,swidnicki,marcinowice,5,5,25000,25000
+KUJAWSKO-POMORSKIE,aleksandrowski,Ciechocinek,kujawsko_pomorskie,aleksandrowski,ciechocinek,5,5,25000,25000
+KUJAWSKO-POMORSKIE,aleksandrowski,Zakrzewo,kujawsko_pomorskie,aleksandrowski,zakrzewo,5,5,25000,25000
+KUJAWSKO-POMORSKIE,brodnicki,Górzno,kujawsko_pomorskie,brodnicki,gorzno,5,5,25000,25000
+KUJAWSKO-POMORSKIE,brodnicki,Jabłonowo Pomorskie,kujawsko_pomorskie,brodnicki,jablonowo_pomorskie,5,5,25000,25000
+KUJAWSKO-POMORSKIE,bydgoski,Dąbrowa Chełmińska,kujawsko_pomorskie,bydgoski,dabrowa_chelminska,5,3,25000,15000
+KUJAWSKO-POMORSKIE,bydgoski,Nowa Wieś Wielka,kujawsko_pomorskie,bydgoski,nowa_wies_wielka,5,3,25000,15000
+KUJAWSKO-POMORSKIE,bydgoski,Osielsko,kujawsko_pomorskie,bydgoski,osielsko,5,5,25000,25000
+KUJAWSKO-POMORSKIE,bydgoski,Sicienko,kujawsko_pomorskie,bydgoski,sicienko,5,5,25000,25000
+KUJAWSKO-POMORSKIE,golubsko-dobrzyński,Kowalewo Pomorskie,kujawsko_pomorskie,golubsko_dobrzynski,kowalewo_pomorskie,5,5,25000,25000
+KUJAWSKO-POMORSKIE,inowrocławski,Dąbrowa Biskupia,kujawsko_pomorskie,inowroclawski,dabrowa_biskupia,5,5,25000,25000
+KUJAWSKO-POMORSKIE,inowrocławski,Inowrocław,kujawsko_pomorskie,inowroclawski,inowroclaw,5,5,25000,25000
+KUJAWSKO-POMORSKIE,lipnowski,Skępe,kujawsko_pomorskie,lipnowski,skepe,5,5,25000,25000
+KUJAWSKO-POMORSKIE,lipnowski,Tłuchowo,kujawsko_pomorskie,lipnowski,tluchowo,5,5,25000,25000
+KUJAWSKO-POMORSKIE,lipnowski,Wielgie,kujawsko_pomorskie,lipnowski,wielgie,5,5,25000,25000
+KUJAWSKO-POMORSKIE,mogileński,Strzelno,kujawsko_pomorskie,mogilenski,strzelno,5,4,25000,20000
+KUJAWSKO-POMORSKIE,nakielski,Sadki,kujawsko_pomorskie,nakielski,sadki,5,5,25000,25000
+KUJAWSKO-POMORSKIE,radziejowski,Dobre,kujawsko_pomorskie,radziejowski,dobre,5,4,25000,20000
+KUJAWSKO-POMORSKIE,radziejowski,Radziejów,kujawsko_pomorskie,radziejowski,radziejow,5,4,25000,20000
+KUJAWSKO-POMORSKIE,rypiński,Skrwilno,kujawsko_pomorskie,rypinski,skrwilno,5,5,25000,25000
+KUJAWSKO-POMORSKIE,włocławski,Baruchowo,kujawsko_pomorskie,wloclawski,baruchowo,5,5,25000,25000
+LUBELSKIE,bialski,Kodeń,lubelskie,bialski,koden,5,5,25000,25000
+LUBELSKIE,biłgorajski,Biszcza,lubelskie,bilgorajski,biszcza,5,5,25000,25000
+LUBELSKIE,biłgorajski,Tereszpol,lubelskie,bilgorajski,tereszpol,5,5,25000,25000
+LUBELSKIE,chełmski,Kamień,lubelskie,chelmski,kamien,5,5,25000,25000
+LUBELSKIE,chełmski,Żmudź,lubelskie,chelmski,zmudz,5,5,25000,25000
+LUBELSKIE,janowski,Janów Lubelski,lubelskie,janowski,janow_lubelski,5,5,25000,25000
+LUBELSKIE,janowski,Potok Wielki,lubelskie,janowski,potok_wielki,5,5,25000,25000
+LUBELSKIE,krasnostawski,Żółkiewka,lubelskie,krasnostawski,zolkiewka,5,5,25000,25000
+LUBELSKIE,kraśnicki,Gościeradów,lubelskie,krasnicki,goscieradow,5,5,25000,25000
+LUBELSKIE,kraśnicki,Wilkołaz,lubelskie,krasnicki,wilkolaz,5,5,25000,25000
+LUBELSKIE,lubartowski,Serniki,lubelskie,lubartowski,serniki,5,5,25000,25000
+LUBELSKIE,opolski,Wilków,lubelskie,opolski,wilkow,5,5,25000,25000
+LUBELSKIE,parczewski,Dębowa Kłoda,lubelskie,parczewski,debowa_kloda,5,5,25000,25000
+LUBELSKIE,parczewski,Jabłoń,lubelskie,parczewski,jablon,5,5,25000,25000
+LUBELSKIE,parczewski,Sosnowica,lubelskie,parczewski,sosnowica,5,5,25000,25000
+LUBELSKIE,puławski,Janowiec,lubelskie,pulawski,janowiec,5,5,25000,25000
+LUBELSKIE,rycki,Nowodwór,lubelskie,rycki,nowodwor,5,5,25000,25000
+LUBELSKIE,tomaszowski,Łaszczów,lubelskie,tomaszowski,laszczow,5,5,25000,25000
+LUBELSKIE,łukowski,Stanin,lubelskie,lukowski,stanin,5,5,25000,25000
+LUBELSKIE,łukowski,Wojcieszków,lubelskie,lukowski,wojcieszkow,5,5,25000,25000
+LUBELSKIE,łęczyński,Puchaczów,lubelskie,leczynski,puchaczow,5,5,25000,25000
+LUBUSKIE,gorzowski,Santok,lubuskie,gorzowski,santok,5,4,25000,20000
+LUBUSKIE,krośnieński,Dąbie,lubuskie,krosnienski,dabie,5,5,25000,25000
+LUBUSKIE,międzyrzecki,Międzyrzecz,lubuskie,miedzyrzecki,miedzyrzecz,5,5,25000,25000
+LUBUSKIE,nowosolski,Siedlisko,lubuskie,nowosolski,siedlisko,5,5,25000,25000
+LUBUSKIE,strzelecko-drezdenecki,Zwierzyn,lubuskie,strzelecko_drezdenecki,zwierzyn,5,5,25000,25000
+LUBUSKIE,sulęciński,Torzym,lubuskie,sulecinski,torzym,5,5,25000,25000
+LUBUSKIE,słubicki,Cybinka,lubuskie,slubicki,cybinka,5,5,25000,25000
+LUBUSKIE,zielonogórski,Nowogród Bobrzański,lubuskie,zielonogorski,nowogrod_bobrzanski,5,5,25000,25000
+LUBUSKIE,świebodziński,Lubrza,lubuskie,swiebodzinski,lubrza,5,5,25000,25000
+LUBUSKIE,świebodziński,Łagów,lubuskie,swiebodzinski,lagow,5,5,25000,25000
+MAZOWIECKIE,garwoliński,Garwolin,mazowieckie,garwolinski,garwolin,5,5,25000,25000
+MAZOWIECKIE,garwoliński,Górzno,mazowieckie,garwolinski,gorzno,5,5,25000,25000
+MAZOWIECKIE,gostyniński,Sanniki,mazowieckie,gostyninski,sanniki,5,5,25000,25000
+MAZOWIECKIE,kozienicki,Grabów nad Pilicą,mazowieckie,kozienicki,grabow_nad_pilica,5,4,25000,20000
+MAZOWIECKIE,legionowski,Wieliszew,mazowieckie,legionowski,wieliszew,5,5,25000,25000
+MAZOWIECKIE,lipski,Chotcza,mazowieckie,lipski,chotcza,5,5,25000,25000
+MAZOWIECKIE,miński,Cegłów,mazowieckie,minski,ceglow,5,5,25000,25000
+MAZOWIECKIE,miński,Jakubów,mazowieckie,minski,jakubow,5,5,25000,25000
+MAZOWIECKIE,miński,Kałuszyn,mazowieckie,minski,kaluszyn,5,5,25000,25000
+MAZOWIECKIE,mławski,Dzierzgowo,mazowieckie,mlawski,dzierzgowo,5,5,25000,25000
+MAZOWIECKIE,mławski,Szydłowo,mazowieckie,mlawski,szydlowo,5,5,25000,25000
+MAZOWIECKIE,ostrowski,Małkinia Górna,mazowieckie,ostrowski,malkinia_gorna,5,5,25000,25000
+MAZOWIECKIE,ostrołęcki,Goworowo,mazowieckie,ostrolecki,goworowo,5,5,25000,25000
+MAZOWIECKIE,otwocki,Józefów,mazowieckie,otwocki,jozefow,5,4,25000,20000
+MAZOWIECKIE,przasnyski,Krasne,mazowieckie,przasnyski,krasne,5,5,25000,25000
+MAZOWIECKIE,przysuski,Gielniów,mazowieckie,przysuski,gielniow,5,4,25000,20000
+MAZOWIECKIE,przysuski,Potworów,mazowieckie,przysuski,potworow,5,5,25000,25000
+MAZOWIECKIE,przysuski,Rusinów,mazowieckie,przysuski,rusinow,5,5,25000,25000
+MAZOWIECKIE,pułtuski,Gzy,mazowieckie,pultuski,gzy,5,5,25000,25000
+MAZOWIECKIE,płocki,Nowy Duninów,mazowieckie,plocki,nowy_duninow,5,4,25000,20000
+MAZOWIECKIE,płoński,Czerwińsk nad Wisłą,mazowieckie,plonski,czerwinsk_nad_wisla,5,5,25000,25000
+MAZOWIECKIE,radomski,Gózd,mazowieckie,radomski,gozd,5,4,25000,20000
+MAZOWIECKIE,radomski,Kowala,mazowieckie,radomski,kowala,5,5,25000,25000
+MAZOWIECKIE,sochaczewski,Młodzieszyn,mazowieckie,sochaczewski,mlodzieszyn,5,5,25000,25000
+MAZOWIECKIE,sochaczewski,Nowa Sucha,mazowieckie,sochaczewski,nowa_sucha,5,5,25000,25000
+MAZOWIECKIE,wyszkowski,Długosiodło,mazowieckie,wyszkowski,dlugosiodlo,5,5,25000,25000
+MAZOWIECKIE,łosicki,Platerów,mazowieckie,losicki,platerow,5,4,25000,20000
+MAZOWIECKIE,łosicki,Stara Kornica,mazowieckie,losicki,stara_kornica,5,5,25000,25000
+MAZOWIECKIE,żuromiński,Kuczbork-Osada,mazowieckie,zurominski,kuczbork_osada,5,5,25000,25000
+MAŁOPOLSKIE,bocheński,Lipnica Murowana,malopolskie,bochenski,lipnica_murowana,5,5,25000,25000
+MAŁOPOLSKIE,chrzanowski,Chrzanów,malopolskie,chrzanowski,chrzanow,5,5,25000,25000
+MAŁOPOLSKIE,dąbrowski,Olesno,malopolskie,dabrowski,olesno,5,5,25000,25000
+MAŁOPOLSKIE,dąbrowski,Radgoszcz,malopolskie,dabrowski,radgoszcz,5,5,25000,25000
+MAŁOPOLSKIE,gorlicki,Lipinki,malopolskie,gorlicki,lipinki,5,5,25000,25000
+MAŁOPOLSKIE,gorlicki,Ropa,malopolskie,gorlicki,ropa,5,5,25000,25000
+MAŁOPOLSKIE,krakowski,Sułoszowa,malopolskie,krakowski,suloszowa,5,4,25000,20000
+MAŁOPOLSKIE,krakowski,Świątniki Górne,malopolskie,krakowski,swiatniki_gorne,5,4,25000,20000
+MAŁOPOLSKIE,m. Kraków,Kraków-Śródmieście,malopolskie,m_krakow,krakow_srodmiescie,5,5,25000,25000
+MAŁOPOLSKIE,miechowski,Kozłów,malopolskie,miechowski,kozlow,5,5,25000,25000
+MAŁOPOLSKIE,myślenicki,Lubień,malopolskie,myslenicki,lubien,5,5,25000,25000
+MAŁOPOLSKIE,myślenicki,Sułkowice,malopolskie,myslenicki,sulkowice,5,4,25000,20000
+MAŁOPOLSKIE,oświęcimski,Brzeszcze,malopolskie,oswiecimski,brzeszcze,5,5,25000,25000
+MAŁOPOLSKIE,proszowicki,Koszyce,malopolskie,proszowicki,koszyce,5,5,25000,25000
+MAŁOPOLSKIE,tarnowski,Ciężkowice,malopolskie,tarnowski,ciezkowice,5,5,25000,25000
+MAŁOPOLSKIE,tarnowski,Pleśna,malopolskie,tarnowski,plesna,5,5,25000,25000
+MAŁOPOLSKIE,tarnowski,Rzepiennik Strzyżewski,malopolskie,tarnowski,rzepiennik_strzyzewski,5,5,25000,25000
+MAŁOPOLSKIE,tatrzański,Biały Dunajec,malopolskie,tatrzanski,bialy_dunajec,5,5,25000,25000
+MAŁOPOLSKIE,wadowicki,Lanckorona,malopolskie,wadowicki,lanckorona,5,5,25000,25000
+MAŁOPOLSKIE,wadowicki,Spytkowice,malopolskie,wadowicki,spytkowice,5,3,25000,15000
+OPOLSKIE,namysłowski,Świerczów,opolskie,namyslowski,swierczow,5,5,25000,25000
+OPOLSKIE,opolski,Chrząstowice,opolskie,opolski,chrzastowice,5,4,25000,20000
+OPOLSKIE,opolski,Prószków,opolskie,opolski,proszkow,5,5,25000,25000
+OPOLSKIE,prudnicki,Prudnik,opolskie,prudnicki,prudnik,5,5,25000,25000
+PODKARPACKIE,bieszczadzki,Czarna,podkarpackie,bieszczadzki,czarna,5,5,25000,25000
+PODKARPACKIE,bieszczadzki,Lutowiska,podkarpackie,bieszczadzki,lutowiska,5,5,25000,25000
+PODKARPACKIE,dębicki,Żyraków,podkarpackie,debicki,zyrakow,5,5,25000,25000
+PODKARPACKIE,jarosławski,Chłopice,podkarpackie,jaroslawski,chlopice,5,5,25000,25000
+PODKARPACKIE,jarosławski,Pawłosiów,podkarpackie,jaroslawski,pawlosiow,5,5,25000,25000
+PODKARPACKIE,jasielski,Krempna,podkarpackie,jasielski,krempna,5,5,25000,25000
+PODKARPACKIE,kolbuszowski,Dzikowiec,podkarpackie,kolbuszowski,dzikowiec,5,5,25000,25000
+PODKARPACKIE,leski,Baligród,podkarpackie,leski,baligrod,5,5,25000,25000
+PODKARPACKIE,lubaczowski,Lubaczów,podkarpackie,lubaczowski,lubaczow,5,5,25000,25000
+PODKARPACKIE,niżański,Nisko,podkarpackie,nizanski,nisko,5,5,25000,25000
+PODKARPACKIE,przemyski,Krzywcza,podkarpackie,przemyski,krzywcza,5,5,25000,25000
+PODKARPACKIE,przemyski,Przemyśl,podkarpackie,przemyski,przemysl,5,5,25000,25000
+PODKARPACKIE,przeworski,Gać,podkarpackie,przeworski,gac,5,5,25000,25000
+PODKARPACKIE,przeworski,Jawornik Polski,podkarpackie,przeworski,jawornik_polski,5,5,25000,25000
+PODKARPACKIE,przeworski,Tryńcza,podkarpackie,przeworski,tryncza,5,5,25000,25000
+PODKARPACKIE,rzeszowski,Sokołów Małopolski,podkarpackie,rzeszowski,sokolow_malopolski,5,5,25000,25000
+PODKARPACKIE,sanocki,Bukowsko,podkarpackie,sanocki,bukowsko,5,5,25000,25000
+PODKARPACKIE,strzyżowski,Czudec,podkarpackie,strzyzowski,czudec,5,2,25000,10000
+PODKARPACKIE,łańcucki,Czarna,podkarpackie,lancucki,czarna,5,1,25000,5000
+PODLASKIE,białostocki,Supraśl,podlaskie,bialostocki,suprasl,5,3,25000,15000
+PODLASKIE,bielski,Wyszki,podlaskie,bielski,wyszki,5,5,25000,25000
+PODLASKIE,hajnowski,Kleszczele,podlaskie,hajnowski,kleszczele,5,5,25000,25000
+PODLASKIE,kolneński,Stawiski,podlaskie,kolnenski,stawiski,5,4,25000,20000
+PODLASKIE,moniecki,Jaświły,podlaskie,moniecki,jaswily,5,5,25000,25000
+PODLASKIE,sejneński,Krasnopol,podlaskie,sejnenski,krasnopol,5,5,25000,25000
+PODLASKIE,sokólski,Szudziałowo,podlaskie,sokolski,szudzialowo,5,5,25000,25000
+PODLASKIE,suwalski,Suwałki,podlaskie,suwalski,suwalki,5,5,25000,25000
+PODLASKIE,suwalski,Szypliszki,podlaskie,suwalski,szypliszki,5,5,25000,25000
+PODLASKIE,wysokomazowiecki,Czyżew,podlaskie,wysokomazowiecki,czyzew,5,5,25000,25000
+PODLASKIE,zambrowski,Kołaki Kościelne,podlaskie,zambrowski,kolaki_koscielne,5,5,25000,25000
+PODLASKIE,łomżyński,Nowogród,podlaskie,lomzynski,nowogrod,5,4,25000,20000
+PODLASKIE,łomżyński,Śniadowo,podlaskie,lomzynski,sniadowo,5,4,25000,20000
+POMORSKIE,bytowski,Kołczygłowy,pomorskie,bytowski,kolczyglowy,5,5,25000,25000
+POMORSKIE,człuchowski,Debrzno,pomorskie,czluchowski,debrzno,5,5,25000,25000
+POMORSKIE,gdański,Trąbki Wielkie,pomorskie,gdanski,trabki_wielkie,5,5,25000,25000
+POMORSKIE,kościerski,Dziemiany,pomorskie,koscierski,dziemiany,5,5,25000,25000
+POMORSKIE,kościerski,Karsin,pomorskie,koscierski,karsin,5,5,25000,25000
+POMORSKIE,kwidzyński,Sadlinki,pomorskie,kwidzynski,sadlinki,5,5,25000,25000
+POMORSKIE,lęborski,Cewice,pomorskie,leborski,cewice,5,5,25000,25000
+POMORSKIE,lęborski,Wicko,pomorskie,leborski,wicko,5,5,25000,25000
+POMORSKIE,starogardzki,Osieczna,pomorskie,starogardzki,osieczna,5,5,25000,25000
+POMORSKIE,starogardzki,Zblewo,pomorskie,starogardzki,zblewo,5,5,25000,25000
+POMORSKIE,sztumski,Stary Targ,pomorskie,sztumski,stary_targ,5,5,25000,25000
+POMORSKIE,tczewski,Morzeszczyn,pomorskie,tczewski,morzeszczyn,5,5,25000,25000
+WARMIŃSKO-MAZURSKIE,bartoszycki,Bisztynek,warminsko_mazurskie,bartoszycki,bisztynek,5,5,25000,25000
+WARMIŃSKO-MAZURSKIE,działdowski,Iłowo-Osada,warminsko_mazurskie,dzialdowski,ilowo_osada,5,5,25000,25000
+WARMIŃSKO-MAZURSKIE,elbląski,Milejewo,warminsko_mazurskie,elblaski,milejewo,5,5,25000,25000
+WARMIŃSKO-MAZURSKIE,nowomiejski,Bratian,warminsko_mazurskie,nowomiejski,bratian,5,5,25000,25000
+WARMIŃSKO-MAZURSKIE,piski,Biała Piska,warminsko_mazurskie,piski,biala_piska,5,5,25000,25000
+WIELKOPOLSKIE,chodzieski,Szamocin,wielkopolskie,chodzieski,szamocin,5,5,25000,25000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Wieleń,wielkopolskie,czarnkowsko_trzcianecki,wielen,5,5,25000,25000
+WIELKOPOLSKIE,gnieźnieński,Kiszkowo,wielkopolskie,gnieznienski,kiszkowo,5,5,25000,25000
+WIELKOPOLSKIE,gostyński,Borek Wielkopolski,wielkopolskie,gostynski,borek_wielkopolski,5,5,25000,25000
+WIELKOPOLSKIE,kaliski,Stawiszyn,wielkopolskie,kaliski,stawiszyn,5,5,25000,25000
+WIELKOPOLSKIE,kolski,Babiak,wielkopolskie,kolski,babiak,5,5,25000,25000
+WIELKOPOLSKIE,kolski,Koło,wielkopolskie,kolski,kolo,5,5,25000,25000
+WIELKOPOLSKIE,koniński,Wilczyn,wielkopolskie,koninski,wilczyn,5,5,25000,25000
+WIELKOPOLSKIE,leszczyński,Wijewo,wielkopolskie,leszczynski,wijewo,5,5,25000,25000
+WIELKOPOLSKIE,ostrzeszowski,Mikstat,wielkopolskie,ostrzeszowski,mikstat,5,5,25000,25000
+WIELKOPOLSKIE,pilski,Białośliwie,wielkopolskie,pilski,bialosliwie,5,5,25000,25000
+WIELKOPOLSKIE,pilski,Wyrzysk,wielkopolskie,pilski,wyrzysk,5,5,25000,25000
+WIELKOPOLSKIE,pleszewski,Chocz,wielkopolskie,pleszewski,chocz,5,4,25000,20000
+WIELKOPOLSKIE,poznański,Dopiewo,wielkopolskie,poznanski,dopiewo,5,3,25000,15000
+WIELKOPOLSKIE,poznański,Luboń,wielkopolskie,poznanski,lubon,5,4,25000,20000
+WIELKOPOLSKIE,poznański,Rokietnica,wielkopolskie,poznanski,rokietnica,5,5,25000,25000
+WIELKOPOLSKIE,turecki,Kawęczyn,wielkopolskie,turecki,kaweczyn,5,5,25000,25000
+WIELKOPOLSKIE,turecki,Malanów,wielkopolskie,turecki,malanow,5,5,25000,25000
+WIELKOPOLSKIE,złotowski,Okonek,wielkopolskie,zlotowski,okonek,5,4,25000,20000
+WIELKOPOLSKIE,średzki,Zaniemyśl,wielkopolskie,sredzki,zaniemysl,5,5,25000,25000
+ZACHODNIOPOMORSKIE,drawski,Drawsko Pomorskie,zachodniopomorskie,drawski,drawsko_pomorskie,5,5,25000,25000
+ZACHODNIOPOMORSKIE,gryfiński,Cedynia,zachodniopomorskie,gryfinski,cedynia,5,5,25000,25000
+ZACHODNIOPOMORSKIE,gryfiński,Trzcińsko-Zdrój,zachodniopomorskie,gryfinski,trzcinsko_zdroj,5,5,25000,25000
+ZACHODNIOPOMORSKIE,gryfiński,Widuchowa,zachodniopomorskie,gryfinski,widuchowa,5,5,25000,25000
+ZACHODNIOPOMORSKIE,kamieński,Międzyzdroje,zachodniopomorskie,kamienski,miedzyzdroje,5,5,25000,25000
+ZACHODNIOPOMORSKIE,pyrzycki,Przelewice,zachodniopomorskie,pyrzycki,przelewice,5,4,25000,20000
+ZACHODNIOPOMORSKIE,pyrzycki,Warnice,zachodniopomorskie,pyrzycki,warnice,5,5,25000,25000
+ZACHODNIOPOMORSKIE,szczecinecki,Szczecinek,zachodniopomorskie,szczecinecki,szczecinek,5,5,25000,25000
+ZACHODNIOPOMORSKIE,łobeski,Łobez,zachodniopomorskie,lobeski,lobez,5,5,25000,25000
+ŁÓDZKIE,kutnowski,Nowe Ostrowy,lodzkie,kutnowski,nowe_ostrowy,5,5,25000,25000
+ŁÓDZKIE,kutnowski,Strzelce,lodzkie,kutnowski,strzelce,5,5,25000,25000
+ŁÓDZKIE,kutnowski,Łanięta,lodzkie,kutnowski,lanieta,5,5,25000,25000
+ŁÓDZKIE,opoczyński,Żarnów,lodzkie,opoczynski,zarnow,5,5,25000,25000
+ŁÓDZKIE,pajęczański,Działoszyn,lodzkie,pajeczanski,dzialoszyn,5,5,25000,25000
+ŁÓDZKIE,pajęczański,Kiełczygłów,lodzkie,pajeczanski,kielczyglow,5,5,25000,25000
+ŁÓDZKIE,pajęczański,Pajęczno,lodzkie,pajeczanski,pajeczno,5,5,25000,25000
+ŁÓDZKIE,pajęczański,Rząśnia,lodzkie,pajeczanski,rzasnia,5,5,25000,25000
+ŁÓDZKIE,piotrkowski,Czarnocin,lodzkie,piotrkowski,czarnocin,5,5,25000,25000
+ŁÓDZKIE,piotrkowski,Wolbórz,lodzkie,piotrkowski,wolborz,5,5,25000,25000
+ŁÓDZKIE,piotrkowski,Łęki Szlacheckie,lodzkie,piotrkowski,leki_szlacheckie,5,5,25000,25000
+ŁÓDZKIE,radomszczański,Gomunice,lodzkie,radomszczanski,gomunice,5,5,25000,25000
+ŁÓDZKIE,radomszczański,Przedbórz,lodzkie,radomszczanski,przedborz,5,5,25000,25000
+ŁÓDZKIE,sieradzki,Burzenin,lodzkie,sieradzki,burzenin,5,5,25000,25000
+ŁÓDZKIE,wieruszowski,Lututów,lodzkie,wieruszowski,lututow,5,5,25000,25000
+ŁÓDZKIE,zgierski,Ozorków,lodzkie,zgierski,ozorkow,5,5,25000,25000
+ŁÓDZKIE,łaski,Łask,lodzkie,laski,lask,5,5,25000,25000
+ŚLĄSKIE,bielski,Jasienica,slaskie,bielski,jasienica,5,5,25000,25000
+ŚLĄSKIE,będziński,Bobrowniki,slaskie,bedzinski,bobrowniki,5,5,25000,25000
+ŚLĄSKIE,cieszyński,Skoczów,slaskie,cieszynski,skoczow,5,5,25000,25000
+ŚLĄSKIE,kłobucki,Popów,slaskie,klobucki,popow,5,5,25000,25000
+ŚLĄSKIE,lubliniecki,Kochanowice,slaskie,lubliniecki,kochanowice,5,5,25000,25000
+ŚLĄSKIE,myszkowski,Żarki,slaskie,myszkowski,zarki,5,5,25000,25000
+ŚLĄSKIE,pszczyński,Pszczyna,slaskie,pszczynski,pszczyna,5,5,25000,25000
+ŚLĄSKIE,rybnicki,Czerwionka-Leszczyny,slaskie,rybnicki,czerwionka_leszczyny,5,2,25000,10000
+ŚLĄSKIE,zawierciański,Irządze,slaskie,zawiercianski,irzadze,5,5,25000,25000
+ŚLĄSKIE,zawierciański,Poręba,slaskie,zawiercianski,poreba,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,buski,Gnojno,swietokrzyskie,buski,gnojno,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,buski,Solec-Zdrój,swietokrzyskie,buski,solec_zdroj,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,kielecki,Bieliny,swietokrzyskie,kielecki,bieliny,5,4,25000,20000
+ŚWIĘTOKRZYSKIE,kielecki,Górno,swietokrzyskie,kielecki,gorno,5,3,25000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Masłów,swietokrzyskie,kielecki,maslow,5,3,25000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Pierzchnica,swietokrzyskie,kielecki,pierzchnica,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,kielecki,Raków,swietokrzyskie,kielecki,rakow,5,4,25000,20000
+ŚWIĘTOKRZYSKIE,konecki,Gowarczów,swietokrzyskie,konecki,gowarczow,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,konecki,Stąporków,swietokrzyskie,konecki,staporkow,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Bałtów,swietokrzyskie,ostrowiecki,baltow,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Bodzechów,swietokrzyskie,ostrowiecki,bodzechow,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,starachowicki,Brody,swietokrzyskie,starachowicki,brody,5,5,25000,25000
+ŚWIĘTOKRZYSKIE,starachowicki,Starachowice,swietokrzyskie,starachowicki,starachowice,5,5,25000,25000
+DOLNOŚLĄSKIE,bolesławiecki,Bolesławiec,dolnoslaskie,boleslawiecki,boleslawiec,4,4,20000,20000
+DOLNOŚLĄSKIE,bolesławiecki,Osiecznica,dolnoslaskie,boleslawiecki,osiecznica,4,4,20000,20000
+DOLNOŚLĄSKIE,głogowski,Jerzmanowa,dolnoslaskie,glogowski,jerzmanowa,4,4,20000,20000
+DOLNOŚLĄSKIE,głogowski,Żukowice,dolnoslaskie,glogowski,zukowice,4,4,20000,20000
+DOLNOŚLĄSKIE,jaworski,Męcinka,dolnoslaskie,jaworski,mecinka,4,4,20000,20000
+DOLNOŚLĄSKIE,jaworski,Wądroże Wielkie,dolnoslaskie,jaworski,wadroze_wielkie,4,4,20000,20000
+DOLNOŚLĄSKIE,legnicki,Krotoszyce,dolnoslaskie,legnicki,krotoszyce,4,3,20000,15000
+DOLNOŚLĄSKIE,milicki,Krośnice,dolnoslaskie,milicki,krosnice,4,4,20000,20000
+DOLNOŚLĄSKIE,oleśnicki,Bierutów,dolnoslaskie,olesnicki,bierutow,4,4,20000,20000
+DOLNOŚLĄSKIE,oławski,Jelcz-Laskowice,dolnoslaskie,olawski,jelcz_laskowice,4,4,20000,20000
+DOLNOŚLĄSKIE,strzeliński,Borów,dolnoslaskie,strzelinski,borow,4,4,20000,20000
+DOLNOŚLĄSKIE,trzebnicki,Prusice,dolnoslaskie,trzebnicki,prusice,4,4,20000,20000
+DOLNOŚLĄSKIE,wrocławski,Czernica,dolnoslaskie,wroclawski,czernica,4,4,20000,20000
+DOLNOŚLĄSKIE,wrocławski,Kąty Wrocławskie,dolnoslaskie,wroclawski,katy_wroclawskie,4,3,20000,15000
+DOLNOŚLĄSKIE,wrocławski,Siechnice,dolnoslaskie,wroclawski,siechnice,4,4,20000,20000
+DOLNOŚLĄSKIE,zgorzelecki,Pieńsk,dolnoslaskie,zgorzelecki,piensk,4,4,20000,20000
+DOLNOŚLĄSKIE,ząbkowicki,Bardo,dolnoslaskie,zabkowicki,bardo,4,4,20000,20000
+DOLNOŚLĄSKIE,złotoryjski,Zagrodno,dolnoslaskie,zlotoryjski,zagrodno,4,4,20000,20000
+DOLNOŚLĄSKIE,średzki,Kostomłoty,dolnoslaskie,sredzki,kostomloty,4,4,20000,20000
+DOLNOŚLĄSKIE,średzki,Malczyce,dolnoslaskie,sredzki,malczyce,4,3,20000,15000
+DOLNOŚLĄSKIE,świdnicki,Dobromierz,dolnoslaskie,swidnicki,dobromierz,4,4,20000,20000
+KUJAWSKO-POMORSKIE,aleksandrowski,Koneck,kujawsko_pomorskie,aleksandrowski,koneck,4,3,20000,15000
+KUJAWSKO-POMORSKIE,aleksandrowski,Waganiec,kujawsko_pomorskie,aleksandrowski,waganiec,4,4,20000,20000
+KUJAWSKO-POMORSKIE,brodnicki,Bartniczka,kujawsko_pomorskie,brodnicki,bartniczka,4,4,20000,20000
+KUJAWSKO-POMORSKIE,brodnicki,Osiek,kujawsko_pomorskie,brodnicki,osiek,4,4,20000,20000
+KUJAWSKO-POMORSKIE,brodnicki,Zbiczno,kujawsko_pomorskie,brodnicki,zbiczno,4,4,20000,20000
+KUJAWSKO-POMORSKIE,brodnicki,Świedziebnia,kujawsko_pomorskie,brodnicki,swiedziebnia,4,4,20000,20000
+KUJAWSKO-POMORSKIE,mogileński,Dąbrowa,kujawsko_pomorskie,mogilenski,dabrowa,4,4,20000,20000
+KUJAWSKO-POMORSKIE,mogileński,Jeziora Wielkie,kujawsko_pomorskie,mogilenski,jeziora_wielkie,4,4,20000,20000
+KUJAWSKO-POMORSKIE,toruński,Łysomice,kujawsko_pomorskie,torunski,lysomice,4,4,20000,20000
+KUJAWSKO-POMORSKIE,tucholski,Kęsowo,kujawsko_pomorskie,tucholski,kesowo,4,4,20000,20000
+KUJAWSKO-POMORSKIE,wąbrzeski,Książki,kujawsko_pomorskie,wabrzeski,ksiazki,4,4,20000,20000
+KUJAWSKO-POMORSKIE,wąbrzeski,Wąbrzeźno,kujawsko_pomorskie,wabrzeski,wabrzezno,4,4,20000,20000
+KUJAWSKO-POMORSKIE,włocławski,Brześć Kujawski,kujawsko_pomorskie,wloclawski,brzesc_kujawski,4,4,20000,20000
+KUJAWSKO-POMORSKIE,świecki,Bukowiec,kujawsko_pomorskie,swiecki,bukowiec,4,4,20000,20000
+KUJAWSKO-POMORSKIE,świecki,Lniano,kujawsko_pomorskie,swiecki,lniano,4,4,20000,20000
+KUJAWSKO-POMORSKIE,świecki,Nowe,kujawsko_pomorskie,swiecki,nowe,4,3,20000,15000
+KUJAWSKO-POMORSKIE,świecki,Osie,kujawsko_pomorskie,swiecki,osie,4,4,20000,20000
+KUJAWSKO-POMORSKIE,świecki,Świekatowo,kujawsko_pomorskie,swiecki,swiekatowo,4,4,20000,20000
+LUBELSKIE,bialski,Janów Podlaski,lubelskie,bialski,janow_podlaski,4,4,20000,20000
+LUBELSKIE,bialski,Leśna Podlaska,lubelskie,bialski,lesna_podlaska,4,4,20000,20000
+LUBELSKIE,bialski,Rossosz,lubelskie,bialski,rossosz,4,4,20000,20000
+LUBELSKIE,bialski,Sławatycze,lubelskie,bialski,slawatycze,4,4,20000,20000
+LUBELSKIE,biłgorajski,Tarnogród,lubelskie,bilgorajski,tarnogrod,4,3,20000,15000
+LUBELSKIE,biłgorajski,Łukowa,lubelskie,bilgorajski,lukowa,4,4,20000,20000
+LUBELSKIE,hrubieszowski,Horodło,lubelskie,hrubieszowski,horodlo,4,4,20000,20000
+LUBELSKIE,janowski,Godziszów,lubelskie,janowski,godziszow,4,4,20000,20000
+LUBELSKIE,kraśnicki,Dzierzkowice,lubelskie,krasnicki,dzierzkowice,4,4,20000,20000
+LUBELSKIE,parczewski,Podedwórze,lubelskie,parczewski,podedworze,4,4,20000,20000
+LUBELSKIE,puławski,Baranów,lubelskie,pulawski,baranow,4,4,20000,20000
+LUBELSKIE,puławski,Nałęczów,lubelskie,pulawski,naleczow,4,4,20000,20000
+LUBELSKIE,rycki,Dęblin,lubelskie,rycki,deblin,4,4,20000,20000
+LUBELSKIE,łukowski,Wola Mysłowska,lubelskie,lukowski,wola_myslowska,4,4,20000,20000
+LUBELSKIE,łęczyński,Ludwin,lubelskie,leczynski,ludwin,4,4,20000,20000
+LUBUSKIE,gorzowski,Kłodawa,lubuskie,gorzowski,klodawa,4,4,20000,20000
+LUBUSKIE,gorzowski,Witnica,lubuskie,gorzowski,witnica,4,4,20000,20000
+LUBUSKIE,międzyrzecki,Bledzew,lubuskie,miedzyrzecki,bledzew,4,4,20000,20000
+LUBUSKIE,nowosolski,Otyń,lubuskie,nowosolski,otyn,4,4,20000,20000
+LUBUSKIE,strzelecko-drezdenecki,Dobiegniew,lubuskie,strzelecko_drezdenecki,dobiegniew,4,4,20000,20000
+LUBUSKIE,sulęciński,Sulęcin,lubuskie,sulecinski,sulecin,4,4,20000,20000
+LUBUSKIE,słubicki,Ośno Lubuskie,lubuskie,slubicki,osno_lubuskie,4,4,20000,20000
+LUBUSKIE,zielonogórski,Sulechów,lubuskie,zielonogorski,sulechow,4,4,20000,20000
+LUBUSKIE,świebodziński,Szczaniec,lubuskie,swiebodzinski,szczaniec,4,4,20000,20000
+LUBUSKIE,świebodziński,Zbąszynek,lubuskie,swiebodzinski,zbaszynek,4,4,20000,20000
+MAZOWIECKIE,ciechanowski,Regimin,mazowieckie,ciechanowski,regimin,4,4,20000,20000
+MAZOWIECKIE,garwoliński,Parysów,mazowieckie,garwolinski,parysow,4,4,20000,20000
+MAZOWIECKIE,garwoliński,Sobolew,mazowieckie,garwolinski,sobolew,4,4,20000,20000
+MAZOWIECKIE,garwoliński,Łaskarzew,mazowieckie,garwolinski,laskarzew,4,4,20000,20000
+MAZOWIECKIE,gostyniński,Szczawin Kościelny,mazowieckie,gostyninski,szczawin_koscielny,4,4,20000,20000
+MAZOWIECKIE,kozienicki,Garbatka-Letnisko,mazowieckie,kozienicki,garbatka_letnisko,4,4,20000,20000
+MAZOWIECKIE,kozienicki,Gniewoszów,mazowieckie,kozienicki,gniewoszow,4,4,20000,20000
+MAZOWIECKIE,miński,Stanisławów,mazowieckie,minski,stanislawow,4,4,20000,20000
+MAZOWIECKIE,nowodworski,Nowy Dwór Mazowiecki,mazowieckie,nowodworski,nowy_dwor_mazowiecki,4,4,20000,20000
+MAZOWIECKIE,nowodworski,Zakroczym,mazowieckie,nowodworski,zakroczym,4,4,20000,20000
+MAZOWIECKIE,ostrołęcki,Baranowo,mazowieckie,ostrolecki,baranowo,4,4,20000,20000
+MAZOWIECKIE,ostrołęcki,Lelis,mazowieckie,ostrolecki,lelis,4,4,20000,20000
+MAZOWIECKIE,ostrołęcki,Olszewo-Borki,mazowieckie,ostrolecki,olszewo_borki,4,4,20000,20000
+MAZOWIECKIE,ostrołęcki,Rzekuń,mazowieckie,ostrolecki,rzekun,4,4,20000,20000
+MAZOWIECKIE,piaseczyński,Tarczyn,mazowieckie,piaseczynski,tarczyn,4,2,20000,10000
+MAZOWIECKIE,pruszkowski,Brwinów,mazowieckie,pruszkowski,brwinow,4,4,20000,20000
+MAZOWIECKIE,przasnyski,Czernice Borowe,mazowieckie,przasnyski,czernice_borowe,4,4,20000,20000
+MAZOWIECKIE,przysuski,Borkowice,mazowieckie,przysuski,borkowice,4,3,20000,15000
+MAZOWIECKIE,pułtuski,Zatory,mazowieckie,pultuski,zatory,4,4,20000,20000
+MAZOWIECKIE,płocki,Łąck,mazowieckie,plocki,lack,4,3,20000,15000
+MAZOWIECKIE,płoński,Załuski,mazowieckie,plonski,zaluski,4,4,20000,20000
+MAZOWIECKIE,radomski,Pionki,mazowieckie,radomski,pionki,4,4,20000,20000
+MAZOWIECKIE,siedlecki,Paprotnia,mazowieckie,siedlecki,paprotnia,4,3,20000,15000
+MAZOWIECKIE,sierpecki,Rościszewo,mazowieckie,sierpecki,rosciszewo,4,4,20000,20000
+MAZOWIECKIE,wyszkowski,Rząśnik,mazowieckie,wyszkowski,rzasnik,4,4,20000,20000
+MAZOWIECKIE,łosicki,Huszlew,mazowieckie,losicki,huszlew,4,4,20000,20000
+MAZOWIECKIE,żuromiński,Bieżuń,mazowieckie,zurominski,biezun,4,4,20000,20000
+MAZOWIECKIE,żuromiński,Lubowidz,mazowieckie,zurominski,lubowidz,4,4,20000,20000
+MAŁOPOLSKIE,brzeski,Iwkowa,malopolskie,brzeski,iwkowa,4,4,20000,20000
+MAŁOPOLSKIE,chrzanowski,Babice,malopolskie,chrzanowski,babice,4,4,20000,20000
+MAŁOPOLSKIE,dąbrowski,Mędrzechów,malopolskie,dabrowski,medrzechow,4,4,20000,20000
+MAŁOPOLSKIE,krakowski,Mogilany,malopolskie,krakowski,mogilany,4,2,20000,10000
+MAŁOPOLSKIE,limanowski,Łukowica,malopolskie,limanowski,lukowica,4,4,20000,20000
+MAŁOPOLSKIE,myślenicki,Siepraw,malopolskie,myslenicki,siepraw,4,3,20000,15000
+MAŁOPOLSKIE,nowosądecki,Chełmiec,malopolskie,nowosadecki,chelmiec,4,4,20000,20000
+MAŁOPOLSKIE,nowosądecki,Muszyna,malopolskie,nowosadecki,muszyna,4,4,20000,20000
+MAŁOPOLSKIE,nowosądecki,Łabowa,malopolskie,nowosadecki,labowa,4,4,20000,20000
+MAŁOPOLSKIE,nowotarski,Krościenko nad Dunajcem,malopolskie,nowotarski,kroscienko_nad_dunajcem,4,4,20000,20000
+MAŁOPOLSKIE,nowotarski,Lipnica Wielka,malopolskie,nowotarski,lipnica_wielka,4,4,20000,20000
+MAŁOPOLSKIE,olkuski,Klucze,malopolskie,olkuski,klucze,4,4,20000,20000
+MAŁOPOLSKIE,oświęcimski,Zator,malopolskie,oswiecimski,zator,4,4,20000,20000
+MAŁOPOLSKIE,suski,Zembrzyce,malopolskie,suski,zembrzyce,4,4,20000,20000
+MAŁOPOLSKIE,tarnowski,Szerzyny,malopolskie,tarnowski,szerzyny,4,4,20000,20000
+MAŁOPOLSKIE,wadowicki,Stryszów,malopolskie,wadowicki,stryszow,4,4,20000,20000
+OPOLSKIE,brzeski,Lubsza,opolskie,brzeski,lubsza,4,4,20000,20000
+OPOLSKIE,krapkowicki,Krapkowice,opolskie,krapkowicki,krapkowice,4,4,20000,20000
+OPOLSKIE,namysłowski,Domaszowice,opolskie,namyslowski,domaszowice,4,4,20000,20000
+OPOLSKIE,namysłowski,Pokój,opolskie,namyslowski,pokoj,4,4,20000,20000
+PODKARPACKIE,brzozowski,Dydnia,podkarpackie,brzozowski,dydnia,4,4,20000,20000
+PODKARPACKIE,jarosławski,Rokietnica,podkarpackie,jaroslawski,rokietnica,4,4,20000,20000
+PODKARPACKIE,kolbuszowski,Niwiska,podkarpackie,kolbuszowski,niwiska,4,4,20000,20000
+PODKARPACKIE,kolbuszowski,Raniżów,podkarpackie,kolbuszowski,ranizow,4,4,20000,20000
+PODKARPACKIE,przemyski,Medyka,podkarpackie,przemyski,medyka,4,4,20000,20000
+PODKARPACKIE,rzeszowski,Kamień,podkarpackie,rzeszowski,kamien,4,4,20000,20000
+PODKARPACKIE,sanocki,Tyrawa Wołoska,podkarpackie,sanocki,tyrawa_woloska,4,3,20000,15000
+PODKARPACKIE,łańcucki,Markowa,podkarpackie,lancucki,markowa,4,4,20000,20000
+PODKARPACKIE,łańcucki,Żołynia,podkarpackie,lancucki,zolynia,4,3,20000,15000
+PODLASKIE,białostocki,Michałowo,podlaskie,bialostocki,michalowo,4,4,20000,20000
+PODLASKIE,białostocki,Suraż,podlaskie,bialostocki,suraz,4,4,20000,20000
+PODLASKIE,bielski,Boćki,podlaskie,bielski,bocki,4,4,20000,20000
+PODLASKIE,grajewski,Radziłów,podlaskie,grajewski,radzilow,4,4,20000,20000
+PODLASKIE,hajnowski,Czeremcha,podlaskie,hajnowski,czeremcha,4,4,20000,20000
+PODLASKIE,hajnowski,Czyże,podlaskie,hajnowski,czyze,4,4,20000,20000
+PODLASKIE,hajnowski,Narew,podlaskie,hajnowski,narew,4,4,20000,20000
+PODLASKIE,sejneński,Giby,podlaskie,sejnenski,giby,4,4,20000,20000
+PODLASKIE,sokólski,Janów,podlaskie,sokolski,janow,4,4,20000,20000
+PODLASKIE,sokólski,Korycin,podlaskie,sokolski,korycin,4,4,20000,20000
+PODLASKIE,sokólski,Kuźnica,podlaskie,sokolski,kuznica,4,4,20000,20000
+PODLASKIE,suwalski,Bakałarzewo,podlaskie,suwalski,bakalarzewo,4,4,20000,20000
+PODLASKIE,wysokomazowiecki,Kulesze Kościelne,podlaskie,wysokomazowiecki,kulesze_koscielne,4,4,20000,20000
+POMORSKIE,kościerski,Liniewo,pomorskie,koscierski,liniewo,4,4,20000,20000
+POMORSKIE,kościerski,Nowa Karczma,pomorskie,koscierski,nowa_karczma,4,4,20000,20000
+POMORSKIE,malborski,Lichnowy,pomorskie,malborski,lichnowy,4,4,20000,20000
+POMORSKIE,nowodworski,Sztutowo,pomorskie,nowodworski,sztutowo,4,4,20000,20000
+POMORSKIE,starogardzki,Czarna Woda,pomorskie,starogardzki,czarna_woda,4,3,20000,15000
+POMORSKIE,starogardzki,Kaliska,pomorskie,starogardzki,kaliska,4,3,20000,15000
+POMORSKIE,sztumski,Dzierzgoń,pomorskie,sztumski,dzierzgon,4,4,20000,20000
+POMORSKIE,sztumski,Stary Dzierzgoń,pomorskie,sztumski,stary_dzierzgon,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,braniewski,Lelkowo,warminsko_mazurskie,braniewski,lelkowo,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,braniewski,Pieniężno,warminsko_mazurskie,braniewski,pieniezno,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,braniewski,Płoskinia,warminsko_mazurskie,braniewski,ploskinia,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,braniewski,Wilczęta,warminsko_mazurskie,braniewski,wilczeta,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,elbląski,Gronowo Elbląskie,warminsko_mazurskie,elblaski,gronowo_elblaskie,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,elbląski,Rychliki,warminsko_mazurskie,elblaski,rychliki,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,elbląski,Tolkmicko,warminsko_mazurskie,elblaski,tolkmicko,4,3,20000,15000
+WARMIŃSKO-MAZURSKIE,gołdapski,Banie Mazurskie,warminsko_mazurskie,goldapski,banie_mazurskie,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,gołdapski,Gołdap,warminsko_mazurskie,goldapski,goldap,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,iławski,Kisielice,warminsko_mazurskie,ilawski,kisielice,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,lidzbarski,Orneta,warminsko_mazurskie,lidzbarski,orneta,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,mrągowski,Sorkwity,warminsko_mazurskie,mragowski,sorkwity,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,nowomiejski,Grodziczno,warminsko_mazurskie,nowomiejski,grodziczno,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,olsztyński,Barczewo,warminsko_mazurskie,olsztynski,barczewo,4,4,20000,20000
+WARMIŃSKO-MAZURSKIE,olsztyński,Jonkowo,warminsko_mazurskie,olsztynski,jonkowo,4,3,20000,15000
+WARMIŃSKO-MAZURSKIE,węgorzewski,Pozezdrze,warminsko_mazurskie,wegorzewski,pozezdrze,4,4,20000,20000
+WIELKOPOLSKIE,chodzieski,Budzyń,wielkopolskie,chodzieski,budzyn,4,4,20000,20000
+WIELKOPOLSKIE,gnieźnieński,Niechanowo,wielkopolskie,gnieznienski,niechanowo,4,4,20000,20000
+WIELKOPOLSKIE,gnieźnieński,Witkowo,wielkopolskie,gnieznienski,witkowo,4,3,20000,15000
+WIELKOPOLSKIE,kolski,Chodów,wielkopolskie,kolski,chodow,4,4,20000,20000
+WIELKOPOLSKIE,kępiński,Bralin,wielkopolskie,kepinski,bralin,4,4,20000,20000
+WIELKOPOLSKIE,pilski,Łobżenica,wielkopolskie,pilski,lobzenica,4,4,20000,20000
+WIELKOPOLSKIE,szamotulski,Kaźmierz,wielkopolskie,szamotulski,kazmierz,4,4,20000,20000
+WIELKOPOLSKIE,słupecki,Orchowo,wielkopolskie,slupecki,orchowo,4,4,20000,20000
+WIELKOPOLSKIE,wągrowiecki,Mieścisko,wielkopolskie,wagrowiecki,miescisko,4,4,20000,20000
+WIELKOPOLSKIE,wągrowiecki,Skoki,wielkopolskie,wagrowiecki,skoki,4,4,20000,20000
+WIELKOPOLSKIE,złotowski,Złotów,wielkopolskie,zlotowski,zlotow,4,4,20000,20000
+ZACHODNIOPOMORSKIE,choszczeński,Choszczno,zachodniopomorskie,choszczenski,choszczno,4,4,20000,20000
+ZACHODNIOPOMORSKIE,drawski,Złocieniec,zachodniopomorskie,drawski,zlocieniec,4,4,20000,20000
+ZACHODNIOPOMORSKIE,gryfiński,Chojna,zachodniopomorskie,gryfinski,chojna,4,4,20000,20000
+ZACHODNIOPOMORSKIE,gryfiński,Stare Czarnowo,zachodniopomorskie,gryfinski,stare_czarnowo,4,4,20000,20000
+ZACHODNIOPOMORSKIE,kamieński,Golczewo,zachodniopomorskie,kamienski,golczewo,4,4,20000,20000
+ZACHODNIOPOMORSKIE,koszaliński,Biesiekierz,zachodniopomorskie,koszalinski,biesiekierz,4,4,20000,20000
+ZACHODNIOPOMORSKIE,stargardzki,Marianowo,zachodniopomorskie,stargardzki,marianowo,4,4,20000,20000
+ZACHODNIOPOMORSKIE,szczecinecki,Barwice,zachodniopomorskie,szczecinecki,barwice,4,4,20000,20000
+ZACHODNIOPOMORSKIE,sławieński,Malechowo,zachodniopomorskie,slawienski,malechowo,4,4,20000,20000
+ZACHODNIOPOMORSKIE,sławieński,Postomino,zachodniopomorskie,slawienski,postomino,4,4,20000,20000
+ZACHODNIOPOMORSKIE,świdwiński,Brzeżno,zachodniopomorskie,swidwinski,brzezno,4,4,20000,20000
+ŁÓDZKIE,bełchatowski,Kluki,lodzkie,belchatowski,kluki,4,4,20000,20000
+ŁÓDZKIE,bełchatowski,Zelów,lodzkie,belchatowski,zelow,4,4,20000,20000
+ŁÓDZKIE,brzeziński,Dmosin,lodzkie,brzezinski,dmosin,4,4,20000,20000
+ŁÓDZKIE,kutnowski,Dąbrowice,lodzkie,kutnowski,dabrowice,4,4,20000,20000
+ŁÓDZKIE,opoczyński,Paradyż,lodzkie,opoczynski,paradyz,4,4,20000,20000
+ŁÓDZKIE,pabianicki,Dłutów,lodzkie,pabianicki,dlutow,4,4,20000,20000
+ŁÓDZKIE,pajęczański,Nowa Brzeźnica,lodzkie,pajeczanski,nowa_brzeznica,4,4,20000,20000
+ŁÓDZKIE,piotrkowski,Gorzkowice,lodzkie,piotrkowski,gorzkowice,4,4,20000,20000
+ŁÓDZKIE,piotrkowski,Moszczenica,lodzkie,piotrkowski,moszczenica,4,4,20000,20000
+ŁÓDZKIE,piotrkowski,Wola Krzysztoporska,lodzkie,piotrkowski,wola_krzysztoporska,4,4,20000,20000
+ŁÓDZKIE,rawski,Cielądz,lodzkie,rawski,cieladz,4,4,20000,20000
+ŁÓDZKIE,sieradzki,Złoczew,lodzkie,sieradzki,zloczew,4,4,20000,20000
+ŁÓDZKIE,skierniewicki,Słupia,lodzkie,skierniewicki,slupia,4,4,20000,20000
+ŁÓDZKIE,wieluński,Czarnożyły,lodzkie,wielunski,czarnozyly,4,4,20000,20000
+ŁÓDZKIE,wieluński,Osjaków,lodzkie,wielunski,osjakow,4,4,20000,20000
+ŁÓDZKIE,zduńskowolski,Zapolice,lodzkie,zdunskowolski,zapolice,4,4,20000,20000
+ŁÓDZKIE,zgierski,Stryków,lodzkie,zgierski,strykow,4,4,20000,20000
+ŁÓDZKIE,łowicki,Nieborów,lodzkie,lowicki,nieborow,4,4,20000,20000
+ŁÓDZKIE,łódzki wschodni,Tuszyn,lodzkie,lodzki_wschodni,tuszyn,4,4,20000,20000
+ŚLĄSKIE,cieszyński,Ustroń,slaskie,cieszynski,ustron,4,4,20000,20000
+ŚLĄSKIE,cieszyński,Wisła,slaskie,cieszynski,wisla,4,4,20000,20000
+ŚLĄSKIE,częstochowski,Mstów,slaskie,czestochowski,mstow,4,4,20000,20000
+ŚLĄSKIE,wodzisławski,Godów,slaskie,wodzislawski,godow,4,4,20000,20000
+ŚLĄSKIE,wodzisławski,Pszów,slaskie,wodzislawski,pszow,4,2,20000,10000
+ŚLĄSKIE,wodzisławski,Radlin,slaskie,wodzislawski,radlin,4,2,20000,10000
+ŚLĄSKIE,żywiecki,Żywiec,slaskie,zywiecki,zywiec,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,kazimierski,Skalbmierz,swietokrzyskie,kazimierski,skalbmierz,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,kielecki,Bodzentyn,swietokrzyskie,kielecki,bodzentyn,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,kielecki,Miedziana Góra,swietokrzyskie,kielecki,miedziana_gora,4,3,20000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Mniów,swietokrzyskie,kielecki,mniow,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,kielecki,Nowiny,swietokrzyskie,kielecki,nowiny,4,3,20000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Zagnańsk,swietokrzyskie,kielecki,zagnansk,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,kielecki,Łagów,swietokrzyskie,kielecki,lagow,4,3,20000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Łopuszno,swietokrzyskie,kielecki,lopuszno,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,opatowski,Sadowie,swietokrzyskie,opatowski,sadowie,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,sandomierski,Dwikozy,swietokrzyskie,sandomierski,dwikozy,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,sandomierski,Koprzywnica,swietokrzyskie,sandomierski,koprzywnica,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,skarżyski,Bliżyn,swietokrzyskie,skarzyski,blizyn,4,4,20000,20000
+ŚWIĘTOKRZYSKIE,starachowicki,Wąchock,swietokrzyskie,starachowicki,wachock,4,4,20000,20000
+DOLNOŚLĄSKIE,bolesławiecki,Warta Bolesławiecka,dolnoslaskie,boleslawiecki,warta_boleslawiecka,3,3,15000,15000
+DOLNOŚLĄSKIE,dzierżoniowski,Niemcza,dolnoslaskie,dzierzoniowski,niemcza,3,3,15000,15000
+DOLNOŚLĄSKIE,dzierżoniowski,Pieszyce,dolnoslaskie,dzierzoniowski,pieszyce,3,3,15000,15000
+DOLNOŚLĄSKIE,głogowski,Kotla,dolnoslaskie,glogowski,kotla,3,3,15000,15000
+DOLNOŚLĄSKIE,głogowski,Pęcław,dolnoslaskie,glogowski,peclaw,3,3,15000,15000
+DOLNOŚLĄSKIE,jaworski,Mściwojów,dolnoslaskie,jaworski,msciwojow,3,3,15000,15000
+DOLNOŚLĄSKIE,jaworski,Paszowice,dolnoslaskie,jaworski,paszowice,3,3,15000,15000
+DOLNOŚLĄSKIE,kamiennogórski,Marciszów,dolnoslaskie,kamiennogorski,marciszow,3,3,15000,15000
+DOLNOŚLĄSKIE,karkonoski,Jeżów Sudecki,dolnoslaskie,karkonoski,jezow_sudecki,3,3,15000,15000
+DOLNOŚLĄSKIE,karkonoski,Szklarska Poręba,dolnoslaskie,karkonoski,szklarska_poreba,3,3,15000,15000
+DOLNOŚLĄSKIE,kłodzki,Stronie Śląskie,dolnoslaskie,klodzki,stronie_slaskie,3,3,15000,15000
+DOLNOŚLĄSKIE,kłodzki,Szczytna,dolnoslaskie,klodzki,szczytna,3,3,15000,15000
+DOLNOŚLĄSKIE,legnicki,Legnickie Pole,dolnoslaskie,legnicki,legnickie_pole,3,3,15000,15000
+DOLNOŚLĄSKIE,legnicki,Miłkowice,dolnoslaskie,legnicki,milkowice,3,3,15000,15000
+DOLNOŚLĄSKIE,legnicki,Ruja,dolnoslaskie,legnicki,ruja,3,3,15000,15000
+DOLNOŚLĄSKIE,oleśnicki,Dobroszyce,dolnoslaskie,olesnicki,dobroszyce,3,3,15000,15000
+DOLNOŚLĄSKIE,oleśnicki,Twardogóra,dolnoslaskie,olesnicki,twardogora,3,3,15000,15000
+DOLNOŚLĄSKIE,polkowicki,Chocianów,dolnoslaskie,polkowicki,chocianow,3,3,15000,15000
+DOLNOŚLĄSKIE,polkowicki,Radwanice,dolnoslaskie,polkowicki,radwanice,3,3,15000,15000
+DOLNOŚLĄSKIE,trzebnicki,Zawonia,dolnoslaskie,trzebnicki,zawonia,3,3,15000,15000
+DOLNOŚLĄSKIE,wrocławski,Jordanów Śląski,dolnoslaskie,wroclawski,jordanow_slaski,3,3,15000,15000
+DOLNOŚLĄSKIE,wrocławski,Mietków,dolnoslaskie,wroclawski,mietkow,3,3,15000,15000
+DOLNOŚLĄSKIE,wrocławski,Sobótka,dolnoslaskie,wroclawski,sobotka,3,3,15000,15000
+DOLNOŚLĄSKIE,średzki,Miękinia,dolnoslaskie,sredzki,miekinia,3,3,15000,15000
+KUJAWSKO-POMORSKIE,chełmiński,Chełmno,kujawsko_pomorskie,chelminski,chelmno,3,3,15000,15000
+KUJAWSKO-POMORSKIE,chełmiński,Papowo Biskupie,kujawsko_pomorskie,chelminski,papowo_biskupie,3,3,15000,15000
+KUJAWSKO-POMORSKIE,chełmiński,Stolno,kujawsko_pomorskie,chelminski,stolno,3,3,15000,15000
+KUJAWSKO-POMORSKIE,golubsko-dobrzyński,Zbójno,kujawsko_pomorskie,golubsko_dobrzynski,zbojno,3,3,15000,15000
+KUJAWSKO-POMORSKIE,grudziądzki,Radzyń Chełmiński,kujawsko_pomorskie,grudziadzki,radzyn_chelminski,3,3,15000,15000
+KUJAWSKO-POMORSKIE,inowrocławski,Gniewkowo,kujawsko_pomorskie,inowroclawski,gniewkowo,3,3,15000,15000
+KUJAWSKO-POMORSKIE,inowrocławski,Janikowo,kujawsko_pomorskie,inowroclawski,janikowo,3,3,15000,15000
+KUJAWSKO-POMORSKIE,lipnowski,Chrostkowo,kujawsko_pomorskie,lipnowski,chrostkowo,3,3,15000,15000
+KUJAWSKO-POMORSKIE,lipnowski,Dobrzyń nad Wisłą,kujawsko_pomorskie,lipnowski,dobrzyn_nad_wisla,3,3,15000,15000
+KUJAWSKO-POMORSKIE,lipnowski,Kikół,kujawsko_pomorskie,lipnowski,kikol,3,3,15000,15000
+KUJAWSKO-POMORSKIE,radziejowski,Bytoń,kujawsko_pomorskie,radziejowski,byton,3,3,15000,15000
+KUJAWSKO-POMORSKIE,toruński,Wielka Nieszawka,kujawsko_pomorskie,torunski,wielka_nieszawka,3,3,15000,15000
+KUJAWSKO-POMORSKIE,włocławski,Fabianki,kujawsko_pomorskie,wloclawski,fabianki,3,3,15000,15000
+KUJAWSKO-POMORSKIE,włocławski,Lubień Kujawski,kujawsko_pomorskie,wloclawski,lubien_kujawski,3,3,15000,15000
+KUJAWSKO-POMORSKIE,włocławski,Włocławek,kujawsko_pomorskie,wloclawski,wloclawek,3,3,15000,15000
+KUJAWSKO-POMORSKIE,żniński,Żnin,kujawsko_pomorskie,zninski,znin,3,3,15000,15000
+LUBELSKIE,bialski,Drelów,lubelskie,bialski,drelow,3,3,15000,15000
+LUBELSKIE,bialski,Konstantynów,lubelskie,bialski,konstantynow,3,3,15000,15000
+LUBELSKIE,bialski,Wisznice,lubelskie,bialski,wisznice,3,3,15000,15000
+LUBELSKIE,chełmski,Dubienka,lubelskie,chelmski,dubienka,3,3,15000,15000
+LUBELSKIE,chełmski,Ruda-Huta,lubelskie,chelmski,ruda_huta,3,3,15000,15000
+LUBELSKIE,chełmski,Siedliszcze,lubelskie,chelmski,siedliszcze,3,3,15000,15000
+LUBELSKIE,janowski,Modliborzyce,lubelskie,janowski,modliborzyce,3,3,15000,15000
+LUBELSKIE,puławski,Kurów,lubelskie,pulawski,kurow,3,3,15000,15000
+LUBELSKIE,radzyński,Komarówka Podlaska,lubelskie,radzynski,komarowka_podlaska,3,3,15000,15000
+LUBELSKIE,tomaszowski,Bełżec,lubelskie,tomaszowski,belzec,3,3,15000,15000
+LUBELSKIE,łukowski,Adamów,lubelskie,lukowski,adamow,3,3,15000,15000
+LUBELSKIE,łęczyński,Milejów,lubelskie,leczynski,milejow,3,3,15000,15000
+LUBUSKIE,krośnieński,Bobrowice,lubuskie,krosnienski,bobrowice,3,3,15000,15000
+LUBUSKIE,krośnieński,Bytnica,lubuskie,krosnienski,bytnica,3,3,15000,15000
+LUBUSKIE,nowosolski,Kolsko,lubuskie,nowosolski,kolsko,3,3,15000,15000
+LUBUSKIE,słubicki,Rzepin,lubuskie,slubicki,rzepin,3,3,15000,15000
+LUBUSKIE,wschowski,Sława,lubuskie,wschowski,slawa,3,3,15000,15000
+LUBUSKIE,żagański,Brzeźnica,lubuskie,zaganski,brzeznica,3,3,15000,15000
+LUBUSKIE,żagański,Iłowa,lubuskie,zaganski,ilowa,3,3,15000,15000
+LUBUSKIE,żagański,Niegosławice,lubuskie,zaganski,niegoslawice,3,3,15000,15000
+LUBUSKIE,żagański,Szprotawa,lubuskie,zaganski,szprotawa,3,3,15000,15000
+LUBUSKIE,żarski,Jasień,lubuskie,zarski,jasien,3,3,15000,15000
+LUBUSKIE,żarski,Przewóz,lubuskie,zarski,przewoz,3,3,15000,15000
+MAZOWIECKIE,białobrzeski,Wyśmierzyce,mazowieckie,bialobrzeski,wysmierzyce,3,3,15000,15000
+MAZOWIECKIE,ciechanowski,Grudusk,mazowieckie,ciechanowski,grudusk,3,3,15000,15000
+MAZOWIECKIE,ciechanowski,Opinogóra Górna,mazowieckie,ciechanowski,opinogora_gorna,3,3,15000,15000
+MAZOWIECKIE,grójecki,Belsk Duży,mazowieckie,grojecki,belsk_duzy,3,3,15000,15000
+MAZOWIECKIE,grójecki,Błędów,mazowieckie,grojecki,bledow,3,3,15000,15000
+MAZOWIECKIE,grójecki,Goszczyn,mazowieckie,grojecki,goszczyn,3,3,15000,15000
+MAZOWIECKIE,grójecki,Warka,mazowieckie,grojecki,warka,3,3,15000,15000
+MAZOWIECKIE,legionowski,Serock,mazowieckie,legionowski,serock,3,3,15000,15000
+MAZOWIECKIE,makowski,Rzewnie,mazowieckie,makowski,rzewnie,3,3,15000,15000
+MAZOWIECKIE,makowski,Szelków,mazowieckie,makowski,szelkow,3,3,15000,15000
+MAZOWIECKIE,mławski,Szreńsk,mazowieckie,mlawski,szrensk,3,3,15000,15000
+MAZOWIECKIE,nowodworski,Leoncin,mazowieckie,nowodworski,leoncin,3,3,15000,15000
+MAZOWIECKIE,nowodworski,Pomiechówek,mazowieckie,nowodworski,pomiechowek,3,3,15000,15000
+MAZOWIECKIE,otwocki,Karczew,mazowieckie,otwocki,karczew,3,2,15000,10000
+MAZOWIECKIE,otwocki,Wiązowna,mazowieckie,otwocki,wiazowna,3,0,15000,0
+MAZOWIECKIE,piaseczyński,Lesznowola,mazowieckie,piaseczynski,lesznowola,3,3,15000,15000
+MAZOWIECKIE,piaseczyński,Prażmów,mazowieckie,piaseczynski,prazmow,3,1,15000,5000
+MAZOWIECKIE,pruszkowski,Raszyn,mazowieckie,pruszkowski,raszyn,3,0,15000,0
+MAZOWIECKIE,przysuski,Odrzywół,mazowieckie,przysuski,odrzywol,3,3,15000,15000
+MAZOWIECKIE,przysuski,Wieniawa,mazowieckie,przysuski,wieniawa,3,2,15000,10000
+MAZOWIECKIE,płoński,Nowe Miasto,mazowieckie,plonski,nowe_miasto,3,3,15000,15000
+MAZOWIECKIE,radomski,Jedlińsk,mazowieckie,radomski,jedlinsk,3,3,15000,15000
+MAZOWIECKIE,radomski,Zakrzew,mazowieckie,radomski,zakrzew,3,3,15000,15000
+MAZOWIECKIE,siedlecki,Domanice,mazowieckie,siedlecki,domanice,3,3,15000,15000
+MAZOWIECKIE,sierpecki,Szczutowo,mazowieckie,sierpecki,szczutowo,3,3,15000,15000
+MAZOWIECKIE,wołomiński,Dąbrówka,mazowieckie,wolominski,dabrowka,3,3,15000,15000
+MAZOWIECKIE,wołomiński,Strachówka,mazowieckie,wolominski,strachowka,3,3,15000,15000
+MAZOWIECKIE,wyszkowski,Somianka,mazowieckie,wyszkowski,somianka,3,3,15000,15000
+MAZOWIECKIE,żuromiński,Lutocin,mazowieckie,zurominski,lutocin,3,3,15000,15000
+MAZOWIECKIE,żuromiński,Siemiątkowo,mazowieckie,zurominski,siemiatkowo,3,3,15000,15000
+MAZOWIECKIE,żyrardowski,Radziejowice,mazowieckie,zyrardowski,radziejowice,3,3,15000,15000
+MAŁOPOLSKIE,bocheński,Trzciana,malopolskie,bochenski,trzciana,3,3,15000,15000
+MAŁOPOLSKIE,chrzanowski,Libiąż,malopolskie,chrzanowski,libiaz,3,3,15000,15000
+MAŁOPOLSKIE,limanowski,Mszana Dolna,malopolskie,limanowski,mszana_dolna,3,3,15000,15000
+MAŁOPOLSKIE,myślenicki,Pcim,malopolskie,myslenicki,pcim,3,3,15000,15000
+MAŁOPOLSKIE,nowosądecki,Kamionka Wielka,malopolskie,nowosadecki,kamionka_wielka,3,3,15000,15000
+MAŁOPOLSKIE,nowosądecki,Piwniczna-Zdrój,malopolskie,nowosadecki,piwniczna_zdroj,3,3,15000,15000
+MAŁOPOLSKIE,olkuski,Bolesław,malopolskie,olkuski,boleslaw,3,3,15000,15000
+MAŁOPOLSKIE,oświęcimski,Chełmek,malopolskie,oswiecimski,chelmek,3,3,15000,15000
+MAŁOPOLSKIE,suski,Bystra-Sidzina,malopolskie,suski,bystra_sidzina,3,2,15000,10000
+MAŁOPOLSKIE,tarnowski,Gromnik,malopolskie,tarnowski,gromnik,3,3,15000,15000
+MAŁOPOLSKIE,tarnowski,Skrzyszów,malopolskie,tarnowski,skrzyszow,3,3,15000,15000
+MAŁOPOLSKIE,tatrzański,Poronin,malopolskie,tatrzanski,poronin,3,3,15000,15000
+MAŁOPOLSKIE,wadowicki,Mucharz,malopolskie,wadowicki,mucharz,3,3,15000,15000
+MAŁOPOLSKIE,wielicki,Biskupice,malopolskie,wielicki,biskupice,3,3,15000,15000
+OPOLSKIE,brzeski,Olszanka,opolskie,brzeski,olszanka,3,3,15000,15000
+OPOLSKIE,oleski,Dobrodzień,opolskie,oleski,dobrodzien,3,3,15000,15000
+OPOLSKIE,oleski,Zębowice,opolskie,oleski,zebowice,3,3,15000,15000
+OPOLSKIE,opolski,Dobrzeń Wielki,opolskie,opolski,dobrzen_wielki,3,3,15000,15000
+OPOLSKIE,opolski,Niemodlin,opolskie,opolski,niemodlin,3,3,15000,15000
+PODKARPACKIE,krośnieński,Iwonicz-Zdrój,podkarpackie,krosnienski,iwonicz_zdroj,3,3,15000,15000
+PODKARPACKIE,niżański,Rudnik nad Sanem,podkarpackie,nizanski,rudnik_nad_sanem,3,3,15000,15000
+PODKARPACKIE,przemyski,Bircza,podkarpackie,przemyski,bircza,3,3,15000,15000
+PODKARPACKIE,przemyski,Stubno,podkarpackie,przemyski,stubno,3,3,15000,15000
+PODKARPACKIE,przeworski,Adamówka,podkarpackie,przeworski,adamowka,3,3,15000,15000
+PODKARPACKIE,rzeszowski,Chmielnik,podkarpackie,rzeszowski,chmielnik,3,3,15000,15000
+PODKARPACKIE,rzeszowski,Hyżne,podkarpackie,rzeszowski,hyzne,3,3,15000,15000
+PODKARPACKIE,sanocki,Besko,podkarpackie,sanocki,besko,3,2,15000,10000
+PODKARPACKIE,sanocki,Komańcza,podkarpackie,sanocki,komancza,3,2,15000,10000
+PODKARPACKIE,sanocki,Zagórz,podkarpackie,sanocki,zagorz,3,3,15000,15000
+PODKARPACKIE,łańcucki,Rakszawa,podkarpackie,lancucki,rakszawa,3,2,15000,10000
+PODLASKIE,augustowski,Nowinka,podlaskie,augustowski,nowinka,3,3,15000,15000
+PODLASKIE,białostocki,Grabówka,podlaskie,bialostocki,grabowka,3,3,15000,15000
+PODLASKIE,bielski,Orla,podlaskie,bielski,orla,3,3,15000,15000
+PODLASKIE,kolneński,Mały Płock,podlaskie,kolnenski,maly_plock,3,3,15000,15000
+PODLASKIE,m. Suwałki,Suwałki,podlaskie,m_suwalki,suwalki,3,3,15000,15000
+PODLASKIE,moniecki,Goniądz,podlaskie,moniecki,goniadz,3,3,15000,15000
+PODLASKIE,moniecki,Krypno,podlaskie,moniecki,krypno,3,3,15000,15000
+PODLASKIE,siemiatycki,Milejczyce,podlaskie,siemiatycki,milejczyce,3,3,15000,15000
+PODLASKIE,suwalski,Jeleniewo,podlaskie,suwalski,jeleniewo,3,3,15000,15000
+PODLASKIE,łomżyński,Zbójna,podlaskie,lomzynski,zbojna,3,3,15000,15000
+PODLASKIE,łomżyński,Łomża,podlaskie,lomzynski,lomza,3,3,15000,15000
+POMORSKIE,człuchowski,Czarne,pomorskie,czluchowski,czarne,3,3,15000,15000
+POMORSKIE,kartuski,Sierakowice,pomorskie,kartuski,sierakowice,3,3,15000,15000
+POMORSKIE,kwidzyński,Ryjewo,pomorskie,kwidzynski,ryjewo,3,3,15000,15000
+POMORSKIE,malborski,Stare Pole,pomorskie,malborski,stare_pole,3,3,15000,15000
+POMORSKIE,nowodworski,Krynica Morska,pomorskie,nowodworski,krynica_morska,3,3,15000,15000
+POMORSKIE,pucki,Władysławowo,pomorskie,pucki,wladyslawowo,3,3,15000,15000
+POMORSKIE,starogardzki,Lubichowo,pomorskie,starogardzki,lubichowo,3,2,15000,10000
+POMORSKIE,starogardzki,Smętowo Graniczne,pomorskie,starogardzki,smetowo_graniczne,3,3,15000,15000
+POMORSKIE,sztumski,Mikołajki Pomorskie,pomorskie,sztumski,mikolajki_pomorskie,3,3,15000,15000
+POMORSKIE,wejherowski,Luzino,pomorskie,wejherowski,luzino,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,bartoszycki,Górowo Iławeckie,warminsko_mazurskie,bartoszycki,gorowo_ilaweckie,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,braniewski,Frombork,warminsko_mazurskie,braniewski,frombork,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,elbląski,Godkowo,warminsko_mazurskie,elblaski,godkowo,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,ełcki,Kalinowo,warminsko_mazurskie,elcki,kalinowo,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,giżycki,Miłki,warminsko_mazurskie,gizycki,milki,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,nidzicki,Janowiec Kościelny,warminsko_mazurskie,nidzicki,janowiec_koscielny,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,nidzicki,Janowo,warminsko_mazurskie,nidzicki,janowo,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,olsztyński,Kolno,warminsko_mazurskie,olsztynski,kolno,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,olsztyński,Olsztynek,warminsko_mazurskie,olsztynski,olsztynek,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,ostródzki,Dąbrówno,warminsko_mazurskie,ostrodzki,dabrowno,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,ostródzki,Grunwald,warminsko_mazurskie,ostrodzki,grunwald,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,ostródzki,Małdyty,warminsko_mazurskie,ostrodzki,maldyty,3,3,15000,15000
+WARMIŃSKO-MAZURSKIE,piski,Ruciane-Nida,warminsko_mazurskie,piski,ruciane_nida,3,3,15000,15000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Drawsko,wielkopolskie,czarnkowsko_trzcianecki,drawsko,3,3,15000,15000
+WIELKOPOLSKIE,krotoszyński,Zduny,wielkopolskie,krotoszynski,zduny,3,3,15000,15000
+WIELKOPOLSKIE,kępiński,Baranów,wielkopolskie,kepinski,baranow,3,3,15000,15000
+WIELKOPOLSKIE,obornicki,Rogoźno,wielkopolskie,obornicki,rogozno,3,3,15000,15000
+WIELKOPOLSKIE,poznański,Tarnowo Podgórne,wielkopolskie,poznanski,tarnowo_podgorne,3,2,15000,10000
+WIELKOPOLSKIE,szamotulski,Szamotuły,wielkopolskie,szamotulski,szamotuly,3,3,15000,15000
+WIELKOPOLSKIE,szamotulski,Wronki,wielkopolskie,szamotulski,wronki,3,3,15000,15000
+WIELKOPOLSKIE,wrzesiński,Pyzdry,wielkopolskie,wrzesinski,pyzdry,3,3,15000,15000
+WIELKOPOLSKIE,wągrowiecki,Damasławek,wielkopolskie,wagrowiecki,damaslawek,3,3,15000,15000
+WIELKOPOLSKIE,złotowski,Lipka,wielkopolskie,zlotowski,lipka,3,3,15000,15000
+WIELKOPOLSKIE,śremski,Książ Wielkopolski,wielkopolskie,sremski,ksiaz_wielkopolski,3,3,15000,15000
+ZACHODNIOPOMORSKIE,białogardzki,Karlino,zachodniopomorskie,bialogardzki,karlino,3,3,15000,15000
+ZACHODNIOPOMORSKIE,choszczeński,Krzęcin,zachodniopomorskie,choszczenski,krzecin,3,3,15000,15000
+ZACHODNIOPOMORSKIE,gryficki,Rewal,zachodniopomorskie,gryficki,rewal,3,3,15000,15000
+ZACHODNIOPOMORSKIE,gryfiński,Banie,zachodniopomorskie,gryfinski,banie,3,3,15000,15000
+ZACHODNIOPOMORSKIE,gryfiński,Moryń,zachodniopomorskie,gryfinski,moryn,3,3,15000,15000
+ZACHODNIOPOMORSKIE,koszaliński,Będzino,zachodniopomorskie,koszalinski,bedzino,3,3,15000,15000
+ZACHODNIOPOMORSKIE,koszaliński,Polanów,zachodniopomorskie,koszalinski,polanow,3,3,15000,15000
+ZACHODNIOPOMORSKIE,koszaliński,Świeszyno,zachodniopomorskie,koszalinski,swieszyno,3,3,15000,15000
+ZACHODNIOPOMORSKIE,myśliborski,Barlinek,zachodniopomorskie,mysliborski,barlinek,3,3,15000,15000
+ZACHODNIOPOMORSKIE,myśliborski,Boleszkowice,zachodniopomorskie,mysliborski,boleszkowice,3,3,15000,15000
+ZACHODNIOPOMORSKIE,stargardzki,Suchań,zachodniopomorskie,stargardzki,suchan,3,3,15000,15000
+ZACHODNIOPOMORSKIE,szczecinecki,Grzmiąca,zachodniopomorskie,szczecinecki,grzmiaca,3,3,15000,15000
+ZACHODNIOPOMORSKIE,wałecki,Człopa,zachodniopomorskie,walecki,czlopa,3,3,15000,15000
+ZACHODNIOPOMORSKIE,wałecki,Mirosławiec,zachodniopomorskie,walecki,miroslawiec,3,3,15000,15000
+ZACHODNIOPOMORSKIE,wałecki,Tuczno,zachodniopomorskie,walecki,tuczno,3,3,15000,15000
+ZACHODNIOPOMORSKIE,łobeski,Resko,zachodniopomorskie,lobeski,resko,3,3,15000,15000
+ZACHODNIOPOMORSKIE,świdwiński,Rąbino,zachodniopomorskie,swidwinski,rabino,3,3,15000,15000
+ZACHODNIOPOMORSKIE,świdwiński,Sławoborze,zachodniopomorskie,swidwinski,slawoborze,3,3,15000,15000
+ŁÓDZKIE,bełchatowski,Drużbice,lodzkie,belchatowski,druzbice,3,3,15000,15000
+ŁÓDZKIE,bełchatowski,Rusiec,lodzkie,belchatowski,rusiec,3,3,15000,15000
+ŁÓDZKIE,kutnowski,Oporów,lodzkie,kutnowski,oporow,3,3,15000,15000
+ŁÓDZKIE,opoczyński,Mniszków,lodzkie,opoczynski,mniszkow,3,3,15000,15000
+ŁÓDZKIE,opoczyński,Sławno,lodzkie,opoczynski,slawno,3,3,15000,15000
+ŁÓDZKIE,pajęczański,Siemkowice,lodzkie,pajeczanski,siemkowice,3,3,15000,15000
+ŁÓDZKIE,pajęczański,Strzelce Wielkie,lodzkie,pajeczanski,strzelce_wielkie,3,3,15000,15000
+ŁÓDZKIE,poddębicki,Uniejów,lodzkie,poddebicki,uniejow,3,3,15000,15000
+ŁÓDZKIE,radomszczański,Ładzice,lodzkie,radomszczanski,ladzice,3,3,15000,15000
+ŁÓDZKIE,skierniewicki,Godzianów,lodzkie,skierniewicki,godzianow,3,3,15000,15000
+ŁÓDZKIE,skierniewicki,Kowiesy,lodzkie,skierniewicki,kowiesy,3,3,15000,15000
+ŁÓDZKIE,skierniewicki,Nowy Kawęczyn,lodzkie,skierniewicki,nowy_kaweczyn,3,3,15000,15000
+ŁÓDZKIE,skierniewicki,Skierniewice,lodzkie,skierniewicki,skierniewice,3,3,15000,15000
+ŁÓDZKIE,wieluński,Wierzchlas,lodzkie,wielunski,wierzchlas,3,3,15000,15000
+ŁÓDZKIE,wieruszowski,Sokolniki,lodzkie,wieruszowski,sokolniki,3,3,15000,15000
+ŁÓDZKIE,zgierski,Głowno,lodzkie,zgierski,glowno,3,3,15000,15000
+ŁÓDZKIE,łaski,Wodzierady,lodzkie,laski,wodzierady,3,3,15000,15000
+ŁÓDZKIE,łowicki,Chąśno,lodzkie,lowicki,chasno,3,3,15000,15000
+ŁÓDZKIE,łęczycki,Grabów,lodzkie,leczycki,grabow,3,3,15000,15000
+ŚLĄSKIE,bieruńsko-lędziński,Lędziny,slaskie,bierunsko_ledzinski,ledziny,3,3,15000,15000
+ŚLĄSKIE,będziński,Psary,slaskie,bedzinski,psary,3,3,15000,15000
+ŚLĄSKIE,będziński,Sławków,slaskie,bedzinski,slawkow,3,3,15000,15000
+ŚLĄSKIE,będziński,Wojkowice,slaskie,bedzinski,wojkowice,3,3,15000,15000
+ŚLĄSKIE,cieszyński,Chybie,slaskie,cieszynski,chybie,3,3,15000,15000
+ŚLĄSKIE,częstochowski,Kruszyna,slaskie,czestochowski,kruszyna,3,3,15000,15000
+ŚLĄSKIE,gliwicki,Pyskowice,slaskie,gliwicki,pyskowice,3,3,15000,15000
+ŚLĄSKIE,lubliniecki,Koszęcin,slaskie,lubliniecki,koszecin,3,3,15000,15000
+ŚLĄSKIE,myszkowski,Poraj,slaskie,myszkowski,poraj,3,3,15000,15000
+ŚLĄSKIE,pszczyński,Suszec,slaskie,pszczynski,suszec,3,3,15000,15000
+ŚLĄSKIE,rybnicki,Lyski,slaskie,rybnicki,lyski,3,3,15000,15000
+ŚLĄSKIE,tarnogórski,Radzionków,slaskie,tarnogorski,radzionkow,3,3,15000,15000
+ŚLĄSKIE,tarnogórski,Tworóg,slaskie,tarnogorski,tworog,3,3,15000,15000
+ŚLĄSKIE,wodzisławski,Mszana,slaskie,wodzislawski,mszana,3,3,15000,15000
+ŚLĄSKIE,wodzisławski,Rydułtowy,slaskie,wodzislawski,rydultowy,3,2,15000,10000
+ŚWIĘTOKRZYSKIE,kazimierski,Opatowiec,swietokrzyskie,kazimierski,opatowiec,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,kielecki,Piekoszów,swietokrzyskie,kielecki,piekoszow,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,konecki,Radoszyce,swietokrzyskie,konecki,radoszyce,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,ostrowiecki,Waśniów,swietokrzyskie,ostrowiecki,wasniow,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,skarżyski,Skarżysko Kościelne,swietokrzyskie,skarzyski,skarzysko_koscielne,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,staszowski,Oleśnica,swietokrzyskie,staszowski,olesnica,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,staszowski,Osiek,swietokrzyskie,staszowski,osiek,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,staszowski,Połaniec,swietokrzyskie,staszowski,polaniec,3,3,15000,15000
+ŚWIĘTOKRZYSKIE,staszowski,Rytwiany,swietokrzyskie,staszowski,rytwiany,3,3,15000,15000
+DOLNOŚLĄSKIE,karkonoski,Kowary,dolnoslaskie,karkonoski,kowary,2,2,10000,10000
+DOLNOŚLĄSKIE,legnicki,Prochowice,dolnoslaskie,legnicki,prochowice,2,2,10000,10000
+DOLNOŚLĄSKIE,lubański,Platerówka,dolnoslaskie,lubanski,platerowka,2,2,10000,10000
+DOLNOŚLĄSKIE,lubański,Siekierczyn,dolnoslaskie,lubanski,siekierczyn,2,2,10000,10000
+DOLNOŚLĄSKIE,lwówecki,Wleń,dolnoslaskie,lwowecki,wlen,2,2,10000,10000
+DOLNOŚLĄSKIE,milicki,Cieszków,dolnoslaskie,milicki,cieszkow,2,2,10000,10000
+DOLNOŚLĄSKIE,oleśnicki,Międzybórz,dolnoslaskie,olesnicki,miedzyborz,2,2,10000,10000
+DOLNOŚLĄSKIE,polkowicki,Gaworzyce,dolnoslaskie,polkowicki,gaworzyce,2,2,10000,10000
+DOLNOŚLĄSKIE,polkowicki,Grębocice,dolnoslaskie,polkowicki,grebocice,2,2,10000,10000
+DOLNOŚLĄSKIE,strzeliński,Wiązów,dolnoslaskie,strzelinski,wiazow,2,2,10000,10000
+DOLNOŚLĄSKIE,wałbrzyski,Mieroszów,dolnoslaskie,walbrzyski,mieroszow,2,2,10000,10000
+DOLNOŚLĄSKIE,wałbrzyski,Stare Bogaczowice,dolnoslaskie,walbrzyski,stare_bogaczowice,2,2,10000,10000
+DOLNOŚLĄSKIE,wałbrzyski,Walim,dolnoslaskie,walbrzyski,walim,2,2,10000,10000
+DOLNOŚLĄSKIE,wrocławski,Żórawina,dolnoslaskie,wroclawski,zorawina,2,2,10000,10000
+DOLNOŚLĄSKIE,ząbkowicki,Złoty Stok,dolnoslaskie,zabkowicki,zloty_stok,2,2,10000,10000
+KUJAWSKO-POMORSKIE,aleksandrowski,Nieszawa,kujawsko_pomorskie,aleksandrowski,nieszawa,2,1,10000,5000
+KUJAWSKO-POMORSKIE,brodnicki,Brodnica,kujawsko_pomorskie,brodnicki,brodnica,2,2,10000,10000
+KUJAWSKO-POMORSKIE,chełmiński,Kijewo Królewskie,kujawsko_pomorskie,chelminski,kijewo_krolewskie,2,2,10000,10000
+KUJAWSKO-POMORSKIE,chełmiński,Unisław,kujawsko_pomorskie,chelminski,unislaw,2,2,10000,10000
+KUJAWSKO-POMORSKIE,golubsko-dobrzyński,Radomin,kujawsko_pomorskie,golubsko_dobrzynski,radomin,2,2,10000,10000
+KUJAWSKO-POMORSKIE,grudziądzki,Świecie nad Osą,kujawsko_pomorskie,grudziadzki,swiecie_nad_osa,2,2,10000,10000
+KUJAWSKO-POMORSKIE,inowrocławski,Rojewo,kujawsko_pomorskie,inowroclawski,rojewo,2,2,10000,10000
+KUJAWSKO-POMORSKIE,rypiński,Wąpielsk,kujawsko_pomorskie,rypinski,wapielsk,2,2,10000,10000
+KUJAWSKO-POMORSKIE,włocławski,Choceń,kujawsko_pomorskie,wloclawski,chocen,2,2,10000,10000
+KUJAWSKO-POMORSKIE,żniński,Gąsawa,kujawsko_pomorskie,zninski,gasawa,2,2,10000,10000
+LUBELSKIE,biłgorajski,Aleksandrów,lubelskie,bilgorajski,aleksandrow,2,2,10000,10000
+LUBELSKIE,chełmski,Rejowiec Fabryczny,lubelskie,chelmski,rejowiec_fabryczny,2,2,10000,10000
+LUBELSKIE,krasnostawski,Gorzków,lubelskie,krasnostawski,gorzkow,2,2,10000,10000
+LUBELSKIE,puławski,Markuszów,lubelskie,pulawski,markuszow,2,2,10000,10000
+LUBELSKIE,radzyński,Czemierniki,lubelskie,radzynski,czemierniki,2,2,10000,10000
+LUBELSKIE,radzyński,Kąkolewnica,lubelskie,radzynski,kakolewnica,2,2,10000,10000
+LUBELSKIE,radzyński,Wohyń,lubelskie,radzynski,wohyn,2,2,10000,10000
+LUBELSKIE,łęczyński,Spiczyn,lubelskie,leczynski,spiczyn,2,2,10000,10000
+LUBUSKIE,krośnieński,Maszewo,lubuskie,krosnienski,maszewo,2,2,10000,10000
+LUBUSKIE,międzyrzecki,Pszczew,lubuskie,miedzyrzecki,pszczew,2,2,10000,10000
+LUBUSKIE,wschowski,Szlichtyngowa,lubuskie,wschowski,szlichtyngowa,2,2,10000,10000
+LUBUSKIE,wschowski,Wschowa,lubuskie,wschowski,wschowa,2,2,10000,10000
+LUBUSKIE,zielonogórski,Babimost,lubuskie,zielonogorski,babimost,2,2,10000,10000
+LUBUSKIE,zielonogórski,Czerwieńsk,lubuskie,zielonogorski,czerwiensk,2,2,10000,10000
+LUBUSKIE,zielonogórski,Kargowa,lubuskie,zielonogorski,kargowa,2,2,10000,10000
+LUBUSKIE,zielonogórski,Trzebiechów,lubuskie,zielonogorski,trzebiechow,2,2,10000,10000
+LUBUSKIE,zielonogórski,Zabór,lubuskie,zielonogorski,zabor,2,2,10000,10000
+LUBUSKIE,zielonogórski,Świdnica,lubuskie,zielonogorski,swidnica,2,2,10000,10000
+LUBUSKIE,żagański,Małomice,lubuskie,zaganski,malomice,2,2,10000,10000
+LUBUSKIE,żarski,Trzebiel,lubuskie,zarski,trzebiel,2,2,10000,10000
+LUBUSKIE,żarski,Tuplice,lubuskie,zarski,tuplice,2,2,10000,10000
+LUBUSKIE,żarski,Łęknica,lubuskie,zarski,leknica,2,2,10000,10000
+MAZOWIECKIE,białobrzeski,Białobrzegi,mazowieckie,bialobrzeski,bialobrzegi,2,2,10000,10000
+MAZOWIECKIE,białobrzeski,Stara Błotnica,mazowieckie,bialobrzeski,stara_blotnica,2,2,10000,10000
+MAZOWIECKIE,garwoliński,Pilawa,mazowieckie,garwolinski,pilawa,2,2,10000,10000
+MAZOWIECKIE,gostyniński,Pacyna,mazowieckie,gostyninski,pacyna,2,2,10000,10000
+MAZOWIECKIE,grójecki,Nowe Miasto nad Pilicą,mazowieckie,grojecki,nowe_miasto_nad_pilica,2,2,10000,10000
+MAZOWIECKIE,legionowski,Jabłonna,mazowieckie,legionowski,jablonna,2,2,10000,10000
+MAZOWIECKIE,legionowski,Nieporęt,mazowieckie,legionowski,nieporet,2,2,10000,10000
+MAZOWIECKIE,makowski,Młynarze,mazowieckie,makowski,mlynarze,2,2,10000,10000
+MAZOWIECKIE,makowski,Różan,mazowieckie,makowski,rozan,2,2,10000,10000
+MAZOWIECKIE,miński,Dębe Wielkie,mazowieckie,minski,debe_wielkie,2,2,10000,10000
+MAZOWIECKIE,ostrowski,Boguty-Pianki,mazowieckie,ostrowski,boguty_pianki,2,2,10000,10000
+MAZOWIECKIE,ostrowski,Zaręby Kościelne,mazowieckie,ostrowski,zareby_koscielne,2,2,10000,10000
+MAZOWIECKIE,ostrołęcki,Myszyniec,mazowieckie,ostrolecki,myszyniec,2,2,10000,10000
+MAZOWIECKIE,ostrołęcki,Łyse,mazowieckie,ostrolecki,lyse,2,2,10000,10000
+MAZOWIECKIE,pułtuski,Świercze,mazowieckie,pultuski,swiercze,2,2,10000,10000
+MAZOWIECKIE,płoński,Joniec,mazowieckie,plonski,joniec,2,2,10000,10000
+MAZOWIECKIE,wołomiński,Tłuszcz,mazowieckie,wolominski,tluszcz,2,2,10000,10000
+MAZOWIECKIE,wyszkowski,Zabrodzie,mazowieckie,wyszkowski,zabrodzie,2,2,10000,10000
+MAŁOPOLSKIE,limanowski,Jodłownik,malopolskie,limanowski,jodlownik,2,2,10000,10000
+MAŁOPOLSKIE,miechowski,Racławice,malopolskie,miechowski,raclawice,2,2,10000,10000
+MAŁOPOLSKIE,nowotarski,Ochotnica Dolna,malopolskie,nowotarski,ochotnica_dolna,2,2,10000,10000
+MAŁOPOLSKIE,nowotarski,Szczawnica,malopolskie,nowotarski,szczawnica,2,2,10000,10000
+MAŁOPOLSKIE,oświęcimski,Przeciszów,malopolskie,oswiecimski,przeciszow,2,2,10000,10000
+OPOLSKIE,brzeski,Skarbimierz,opolskie,brzeski,skarbimierz,2,2,10000,10000
+OPOLSKIE,krapkowicki,Gogolin,opolskie,krapkowicki,gogolin,2,2,10000,10000
+OPOLSKIE,kędzierzyńsko-kozielski,Polska Cerekiew,opolskie,kedzierzynsko_kozielski,polska_cerekiew,2,2,10000,10000
+OPOLSKIE,opolski,Komprachcice,opolskie,opolski,komprachcice,2,2,10000,10000
+OPOLSKIE,opolski,Popielów,opolskie,opolski,popielow,2,2,10000,10000
+OPOLSKIE,opolski,Tarnów Opolski,opolskie,opolski,tarnow_opolski,2,2,10000,10000
+OPOLSKIE,opolski,Tułowice,opolskie,opolski,tulowice,2,2,10000,10000
+OPOLSKIE,opolski,Łubniany,opolskie,opolski,lubniany,2,2,10000,10000
+OPOLSKIE,strzelecki,Leśnica,opolskie,strzelecki,lesnica,2,2,10000,10000
+PODKARPACKIE,brzozowski,Domaradz,podkarpackie,brzozowski,domaradz,2,2,10000,10000
+PODKARPACKIE,brzozowski,Haczów,podkarpackie,brzozowski,haczow,2,2,10000,10000
+PODKARPACKIE,brzozowski,Jasienica Rosielna,podkarpackie,brzozowski,jasienica_rosielna,2,2,10000,10000
+PODKARPACKIE,kolbuszowski,Majdan Królewski,podkarpackie,kolbuszowski,majdan_krolewski,2,2,10000,10000
+PODKARPACKIE,krośnieński,Krościenko Wyżne,podkarpackie,krosnienski,kroscienko_wyzne,2,2,10000,10000
+PODKARPACKIE,niżański,Jarocin,podkarpackie,nizanski,jarocin,2,2,10000,10000
+PODKARPACKIE,przemyski,Krasiczyn,podkarpackie,przemyski,krasiczyn,2,2,10000,10000
+PODKARPACKIE,rzeszowski,Świlcza,podkarpackie,rzeszowski,swilcza,2,2,10000,10000
+PODKARPACKIE,stalowowolski,Bojanów,podkarpackie,stalowowolski,bojanow,2,2,10000,10000
+PODKARPACKIE,stalowowolski,Zaklików,podkarpackie,stalowowolski,zaklikow,2,2,10000,10000
+PODLASKIE,białostocki,Dobrzyniewo Duże,podlaskie,bialostocki,dobrzyniewo_duze,2,2,10000,10000
+PODLASKIE,białostocki,Gródek,podlaskie,bialostocki,grodek,2,1,10000,5000
+PODLASKIE,białostocki,Poświętne,podlaskie,bialostocki,poswietne,2,2,10000,10000
+PODLASKIE,białostocki,Zawady,podlaskie,bialostocki,zawady,2,0,10000,0
+PODLASKIE,bielski,Brańsk,podlaskie,bielski,bransk,2,2,10000,10000
+PODLASKIE,bielski,Rudka,podlaskie,bielski,rudka,2,2,10000,10000
+PODLASKIE,hajnowski,Białowieża,podlaskie,hajnowski,bialowieza,2,2,10000,10000
+PODLASKIE,kolneński,Turośl,podlaskie,kolnenski,turosl,2,2,10000,10000
+PODLASKIE,moniecki,Trzcianne,podlaskie,moniecki,trzcianne,2,2,10000,10000
+PODLASKIE,sejneński,Puńsk,podlaskie,sejnenski,punsk,2,2,10000,10000
+PODLASKIE,siemiatycki,Nurzec-Stacja,podlaskie,siemiatycki,nurzec_stacja,2,2,10000,10000
+PODLASKIE,sokólski,Nowy Dwór,podlaskie,sokolski,nowy_dwor,2,2,10000,10000
+PODLASKIE,sokólski,Sidra,podlaskie,sokolski,sidra,2,2,10000,10000
+PODLASKIE,suwalski,Przerośl,podlaskie,suwalski,przerosl,2,2,10000,10000
+PODLASKIE,wysokomazowiecki,Kobylin-Borzymy,podlaskie,wysokomazowiecki,kobylin_borzymy,2,2,10000,10000
+PODLASKIE,wysokomazowiecki,Sokoły,podlaskie,wysokomazowiecki,sokoly,2,2,10000,10000
+POMORSKIE,chojnicki,Konarzyny,pomorskie,chojnicki,konarzyny,2,1,10000,5000
+POMORSKIE,człuchowski,Koczała,pomorskie,czluchowski,koczala,2,2,10000,10000
+POMORSKIE,człuchowski,Przechlewo,pomorskie,czluchowski,przechlewo,2,2,10000,10000
+POMORSKIE,człuchowski,Rzeczenica,pomorskie,czluchowski,rzeczenica,2,2,10000,10000
+POMORSKIE,gdański,Kolbudy,pomorskie,gdanski,kolbudy,2,2,10000,10000
+POMORSKIE,gdański,Przywidz,pomorskie,gdanski,przywidz,2,2,10000,10000
+POMORSKIE,lęborski,Łeba,pomorskie,leborski,leba,2,2,10000,10000
+POMORSKIE,malborski,Miłoradz,pomorskie,malborski,miloradz,2,2,10000,10000
+POMORSKIE,pucki,Kosakowo,pomorskie,pucki,kosakowo,2,2,10000,10000
+POMORSKIE,starogardzki,Bobowo,pomorskie,starogardzki,bobowo,2,2,10000,10000
+POMORSKIE,tczewski,Subkowy,pomorskie,tczewski,subkowy,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,bartoszycki,Sępopol,warminsko_mazurskie,bartoszycki,sepopol,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,giżycki,Kruklanki,warminsko_mazurskie,gizycki,kruklanki,2,1,10000,5000
+WARMIŃSKO-MAZURSKIE,gołdapski,Dubeninki,warminsko_mazurskie,goldapski,dubeninki,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,iławski,Susz,warminsko_mazurskie,ilawski,susz,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,kętrzyński,Barciany,warminsko_mazurskie,ketrzynski,barciany,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,lidzbarski,Lubomino,warminsko_mazurskie,lidzbarski,lubomino,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,mrągowski,Mikołajki,warminsko_mazurskie,mragowski,mikolajki,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,nowomiejski,Biskupiec,warminsko_mazurskie,nowomiejski,biskupiec,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,olsztyński,Dobre Miasto,warminsko_mazurskie,olsztynski,dobre_miasto,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,ostródzki,Łukta,warminsko_mazurskie,ostrodzki,lukta,2,2,10000,10000
+WARMIŃSKO-MAZURSKIE,węgorzewski,Budry,warminsko_mazurskie,wegorzewski,budry,2,2,10000,10000
+WIELKOPOLSKIE,chodzieski,Margonin,wielkopolskie,chodzieski,margonin,2,1,10000,5000
+WIELKOPOLSKIE,gnieźnieński,Czerniejewo,wielkopolskie,gnieznienski,czerniejewo,2,2,10000,10000
+WIELKOPOLSKIE,gnieźnieński,Mieleszyn,wielkopolskie,gnieznienski,mieleszyn,2,2,10000,10000
+WIELKOPOLSKIE,kolski,Przedecz,wielkopolskie,kolski,przedecz,2,2,10000,10000
+WIELKOPOLSKIE,koniński,Krzymów,wielkopolskie,koninski,krzymow,2,2,10000,10000
+WIELKOPOLSKIE,krotoszyński,Kobylin,wielkopolskie,krotoszynski,kobylin,2,2,10000,10000
+WIELKOPOLSKIE,kępiński,Rychtal,wielkopolskie,kepinski,rychtal,2,2,10000,10000
+WIELKOPOLSKIE,kępiński,Trzcinica,wielkopolskie,kepinski,trzcinica,2,2,10000,10000
+WIELKOPOLSKIE,nowotomyski,Miedzichowo,wielkopolskie,nowotomyski,miedzichowo,2,2,10000,10000
+WIELKOPOLSKIE,szamotulski,Obrzycko,wielkopolskie,szamotulski,obrzycko,2,2,10000,10000
+WIELKOPOLSKIE,słupecki,Powidz,wielkopolskie,slupecki,powidz,2,2,10000,10000
+WIELKOPOLSKIE,turecki,Przykona,wielkopolskie,turecki,przykona,2,2,10000,10000
+WIELKOPOLSKIE,wrzesiński,Kołaczkowo,wielkopolskie,wrzesinski,kolaczkowo,2,2,10000,10000
+WIELKOPOLSKIE,złotowski,Jastrowie,wielkopolskie,zlotowski,jastrowie,2,2,10000,10000
+WIELKOPOLSKIE,złotowski,Zakrzewo,wielkopolskie,zlotowski,zakrzewo,2,2,10000,10000
+WIELKOPOLSKIE,średzki,Dominowo,wielkopolskie,sredzki,dominowo,2,1,10000,5000
+ZACHODNIOPOMORSKIE,choszczeński,Recz,zachodniopomorskie,choszczenski,recz,2,2,10000,10000
+ZACHODNIOPOMORSKIE,goleniowski,Przybiernów,zachodniopomorskie,goleniowski,przybiernow,2,2,10000,10000
+ZACHODNIOPOMORSKIE,gryficki,Karnice,zachodniopomorskie,gryficki,karnice,2,2,10000,10000
+ZACHODNIOPOMORSKIE,kamieński,Kamień Pomorski,zachodniopomorskie,kamienski,kamien_pomorski,2,2,10000,10000
+ZACHODNIOPOMORSKIE,kołobrzeski,Dygowo,zachodniopomorskie,kolobrzeski,dygowo,2,2,10000,10000
+ZACHODNIOPOMORSKIE,kołobrzeski,Gościno,zachodniopomorskie,kolobrzeski,goscino,2,2,10000,10000
+ZACHODNIOPOMORSKIE,policki,Nowe Warpno,zachodniopomorskie,policki,nowe_warpno,2,2,10000,10000
+ZACHODNIOPOMORSKIE,stargardzki,Chociwel,zachodniopomorskie,stargardzki,chociwel,2,2,10000,10000
+ZACHODNIOPOMORSKIE,szczecinecki,Biały Bór,zachodniopomorskie,szczecinecki,bialy_bor,2,2,10000,10000
+ZACHODNIOPOMORSKIE,szczecinecki,Borne Sulinowo,zachodniopomorskie,szczecinecki,borne_sulinowo,2,2,10000,10000
+ZACHODNIOPOMORSKIE,łobeski,Radowo Małe,zachodniopomorskie,lobeski,radowo_male,2,2,10000,10000
+ZACHODNIOPOMORSKIE,łobeski,Węgorzyno,zachodniopomorskie,lobeski,wegorzyno,2,2,10000,10000
+ŁÓDZKIE,brzeziński,Rogów,lodzkie,brzezinski,rogow,2,2,10000,10000
+ŁÓDZKIE,opoczyński,Opoczno,lodzkie,opoczynski,opoczno,2,2,10000,10000
+ŁÓDZKIE,piotrkowski,Ręczno,lodzkie,piotrkowski,reczno,2,2,10000,10000
+ŁÓDZKIE,radomszczański,Gidle,lodzkie,radomszczanski,gidle,2,2,10000,10000
+ŁÓDZKIE,skierniewicki,Bolimów,lodzkie,skierniewicki,bolimow,2,2,10000,10000
+ŁÓDZKIE,skierniewicki,Maków,lodzkie,skierniewicki,makow,2,2,10000,10000
+ŁÓDZKIE,wieluński,Mokrsko,lodzkie,wielunski,mokrsko,2,2,10000,10000
+ŁÓDZKIE,wieruszowski,Czastary,lodzkie,wieruszowski,czastary,2,2,10000,10000
+ŁÓDZKIE,zgierski,Parzęczew,lodzkie,zgierski,parzeczew,2,2,10000,10000
+ŁÓDZKIE,łaski,Widawa,lodzkie,laski,widawa,2,2,10000,10000
+ŁÓDZKIE,łowicki,Bielawy,lodzkie,lowicki,bielawy,2,2,10000,10000
+ŁÓDZKIE,łowicki,Kiernozia,lodzkie,lowicki,kiernozia,2,2,10000,10000
+ŁÓDZKIE,łowicki,Kocierzew Południowy,lodzkie,lowicki,kocierzew_poludniowy,2,2,10000,10000
+ŁÓDZKIE,łowicki,Zduny,lodzkie,lowicki,zduny,2,2,10000,10000
+ŁÓDZKIE,łowicki,Łowicz,lodzkie,lowicki,lowicz,2,2,10000,10000
+ŁÓDZKIE,łęczycki,Góra Świętej Małgorzaty,lodzkie,leczycki,gora_swietej_malgorzaty,2,2,10000,10000
+ŁÓDZKIE,łęczycki,Piątek,lodzkie,leczycki,piatek,2,2,10000,10000
+ŁÓDZKIE,łęczycki,Łęczyca,lodzkie,leczycki,leczyca,2,2,10000,10000
+ŁÓDZKIE,łęczycki,Świnice Warckie,lodzkie,leczycki,swinice_warckie,2,2,10000,10000
+ŚLĄSKIE,bielski,Porąbka,slaskie,bielski,porabka,2,2,10000,10000
+ŚLĄSKIE,bieruńsko-lędziński,Chełm Śląski,slaskie,bierunsko_ledzinski,chelm_slaski,2,2,10000,10000
+ŚLĄSKIE,cieszyński,Dębowiec,slaskie,cieszynski,debowiec,2,2,10000,10000
+ŚLĄSKIE,częstochowski,Konopiska,slaskie,czestochowski,konopiska,2,2,10000,10000
+ŚLĄSKIE,mikołowski,Wyry,slaskie,mikolowski,wyry,2,2,10000,10000
+ŚLĄSKIE,raciborski,Pietrowice Wielkie,slaskie,raciborski,pietrowice_wielkie,2,2,10000,10000
+ŚLĄSKIE,raciborski,Rudnik,slaskie,raciborski,rudnik,2,2,10000,10000
+ŚLĄSKIE,tarnogórski,Kalety,slaskie,tarnogorski,kalety,2,2,10000,10000
+ŚLĄSKIE,tarnogórski,Krupski Młyn,slaskie,tarnogorski,krupski_mlyn,2,2,10000,10000
+ŚLĄSKIE,żywiecki,Łodygowice,slaskie,zywiecki,lodygowice,2,2,10000,10000
+ŚLĄSKIE,żywiecki,Łękawica,slaskie,zywiecki,lekawica,2,2,10000,10000
+ŚWIĘTOKRZYSKIE,konecki,Smyków,swietokrzyskie,konecki,smykow,2,2,10000,10000
+ŚWIĘTOKRZYSKIE,opatowski,Baćkowice,swietokrzyskie,opatowski,backowice,2,2,10000,10000
+ŚWIĘTOKRZYSKIE,sandomierski,Samborzec,swietokrzyskie,sandomierski,samborzec,2,2,10000,10000
+ŚWIĘTOKRZYSKIE,skarżyski,Skarżysko-Kamienna,swietokrzyskie,skarzyski,skarzysko_kamienna,2,2,10000,10000
+DOLNOŚLĄSKIE,dzierżoniowski,Piława Górna,dolnoslaskie,dzierzoniowski,pilawa_gorna,1,0,5000,0
+DOLNOŚLĄSKIE,karkonoski,Podgórzyn,dolnoslaskie,karkonoski,podgorzyn,1,1,5000,5000
+DOLNOŚLĄSKIE,kłodzki,Duszniki-Zdrój,dolnoslaskie,klodzki,duszniki_zdroj,1,1,5000,5000
+DOLNOŚLĄSKIE,kłodzki,Lewin Kłodzki,dolnoslaskie,klodzki,lewin_klodzki,1,1,5000,5000
+DOLNOŚLĄSKIE,kłodzki,Polanica-Zdrój,dolnoslaskie,klodzki,polanica_zdroj,1,1,5000,5000
+DOLNOŚLĄSKIE,legnicki,Kunice,dolnoslaskie,legnicki,kunice,1,1,5000,5000
+DOLNOŚLĄSKIE,lubański,Olszyna,dolnoslaskie,lubanski,olszyna,1,1,5000,5000
+DOLNOŚLĄSKIE,lubański,Świeradów-Zdrój,dolnoslaskie,lubanski,swieradow_zdroj,1,1,5000,5000
+DOLNOŚLĄSKIE,oławski,Domaniów,dolnoslaskie,olawski,domaniow,1,1,5000,5000
+DOLNOŚLĄSKIE,trzebnicki,Wisznia Mała,dolnoslaskie,trzebnicki,wisznia_mala,1,1,5000,5000
+DOLNOŚLĄSKIE,wałbrzyski,Boguszów-Gorce,dolnoslaskie,walbrzyski,boguszow_gorce,1,1,5000,5000
+DOLNOŚLĄSKIE,wałbrzyski,Głuszyca,dolnoslaskie,walbrzyski,gluszyca,1,1,5000,5000
+DOLNOŚLĄSKIE,wałbrzyski,Jedlina-Zdrój,dolnoslaskie,walbrzyski,jedlina_zdroj,1,1,5000,5000
+DOLNOŚLĄSKIE,wałbrzyski,Szczawno-Zdrój,dolnoslaskie,walbrzyski,szczawno_zdroj,1,1,5000,5000
+DOLNOŚLĄSKIE,wołowski,Brzeg Dolny,dolnoslaskie,wolowski,brzeg_dolny,1,0,5000,0
+DOLNOŚLĄSKIE,wrocławski,Kobierzyce,dolnoslaskie,wroclawski,kobierzyce,1,1,5000,5000
+DOLNOŚLĄSKIE,zgorzelecki,Zawidów,dolnoslaskie,zgorzelecki,zawidow,1,1,5000,5000
+DOLNOŚLĄSKIE,ząbkowicki,Ciepłowody,dolnoslaskie,zabkowicki,cieplowody,1,1,5000,5000
+DOLNOŚLĄSKIE,świdnicki,Świebodzice,dolnoslaskie,swidnicki,swiebodzice,1,1,5000,5000
+KUJAWSKO-POMORSKIE,aleksandrowski,Raciążek,kujawsko_pomorskie,aleksandrowski,raciazek,1,0,5000,0
+KUJAWSKO-POMORSKIE,golubsko-dobrzyński,Ciechocin,kujawsko_pomorskie,golubsko_dobrzynski,ciechocin,1,1,5000,5000
+KUJAWSKO-POMORSKIE,grudziądzki,Rogóźno,kujawsko_pomorskie,grudziadzki,rogozno,1,1,5000,5000
+KUJAWSKO-POMORSKIE,inowrocławski,Pakość,kujawsko_pomorskie,inowroclawski,pakosc,1,1,5000,5000
+KUJAWSKO-POMORSKIE,inowrocławski,Złotniki Kujawskie,kujawsko_pomorskie,inowroclawski,zlotniki_kujawskie,1,1,5000,5000
+KUJAWSKO-POMORSKIE,włocławski,Boniewo,kujawsko_pomorskie,wloclawski,boniewo,1,1,5000,5000
+KUJAWSKO-POMORSKIE,włocławski,Kowal,kujawsko_pomorskie,wloclawski,kowal,1,1,5000,5000
+KUJAWSKO-POMORSKIE,żniński,Janowiec Wielkopolski,kujawsko_pomorskie,zninski,janowiec_wielkopolski,1,1,5000,5000
+KUJAWSKO-POMORSKIE,żniński,Rogowo,kujawsko_pomorskie,zninski,rogowo,1,1,5000,5000
+LUBELSKIE,chełmski,Rejowiec,lubelskie,chelmski,rejowiec,1,1,5000,5000
+LUBELSKIE,janowski,Chrzanów,lubelskie,janowski,chrzanow,1,1,5000,5000
+LUBELSKIE,krasnostawski,Rudnik,lubelskie,krasnostawski,rudnik,1,1,5000,5000
+LUBELSKIE,włodawski,Wola Uhruska,lubelskie,wlodawski,wola_uhruska,1,1,5000,5000
+LUBELSKIE,włodawski,Wyryki,lubelskie,wlodawski,wyryki,1,1,5000,5000
+LUBELSKIE,łukowski,Serokomla,lubelskie,lukowski,serokomla,1,1,5000,5000
+LUBUSKIE,gorzowski,Lubiszyn,lubuskie,gorzowski,lubiszyn,1,1,5000,5000
+LUBUSKIE,sulęciński,Krzeszyce,lubuskie,sulecinski,krzeszyce,1,1,5000,5000
+LUBUSKIE,sulęciński,Lubniewice,lubuskie,sulecinski,lubniewice,1,1,5000,5000
+LUBUSKIE,słubicki,Górzyca,lubuskie,slubicki,gorzyca,1,1,5000,5000
+LUBUSKIE,zielonogórski,Bojadła,lubuskie,zielonogorski,bojadla,1,1,5000,5000
+LUBUSKIE,żagański,Gozdnica,lubuskie,zaganski,gozdnica,1,1,5000,5000
+LUBUSKIE,żarski,Brody,lubuskie,zarski,brody,1,1,5000,5000
+MAZOWIECKIE,ciechanowski,Ciechanów,mazowieckie,ciechanowski,ciechanow,1,1,5000,5000
+MAZOWIECKIE,ciechanowski,Glinojeck,mazowieckie,ciechanowski,glinojeck,1,1,5000,5000
+MAZOWIECKIE,ciechanowski,Gołymin-Ośrodek,mazowieckie,ciechanowski,golymin_osrodek,1,1,5000,5000
+MAZOWIECKIE,ciechanowski,Sońsk,mazowieckie,ciechanowski,sonsk,1,1,5000,5000
+MAZOWIECKIE,garwoliński,Maciejowice,mazowieckie,garwolinski,maciejowice,1,1,5000,5000
+MAZOWIECKIE,grójecki,Mogielnica,mazowieckie,grojecki,mogielnica,1,1,5000,5000
+MAZOWIECKIE,makowski,Czerwonka,mazowieckie,makowski,czerwonka,1,1,5000,5000
+MAZOWIECKIE,miński,Halinów,mazowieckie,minski,halinow,1,1,5000,5000
+MAZOWIECKIE,miński,Sulejówek,mazowieckie,minski,sulejowek,1,1,5000,5000
+MAZOWIECKIE,ostrowski,Brok,mazowieckie,ostrowski,brok,1,1,5000,5000
+MAZOWIECKIE,ostrowski,Szulborze Wielkie,mazowieckie,ostrowski,szulborze_wielkie,1,1,5000,5000
+MAZOWIECKIE,ostrołęcki,Czarnia,mazowieckie,ostrolecki,czarnia,1,1,5000,5000
+MAZOWIECKIE,pruszkowski,Michałowice,mazowieckie,pruszkowski,michalowice,1,1,5000,5000
+MAZOWIECKIE,pruszkowski,Pruszków,mazowieckie,pruszkowski,pruszkow,1,0,5000,0
+MAZOWIECKIE,radomski,Iłża,mazowieckie,radomski,ilza,1,0,5000,0
+MAZOWIECKIE,radomski,Jastrzębia,mazowieckie,radomski,jastrzebia,1,1,5000,5000
+MAZOWIECKIE,radomski,Przytyk,mazowieckie,radomski,przytyk,1,1,5000,5000
+MAZOWIECKIE,wołomiński,Jadów,mazowieckie,wolominski,jadow,1,1,5000,5000
+MAZOWIECKIE,wołomiński,Poświętne,mazowieckie,wolominski,poswietne,1,1,5000,5000
+MAŁOPOLSKIE,bocheński,Nowy Wiśnicz,malopolskie,bochenski,nowy_wisnicz,1,1,5000,5000
+MAŁOPOLSKIE,chrzanowski,Alwernia,malopolskie,chrzanowski,alwernia,1,1,5000,5000
+MAŁOPOLSKIE,limanowski,Dobra,malopolskie,limanowski,dobra,1,1,5000,5000
+MAŁOPOLSKIE,limanowski,Kamienica,malopolskie,limanowski,kamienica,1,1,5000,5000
+MAŁOPOLSKIE,limanowski,Laskowa,malopolskie,limanowski,laskowa,1,1,5000,5000
+MAŁOPOLSKIE,limanowski,Tymbark,malopolskie,limanowski,tymbark,1,1,5000,5000
+MAŁOPOLSKIE,nowosądecki,Nawojowa,malopolskie,nowosadecki,nawojowa,1,1,5000,5000
+MAŁOPOLSKIE,olkuski,Bukowno,malopolskie,olkuski,bukowno,1,1,5000,5000
+MAŁOPOLSKIE,oświęcimski,Osiek,malopolskie,oswiecimski,osiek,1,1,5000,5000
+MAŁOPOLSKIE,oświęcimski,Polanka Wielka,malopolskie,oswiecimski,polanka_wielka,1,1,5000,5000
+MAŁOPOLSKIE,tatrzański,Kościelisko,malopolskie,tatrzanski,koscielisko,1,1,5000,5000
+OPOLSKIE,brzeski,Lewin Brzeski,opolskie,brzeski,lewin_brzeski,1,1,5000,5000
+OPOLSKIE,krapkowicki,Strzeleczki,opolskie,krapkowicki,strzeleczki,1,1,5000,5000
+OPOLSKIE,krapkowicki,Walce,opolskie,krapkowicki,walce,1,1,5000,5000
+OPOLSKIE,krapkowicki,Zdzieszowice,opolskie,krapkowicki,zdzieszowice,1,1,5000,5000
+OPOLSKIE,nyski,Kamiennik,opolskie,nyski,kamiennik,1,1,5000,5000
+OPOLSKIE,nyski,Korfantów,opolskie,nyski,korfantow,1,1,5000,5000
+OPOLSKIE,nyski,Łambinowice,opolskie,nyski,lambinowice,1,1,5000,5000
+OPOLSKIE,strzelecki,Izbicko,opolskie,strzelecki,izbicko,1,1,5000,5000
+OPOLSKIE,strzelecki,Ujazd,opolskie,strzelecki,ujazd,1,1,5000,5000
+OPOLSKIE,strzelecki,Zawadzkie,opolskie,strzelecki,zawadzkie,1,1,5000,5000
+PODKARPACKIE,dębicki,Brzostek,podkarpackie,debicki,brzostek,1,1,5000,5000
+PODKARPACKIE,dębicki,Czarna,podkarpackie,debicki,czarna,1,1,5000,5000
+PODKARPACKIE,dębicki,Jodłowa,podkarpackie,debicki,jodlowa,1,1,5000,5000
+PODKARPACKIE,leski,Cisna,podkarpackie,leski,cisna,1,0,5000,0
+PODKARPACKIE,leżajski,Grodzisko Dolne,podkarpackie,lezajski,grodzisko_dolne,1,1,5000,5000
+PODKARPACKIE,mielecki,Borowa,podkarpackie,mielecki,borowa,1,1,5000,5000
+PODKARPACKIE,rzeszowski,Lubenia,podkarpackie,rzeszowski,lubenia,1,1,5000,5000
+PODKARPACKIE,rzeszowski,Trzebownisko,podkarpackie,rzeszowski,trzebownisko,1,1,5000,5000
+PODKARPACKIE,rzeszowski,Tyczyn,podkarpackie,rzeszowski,tyczyn,1,1,5000,5000
+PODLASKIE,białostocki,Turośń Kościelna,podlaskie,bialostocki,turosn_koscielna,1,1,5000,5000
+PODLASKIE,białostocki,Wasilków,podlaskie,bialostocki,wasilkow,1,1,5000,5000
+PODLASKIE,hajnowski,Narewka,podlaskie,hajnowski,narewka,1,1,5000,5000
+PODLASKIE,sokólski,Krynki,podlaskie,sokolski,krynki,1,1,5000,5000
+PODLASKIE,suwalski,Rutka-Tartak,podlaskie,suwalski,rutka_tartak,1,1,5000,5000
+PODLASKIE,łomżyński,Jedwabne,podlaskie,lomzynski,jedwabne,1,1,5000,5000
+PODLASKIE,łomżyński,Przytuły,podlaskie,lomzynski,przytuly,1,1,5000,5000
+PODLASKIE,łomżyński,Wizna,podlaskie,lomzynski,wizna,1,1,5000,5000
+POMORSKIE,bytowski,Trzebielino,pomorskie,bytowski,trzebielino,1,1,5000,5000
+POMORSKIE,kartuski,Chmielno,pomorskie,kartuski,chmielno,1,1,5000,5000
+POMORSKIE,kartuski,Sulęczyno,pomorskie,kartuski,suleczyno,1,1,5000,5000
+POMORSKIE,kościerski,Lipusz,pomorskie,koscierski,lipusz,1,1,5000,5000
+POMORSKIE,pucki,Hel,pomorskie,pucki,hel,1,1,5000,5000
+POMORSKIE,słupski,Damnica,pomorskie,slupski,damnica,1,1,5000,5000
+POMORSKIE,słupski,Potęgowo,pomorskie,slupski,potegowo,1,1,5000,5000
+POMORSKIE,wejherowski,Choczewo,pomorskie,wejherowski,choczewo,1,1,5000,5000
+POMORSKIE,wejherowski,Linia,pomorskie,wejherowski,linia,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,giżycki,Ryn,warminsko_mazurskie,gizycki,ryn,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,giżycki,Wydminy,warminsko_mazurskie,gizycki,wydminy,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,kętrzyński,Korsze,warminsko_mazurskie,ketrzynski,korsze,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,kętrzyński,Kętrzyn,warminsko_mazurskie,ketrzynski,ketrzyn,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,kętrzyński,Reszel,warminsko_mazurskie,ketrzynski,reszel,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,lidzbarski,Kiwity,warminsko_mazurskie,lidzbarski,kiwity,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,mrągowski,Piecki,warminsko_mazurskie,mragowski,piecki,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,nowomiejski,Kurzętnik,warminsko_mazurskie,nowomiejski,kurzetnik,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,olecki,Kowale Oleckie,warminsko_mazurskie,olecki,kowale_oleckie,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,olecki,Wieliczki,warminsko_mazurskie,olecki,wieliczki,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,olsztyński,Świątki,warminsko_mazurskie,olsztynski,swiatki,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,ostródzki,Miłakowo,warminsko_mazurskie,ostrodzki,milakowo,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,warminsko_mazurskie,ostrodzki,ostroda,1,1,5000,5000
+WARMIŃSKO-MAZURSKIE,szczycieński,Szczytno,warminsko_mazurskie,szczycienski,szczytno,1,1,5000,5000
+WIELKOPOLSKIE,czarnkowsko-trzcianecki,Krzyż Wielkopolski,wielkopolskie,czarnkowsko_trzcianecki,krzyz_wielkopolski,1,1,5000,5000
+WIELKOPOLSKIE,gnieźnieński,Kłecko,wielkopolskie,gnieznienski,klecko,1,1,5000,5000
+WIELKOPOLSKIE,gnieźnieński,Łubowo,wielkopolskie,gnieznienski,lubowo,1,1,5000,5000
+WIELKOPOLSKIE,poznański,Kleszczewo,wielkopolskie,poznanski,kleszczewo,1,1,5000,5000
+WIELKOPOLSKIE,poznański,Mosina,wielkopolskie,poznanski,mosina,1,1,5000,5000
+WIELKOPOLSKIE,poznański,Suchy Las,wielkopolskie,poznanski,suchy_las,1,1,5000,5000
+WIELKOPOLSKIE,szamotulski,Ostroróg,wielkopolskie,szamotulski,ostrorog,1,1,5000,5000
+WIELKOPOLSKIE,wrzesiński,Miłosław,wielkopolskie,wrzesinski,miloslaw,1,1,5000,5000
+WIELKOPOLSKIE,wrzesiński,Nekla,wielkopolskie,wrzesinski,nekla,1,1,5000,5000
+WIELKOPOLSKIE,wrzesiński,Września,wielkopolskie,wrzesinski,wrzesnia,1,1,5000,5000
+WIELKOPOLSKIE,śremski,Dolsk,wielkopolskie,sremski,dolsk,1,1,5000,5000
+ZACHODNIOPOMORSKIE,choszczeński,Bierzwnik,zachodniopomorskie,choszczenski,bierzwnik,1,1,5000,5000
+ZACHODNIOPOMORSKIE,choszczeński,Drawno,zachodniopomorskie,choszczenski,drawno,1,1,5000,5000
+ZACHODNIOPOMORSKIE,choszczeński,Pełczyce,zachodniopomorskie,choszczenski,pelczyce,1,1,5000,5000
+ZACHODNIOPOMORSKIE,drawski,Wierzchowo,zachodniopomorskie,drawski,wierzchowo,1,1,5000,5000
+ZACHODNIOPOMORSKIE,kamieński,Dziwnów,zachodniopomorskie,kamienski,dziwnow,1,1,5000,5000
+ZACHODNIOPOMORSKIE,koszaliński,Manowo,zachodniopomorskie,koszalinski,manowo,1,1,5000,5000
+ZACHODNIOPOMORSKIE,koszaliński,Mielno,zachodniopomorskie,koszalinski,mielno,1,1,5000,5000
+ZACHODNIOPOMORSKIE,kołobrzeski,Rymań,zachodniopomorskie,kolobrzeski,ryman,1,1,5000,5000
+ZACHODNIOPOMORSKIE,kołobrzeski,Ustronie Morskie,zachodniopomorskie,kolobrzeski,ustronie_morskie,1,1,5000,5000
+ZACHODNIOPOMORSKIE,myśliborski,Nowogródek Pomorski,zachodniopomorskie,mysliborski,nowogrodek_pomorski,1,1,5000,5000
+ZACHODNIOPOMORSKIE,pyrzycki,Lipiany,zachodniopomorskie,pyrzycki,lipiany,1,0,5000,0
+ZACHODNIOPOMORSKIE,stargardzki,Dobrzany,zachodniopomorskie,stargardzki,dobrzany,1,1,5000,5000
+ZACHODNIOPOMORSKIE,stargardzki,Dolice,zachodniopomorskie,stargardzki,dolice,1,1,5000,5000
+ZACHODNIOPOMORSKIE,stargardzki,Ińsko,zachodniopomorskie,stargardzki,insko,1,1,5000,5000
+ZACHODNIOPOMORSKIE,stargardzki,Kobylanka,zachodniopomorskie,stargardzki,kobylanka,1,1,5000,5000
+ZACHODNIOPOMORSKIE,stargardzki,Stara Dąbrowa,zachodniopomorskie,stargardzki,stara_dabrowa,1,1,5000,5000
+ŁÓDZKIE,bełchatowski,Kleszczów,lodzkie,belchatowski,kleszczow,1,1,5000,5000
+ŁÓDZKIE,pabianicki,Ksawerów,lodzkie,pabianicki,ksawerow,1,1,5000,5000
+ŁÓDZKIE,radomszczański,Kamieńsk,lodzkie,radomszczanski,kamiensk,1,1,5000,5000
+ŁÓDZKIE,radomszczański,Żytno,lodzkie,radomszczanski,zytno,1,1,5000,5000
+ŁÓDZKIE,sieradzki,Klonowa,lodzkie,sieradzki,klonowa,1,1,5000,5000
+ŁÓDZKIE,skierniewicki,Lipce Reymontowskie,lodzkie,skierniewicki,lipce_reymontowskie,1,1,5000,5000
+ŁÓDZKIE,tomaszowski,Będków,lodzkie,tomaszowski,bedkow,1,1,5000,5000
+ŁÓDZKIE,wieluński,Konopnica,lodzkie,wielunski,konopnica,1,1,5000,5000
+ŁÓDZKIE,wieluński,Ostrówek,lodzkie,wielunski,ostrowek,1,1,5000,5000
+ŁÓDZKIE,wieluński,Skomlin,lodzkie,wielunski,skomlin,1,1,5000,5000
+ŁÓDZKIE,łowicki,Domaniewice,lodzkie,lowicki,domaniewice,1,1,5000,5000
+ŁÓDZKIE,łódzki wschodni,Brójce,lodzkie,lodzki_wschodni,brojce,1,1,5000,5000
+ŁÓDZKIE,łódzki wschodni,Rzgów,lodzkie,lodzki_wschodni,rzgow,1,1,5000,5000
+ŁÓDZKIE,łęczycki,Daszyna,lodzkie,leczycki,daszyna,1,1,5000,5000
+ŁÓDZKIE,łęczycki,Witonia,lodzkie,leczycki,witonia,1,1,5000,5000
+ŚLĄSKIE,bielski,Bestwina,slaskie,bielski,bestwina,1,1,5000,5000
+ŚLĄSKIE,bielski,Buczkowice,slaskie,bielski,buczkowice,1,1,5000,5000
+ŚLĄSKIE,bielski,Jaworze,slaskie,bielski,jaworze,1,1,5000,5000
+ŚLĄSKIE,bielski,Szczyrk,slaskie,bielski,szczyrk,1,1,5000,5000
+ŚLĄSKIE,bieruńsko-lędziński,Imielin,slaskie,bierunsko_ledzinski,imielin,1,1,5000,5000
+ŚLĄSKIE,cieszyński,Goleszów,slaskie,cieszynski,goleszow,1,1,5000,5000
+ŚLĄSKIE,cieszyński,Istebna,slaskie,cieszynski,istebna,1,1,5000,5000
+ŚLĄSKIE,m. Mysłowice,Mysłowice,slaskie,m_myslowice,myslowice,1,1,5000,5000
+ŚLĄSKIE,mikołowski,Ornontowice,slaskie,mikolowski,ornontowice,1,1,5000,5000
+ŚLĄSKIE,pszczyński,Kobiór,slaskie,pszczynski,kobior,1,1,5000,5000
+ŚLĄSKIE,pszczyński,Pawłowice,slaskie,pszczynski,pawlowice,1,1,5000,5000
+ŚLĄSKIE,raciborski,Krzyżanowice,slaskie,raciborski,krzyzanowice,1,1,5000,5000
+ŚLĄSKIE,raciborski,Nędza,slaskie,raciborski,nedza,1,1,5000,5000
+ŚLĄSKIE,wodzisławski,Marklowice,slaskie,wodzislawski,marklowice,1,0,5000,0
+ŚLĄSKIE,żywiecki,Jeleśnia,slaskie,zywiecki,jelesnia,1,1,5000,5000
+ŚLĄSKIE,żywiecki,Lipowa,slaskie,zywiecki,lipowa,1,1,5000,5000
+ŚLĄSKIE,żywiecki,Rajcza,slaskie,zywiecki,rajcza,1,1,5000,5000
+ŚLĄSKIE,żywiecki,Ujsoły,slaskie,zywiecki,ujsoly,1,1,5000,5000
+ŚLĄSKIE,żywiecki,Świnna,slaskie,zywiecki,swinna,1,1,5000,5000
+ŚWIĘTOKRZYSKIE,sandomierski,Łoniów,swietokrzyskie,sandomierski,loniow,1,1,5000,5000
+ŚWIĘTOKRZYSKIE,skarżyski,Suchedniów,swietokrzyskie,skarzyski,suchedniow,1,1,5000,5000
+ŚWIĘTOKRZYSKIE,staszowski,Łubnice,swietokrzyskie,staszowski,lubnice,1,1,5000,5000

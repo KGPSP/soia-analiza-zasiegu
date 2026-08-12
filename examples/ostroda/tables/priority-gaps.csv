@@ -1,0 +1,2 @@
+gap_id,risk_class,pop_outside_night,pop_outside_day,area_ha,teryt_gmi,wojewodztwo,powiat,gmina,priority_score_v12,priority_class,recommended_action_seed,procurement_action,estimated_new_siren_cost_pln,new_siren_cost_per_pop_outside_night_pln,x_2180,y_2180,lat,lon,estimated_unit_cost_pln,cost_per_pop_outside_night_pln
+5261,niskie ryzyko,4.415942484207587,4.415942484207587,5.0,2815092,WARMIŃSKO-MAZURSKIE,ostródzki,Ostróda,46.79,C,modernizacja_or_new,not_priced_as_integration,0,0.0,561800.0,649550.0,53.7070516,19.9365309,0,0.0

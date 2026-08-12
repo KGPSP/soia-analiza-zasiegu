@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.8.14"
+          enable-cache: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12.11"
+      - run: uv sync --frozen --extra dev
+      - run: uv run pytest
+      - run: uv run python tools/check_markdown_links.py .
+      - run: uv run ruff check src tests tools
+
+  container:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build --tag soia-analiza-zasiegu:ci .
+      - run: docker run --rm soia-analiza-zasiegu:ci --help
+      - run: python tools/create_ci_fixture.py .ci-data
+      - name: Generate example Markdown, PDF, maps, tables and GeoPackage
+        run: >-
+          docker run --rm
+          -v "${{ github.workspace }}:/workspace"
+          soia-analiza-zasiegu:ci
+          analyze --teryt 2815092 --data-dir /workspace/.ci-data
+          --output /workspace/.ci-output
+      - name: Verify generated example
+        run: |
+          test -s .ci-output/raport.md
+          test -s .ci-output/raport.pdf
+          test -s .ci-output/maps/lokalizacje.png
+          test -s .ci-output/layers/soia_2815092.gpkg
+          python -c 'import json; assert json.load(open(".ci-output/validation.json"))["validation_passed"]'
+
+  secrets:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

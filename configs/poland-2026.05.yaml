@@ -1,0 +1,50 @@
+release: "2026.05"
+workdir: "."
+state_dir: "reproduction/2026.05/.pipeline-state"
+data:
+  manifest: "data/manifests/data-manifest.json"
+  data_dir: "data"
+  roles: ["sources", "derived"]
+stages:
+  - name: "V9"
+    command:
+      - "python"
+      - "tools/replay_corrections.py"
+      - "--input"
+      - "data/releases/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V5.csv"
+      - "--registry"
+      - "data/releases/2026.05/data/corrections/corrections-v5-v9.csv"
+      - "--output"
+      - "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv"
+      - "--expected"
+      - "data/releases/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv"
+    inputs:
+      - "data/releases/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V5.csv"
+      - "data/releases/2026.05/data/corrections/corrections-v5-v9.csv"
+    outputs:
+      - "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv"
+      - "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.validation.json"
+  - name: "V10-OSM"
+    command: ["python", "scripts/extract_osm_layers_for_sound_model.py", "--pbf", "data/releases/2026.05/data/osm/poland-latest.osm.pbf", "--output-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"]
+    inputs: ["data/releases/2026.05/data/osm/poland-latest.osm.pbf"]
+    outputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"]
+  - name: "V10"
+    command: ["python", "scripts/build_siren_osm_attenuated_ranges_v10.py", "--points-csv", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv", "--osm-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180", "--output-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm"]
+    inputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"]
+    outputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm"]
+  - name: "V11"
+    command: ["python", "scripts/disaggregate_gus_population_to_buildings_v11.py", "--gus-grid", "data/releases/2026.05/data/population-grid/gus_nsp2021_population_grid_500m_tot.gpkg", "--buildings-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180", "--ranges-shp", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm/zasiegi_OSM_65_70_75_nonoverlap_V10.shp", "--output-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11"]
+    inputs: ["data/releases/2026.05/data/population-grid/gus_nsp2021_population_grid_500m_tot.gpkg", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"]
+    outputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11"]
+  - name: "V12-PRG"
+    command: ["python", "tools/prepare_prg.py", "--input", "data/releases/2026.05/data/prg/00_jednostki_administracyjne.zip", "--output", "reproduction/2026.05/data/prg"]
+    inputs: ["data/releases/2026.05/data/prg/00_jednostki_administracyjne.zip"]
+    outputs: ["reproduction/2026.05/data/prg"]
+  - name: "V12"
+    command: ["python", "scripts/build_decision_model_v12.py", "--building-pop", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11/building_population_V11.gpkg", "--residual-pop", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11/grid_residual_population_V11.gpkg", "--riskzone-shp", "data/releases/2026.05/data/isok-mrp/MZP_MRP_RiskZone_PL_2180.shp", "--coverage-raster", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm/coverage_class_osm_V10_100m.tif", "--prg-dir", "reproduction/2026.05/data/prg", "--terc-zip", "data/releases/2026.05/data/kpp-public-entities/TERC_Urzedowy_2026-05-09.zip", "--output-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12", "--no-prg-refresh"]
+    inputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm/coverage_class_osm_V10_100m.tif", "data/releases/2026.05/data/isok-mrp/MZP_MRP_RiskZone_PL_2180.shp", "reproduction/2026.05/data/prg"]
+    outputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12"]
+  - name: "V13"
+    command: ["python", "scripts/build_soia_report_v13.py", "--analysis-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05", "--output-dir", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/report_SOIA_V13"]
+    inputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11", "reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm"]
+    outputs: ["reproduction/2026.05/analysis-output/inwentaryzacja-syren-2026-05-05/report_SOIA_V13"]

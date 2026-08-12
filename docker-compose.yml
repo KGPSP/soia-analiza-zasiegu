@@ -1,0 +1,12 @@
+services:
+  soia:
+    image: soia-analiza-zasiegu:1.0.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    environment:
+      LANG: C.UTF-8
+      LC_ALL: C.UTF-8

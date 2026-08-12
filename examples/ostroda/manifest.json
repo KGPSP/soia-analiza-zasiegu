@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0.0",
+  "data_release": "2026.05",
+  "model_version": "V9–V13",
+  "teryt": "2815092",
+  "administrative_level": "gmina",
+  "parameters": {
+    "context_buffer_km": 10,
+    "thresholds_dba": [
+      65,
+      70,
+      75
+    ]
+  },
+  "runtime": {
+    "python": "3.12.11",
+    "platform": "Linux-6.12.76-linuxkit-aarch64-with-glibc2.36"
+  },
+  "metrics": {
+    "pop_total": 16375,
+    "pop_ge65": 9986,
+    "pop_ge70": 5571,
+    "pop_ge75": 1998,
+    "pop_outside_ge65": 6389,
+    "pct_ge65": 60.98,
+    "risk_pop_total": 4.415942,
+    "risk_pop_outside": 4.415942,
+    "unique_sites_without_gsm": 1,
+    "gap_cost": 0.0,
+    "recommendation_cost": 10000.0,
+    "siren_count": 14
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 187,
+      "sha256": "a0796d6aecbcadf0afb71779159fbfb8c7f4f4ec508b0b63c4b2d82750e51881"
+    },
+    {
+      "path": "inventory-changes.csv",
+      "size_bytes": 51,
+      "sha256": "630304bdb3dae33244ef2fc6b34980da7dac8a58d03bf76f1d8b02367043cea9"
+    },
+    {
+      "path": "layers/soia_2815092.gpkg",
+      "size_bytes": 1757184,
+      "sha256": "18a8a4dac464f2a1f0b7aaa69ed7e6816f9dfb24ecdd49d5cd8d827e5ae9e445"
+    },
+    {
+      "path": "maps/lokalizacje.png",
+      "size_bytes": 26424,
+      "sha256": "8e7a3e2a6bda9a1060678ef3f61e8ed340fbe35e744429c1e559d0ef33003ae3"
+    },
+    {
+      "path": "maps/pokrycie.png",
+      "size_bytes": 47040,
+      "sha256": "86c129bce642b3675380bad85c7c51590109d18219aedace0d93b17c1417b971"
+    },
+    {
+      "path": "raport.md",
+      "size_bytes": 1701,
+      "sha256": "c1c55850b8f15f0b3f4e69e992983e5c4a3185bdb6b57d22f56a364d7b12bef8"
+    },
+    {
+      "path": "raport.pdf",
+      "size_bytes": 93690,
+      "sha256": "6ed2894e744f63d373e461403dd38ec9656e58b7c5e8c95a3b97666a72fc5d26"
+    },
+    {
+      "path": "report-style.css",
+      "size_bytes": 409,
+      "sha256": "501252612bb43220f9bc086097b4cd0c87a3d810e9cd56e4bc5dec4c241d524b"
+    },
+    {
+      "path": "tables/candidates.csv",
+      "size_bytes": 600,
+      "sha256": "9839b0d4ecfd87fe19811e6778375c5cd105b56b432ce0d044c2de2a4c2c233e"
+    },
+    {
+      "path": "tables/coverage.csv",
+      "size_bytes": 275,
+      "sha256": "a835a8259b18d657142f48d4063b0db1c690937c9fdcdd65cdab7e6306ff78d0"
+    },
+    {
+      "path": "tables/gsm-integration.csv",
+      "size_bytes": 271,
+      "sha256": "b4095161cc88cd217e61f5f01c8e01ff4d36e627ef8bb72f48088e9171d73626"
+    },
+    {
+      "path": "tables/priority-gaps.csv",
+      "size_bytes": 535,
+      "sha256": "e7efaaa6d185e4600f44ee08f088989d99e5651b3c2ebb53592bcaa39ca11c07"
+    },
+    {
+      "path": "tables/redundancy.csv",
+      "size_bytes": 3093,
+      "sha256": "d19614c7f6a75376fc793d1d0021be79757b19f1623ae9a193f0950d6caea0cd"
+    },
+    {
+      "path": "tables/risk.csv",
+      "size_bytes": 379,
+      "sha256": "61c764dfd6d3ad8adb582ed36f004777564ea2c6c50de0bf49f413def0354990"
+    },
+    {
+      "path": "validation.json",
+      "size_bytes": 135,
+      "sha256": "6781593fbd13d899d922c005359786983fe961174d4856c41743d8913a4fdc6a"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "validation_passed": true,
+  "teryt_valid": true,
+  "population_balance": true,
+  "non_negative_metrics": true,
+  "warnings": []
+}
