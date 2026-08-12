@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 license = { file = "LICENSE" }
 authors = [
-  { name = "Komenda Główna Państwowej Straży Pożarnej" },
+  { name = "Komenda Główna Państwowej Straży Pożarnej - Biuro Informatyki i Łączności" },
 ]
 dependencies = [
   "fiona==1.10.1",

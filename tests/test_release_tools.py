@@ -19,6 +19,9 @@ def test_build_data_manifest_records_file_metadata(tmp_path: Path) -> None:
     source.write_text("a,b\n1,2\n", encoding="utf-8")
     groups = {
         "release": "2026.05",
+        "owner": "Komenda Główna Państwowej Straży Pożarnej (KG PSP)",
+        "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
+        "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
         "files": [
             {
                 "path": "source.csv",
@@ -44,6 +47,9 @@ def test_build_data_manifest_records_file_metadata(tmp_path: Path) -> None:
     assert item["sha256"] == hashlib.sha256(source.read_bytes()).hexdigest()
     assert item["release"] == "2026.05"
     assert item["crs"] is None
+    assert manifest["owner"] == "Komenda Główna Państwowej Straży Pożarnej (KG PSP)"
+    assert manifest["responsible_unit"] == "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)"
+    assert manifest["prepared_by"] == "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego"
 
 
 def test_build_zip64_excludes_technical_files(tmp_path: Path) -> None:

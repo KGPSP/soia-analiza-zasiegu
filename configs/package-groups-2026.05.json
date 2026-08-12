@@ -1,5 +1,8 @@
 {
   "release": "2026.05",
+  "owner": "Komenda Główna Państwowej Straży Pożarnej (KG PSP)",
+  "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
+  "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
   "doi": null,
   "archives": [
     {"role": "sources", "name": "soia-sources-2026.05.zip", "url": null, "size_bytes": null, "sha256": null},

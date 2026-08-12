@@ -19,17 +19,24 @@ def metadata() -> dict[str, object]:
         "description": (
             "Dane źródłowe i pochodne V9–V13 oraz zoptymalizowany quickstart do "
             "reprodukowalnych analiz zasięgu syren SOIA dla jednostek TERYT. "
-            "Inwentaryzacja: maj 2026; rozszerzenie CAP/IoT: eksport lipiec 2026."
+            "Właściciel: KG PSP; jednostka odpowiedzialna: BIŁ KG PSP; opracowanie: "
+            "zespół pod kierownictwem st. bryg. Michała Kłosińskiego. Inwentaryzacja: "
+            "maj 2026; rozszerzenie CAP/IoT: eksport lipiec 2026."
         ),
         "creators": [
             {
-                "name": "Kłosiński, Michał",
-                "affiliation": "Komenda Główna Państwowej Straży Pożarnej",
+                "name": (
+                    "Komenda Główna Państwowej Straży Pożarnej — "
+                    "Biuro Informatyki i Łączności"
+                ),
             },
+        ],
+        "contributors": [
             {
-                "name": "Wnęk, Marek",
-                "affiliation": "Komenda Główna Państwowej Straży Pożarnej",
-            },
+                "name": "Kłosiński, Michał",
+                "affiliation": "Biuro Informatyki i Łączności KG PSP",
+                "type": "ProjectLeader",
+            }
         ],
         "version": "2026.05",
         "language": "pol",

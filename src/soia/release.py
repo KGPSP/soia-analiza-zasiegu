@@ -74,6 +74,9 @@ def expand_package_specification(root: Path, specification: dict[str, Any]) -> d
             files.append(item)
     return {
         "release": specification["release"],
+        "owner": specification.get("owner"),
+        "responsible_unit": specification.get("responsible_unit"),
+        "prepared_by": specification.get("prepared_by"),
         "doi": specification.get("doi"),
         "archives": specification.get("archives", []),
         "files": files,
@@ -110,6 +113,9 @@ def build_data_manifest(root: Path, specification: dict[str, Any]) -> dict[str, 
     return {
         "schema_version": "1.0.0",
         "release": release,
+        "owner": specification.get("owner"),
+        "responsible_unit": specification.get("responsible_unit"),
+        "prepared_by": specification.get("prepared_by"),
         "doi": specification.get("doi"),
         "archives": specification.get("archives", []),
         "files": output,

@@ -24,9 +24,13 @@ def test_draft_metadata_does_not_falsely_apply_one_license_to_all_files() -> Non
     assert payload["access_right"] == "restricted"
     assert "license" not in payload
     assert [creator["name"] for creator in payload["creators"]] == [
-        "Kłosiński, Michał",
-        "Wnęk, Marek",
+        "Komenda Główna Państwowej Straży Pożarnej — Biuro Informatyki i Łączności"
     ]
+    assert payload["contributors"] == [{
+        "name": "Kłosiński, Michał",
+        "affiliation": "Biuro Informatyki i Łączności KG PSP",
+        "type": "ProjectLeader",
+    }]
 
 
 def test_zenodo_upload_can_update_existing_draft(monkeypatch, tmp_path: Path) -> None:

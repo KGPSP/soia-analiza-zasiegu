@@ -8,6 +8,13 @@ gminy wskazanej kodem TERYT.
 > wysłanie danych operacyjnych na GitHub i Zenodo wymaga zatwierdzenia listy
 > kontrolnej w [PUBLICATION_APPROVAL.md](PUBLICATION_APPROVAL.md).
 
+## Właściciel i opracowanie
+
+- **Właściciel:** Komenda Główna Państwowej Straży Pożarnej (KG PSP).
+- **Jednostka odpowiedzialna:** Biuro Informatyki i Łączności KG PSP
+  (BIŁ KG PSP).
+- **Opracowanie:** zespół pod kierownictwem st. bryg. Michała Kłosińskiego.
+
 ## Najważniejsze materiały
 
 - [Analiza kierunkowa CAP/IoT w Markdown](publication/analiza-kierunkowa.md)

@@ -4,6 +4,12 @@
 > i wyników V9-V13. Rozszerzenie CAP/IoT wyeksportowano 6 lipca 2026 r.
 > Wersja danych: `2026.05`. Dokument jest modelem planistycznym, a nie
 > certyfikowanym pomiarem propagacji akustycznej.
+>
+> **Właściciel opracowania:** Komenda Główna Państwowej Straży Pożarnej
+> (KG PSP).  
+> **Jednostka odpowiedzialna:** Biuro Informatyki i Łączności KG PSP
+> (BIŁ KG PSP).  
+> **Opracowanie:** zespół pod kierownictwem st. bryg. Michała Kłosińskiego.
 
 [Pobierz kanoniczny PDF](source/SOIA_Analiza_Kierunkowa_v2_MSWiA_KGPSP_2_4_CAP_IOT_czytelny.pdf)
 lub otwórz [manifest danych](../data/manifests/data-manifest.json).
@@ -26,17 +32,12 @@ Data opracowania: 10 maja 2026 r.
 
 Wersja danych źródłowych: inwentaryzacja z 5 maja 2026 r.; etap V13
 
-*Opracował analizę:*
+**Właściciel: Komenda Główna Państwowej Straży Pożarnej (KG PSP)**
 
-**st. bryg. mgr inż. Michał Kłosiński**
+**Jednostka odpowiedzialna: Biuro Informatyki i Łączności KG PSP
+(BIŁ KG PSP)**
 
-Biuro Informatyki i Łączności KG PSP
-
-*Koordynator prac:*
-
-**st. bryg. mgr inż. Marek Wnęk**
-
-Biuro Ochrony Ludności KG PSP
+*Opracował zespół pod kierownictwem st. bryg. Michała Kłosińskiego.*
 
 *Warszawa, maj 2026 r.*
 
