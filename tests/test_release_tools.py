@@ -22,6 +22,7 @@ def test_build_data_manifest_records_file_metadata(tmp_path: Path) -> None:
         "owner": "Komenda Główna Państwowej Straży Pożarnej (KG PSP)",
         "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
         "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
+        "rights": [{"id": "LicenseRef-Test", "title": "Test rights"}],
         "files": [
             {
                 "path": "source.csv",
@@ -50,6 +51,7 @@ def test_build_data_manifest_records_file_metadata(tmp_path: Path) -> None:
     assert manifest["owner"] == "Komenda Główna Państwowej Straży Pożarnej (KG PSP)"
     assert manifest["responsible_unit"] == "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)"
     assert manifest["prepared_by"] == "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego"
+    assert manifest["rights"] == [{"id": "LicenseRef-Test", "title": "Test rights"}]
 
 
 def test_build_zip64_excludes_technical_files(tmp_path: Path) -> None:

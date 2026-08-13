@@ -4,6 +4,36 @@
   "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
   "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
   "doi": "10.5281/zenodo.21921103",
+  "rights": [
+    {
+      "id": "LicenseRef-KGPSP-Public-Release-2026-08-13",
+      "title": "Dane operacyjne KG PSP — publiczne wydanie 2026.05",
+      "holder": "Komenda Główna Państwowej Straży Pożarnej",
+      "conditions": "Publiczna publikacja została zatwierdzona 13 sierpnia 2026 r. Ponowne wykorzystanie wymaga wskazania KG PSP jako źródła, wersji danych 2026.05, daty pozyskania oraz informacji o dokonanym przetworzeniu. Prawa dostawców danych zewnętrznych pozostają bez zmian.",
+      "evidence": "PUBLICATION_APPROVAL.md"
+    },
+    {
+      "id": "LicenseRef-GUS-Reuse-With-Attribution",
+      "title": "Ponowne wykorzystywanie informacji GUS",
+      "holder": "Główny Urząd Statystyczny",
+      "conditions": "Wymagane jest podanie źródła, czasu wytworzenia i pozyskania informacji z GUS oraz poinformowanie o jej przetworzeniu. Dla Portalu Geostatystycznego należy podać geo.stat.gov.pl i datę pobrania.",
+      "url": "https://bip.stat.gov.pl/kontakt/ponowne-wykorzystywanie-informacji-sektora-publicznego/"
+    },
+    {
+      "id": "LicenseRef-ISOK-Reuse-With-Attribution",
+      "title": "Wykorzystanie informacji Hydroportalu ISOK",
+      "holder": "Państwowe Gospodarstwo Wodne Wody Polskie",
+      "conditions": "Wymagane jest wskazanie wody.isok.gov.pl jako źródła i podanie daty pobrania. Dane mają charakter poglądowy i nie stanowią dokumentu oficjalnego.",
+      "url": "https://www.isok.gov.pl/regulamin.html"
+    },
+    {
+      "id": "LicenseRef-NASA-USGS-SRTM-Public-Domain",
+      "title": "SRTM 3 arc-second — Public Domain",
+      "holder": "NASA / NGA / USGS",
+      "conditions": "Dane SRTM są udostępniane w otwartej dystrybucji i oznaczane przez USGS jako Public Domain. Należy wskazać NASA/USGS SRTM jako źródło. Kafle wykorzystane w tym wydaniu pobrał srtm.py 0.3.7 z mirrora srtm.kurviger.de/SRTM3/.",
+      "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm"
+    }
+  ],
   "archives": [
     {
       "role": "sources",
@@ -34,7 +64,7 @@
       "stage": "source",
       "source": "KG PSP/JST",
       "acquired": "2026-05-05",
-      "license": "REQUIRES_OWNER_APPROVAL",
+      "license": "LicenseRef-KGPSP-Public-Release-2026-08-13",
       "kind": "source",
       "format": "CSV",
       "dependencies": []
@@ -55,7 +85,7 @@
       "stage": "source",
       "source": "GUS NSP 2021",
       "acquired": "2026-05-07",
-      "license": "REQUIRES_LICENSE_REVIEW",
+      "license": "LicenseRef-GUS-Reuse-With-Attribution",
       "kind": "source",
       "dependencies": []
     },
@@ -85,7 +115,7 @@
       "stage": "source",
       "source": "GUS/KG PSP",
       "acquired": "2026-05-09",
-      "license": "REQUIRES_LICENSE_REVIEW",
+      "license": "LicenseRef-GUS-Reuse-With-Attribution AND LicenseRef-KGPSP-Public-Release-2026-08-13",
       "kind": "source",
       "dependencies": []
     },
@@ -95,7 +125,7 @@
       "stage": "source",
       "source": "GUS TERYT",
       "acquired": "2026-05-09",
-      "license": "REQUIRES_LICENSE_REVIEW",
+      "license": "LicenseRef-GUS-Reuse-With-Attribution",
       "kind": "source",
       "dependencies": []
     },
@@ -105,7 +135,7 @@
       "stage": "source",
       "source": "Wody Polskie/ISOK",
       "acquired": "2026-05-08",
-      "license": "REQUIRES_LICENSE_REVIEW",
+      "license": "LicenseRef-ISOK-Reuse-With-Attribution",
       "kind": "source",
       "crs": "EPSG:2180",
       "layer": "RiskZone",
@@ -118,7 +148,7 @@
       "stage": "source",
       "source": "NASA/USGS SRTM",
       "acquired": "2026-05-06",
-      "license": "REQUIRES_LICENSE_REVIEW",
+      "license": "LicenseRef-NASA-USGS-SRTM-Public-Domain",
       "kind": "source",
       "dependencies": []
     },

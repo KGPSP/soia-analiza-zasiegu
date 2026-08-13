@@ -16,15 +16,19 @@
       "EXTERNAL-RIGHTS-SEE-DATA-MANIFEST"
     ],
     "manifest_markers": {
-      "REQUIRES_LICENSE_REVIEW": 70,
-      "REQUIRES_OWNER_APPROVAL": 1
+      "REQUIRES_LICENSE_REVIEW": 0,
+      "REQUIRES_OWNER_APPROVAL": 0
     },
-    "decision": "not_approved_for_publication",
+    "decision": "approved_for_publication_pending_publish",
+    "replacement_manifest": {
+      "size_bytes": 220384,
+      "sha256": "ddacba29b3c85e7b8b0d0f4df33a4d30a7700f5439e9b4f3328cf394158648c7",
+      "md5": "99fcbc4ea23b1772f90aac0e09ecd5c5"
+    },
     "remaining_actions": [
-      "replace all manifest review markers with source-specific rights",
       "upload the corrected data-manifest.json",
-      "obtain final approval of the per-file rights matrix",
-      "change file access to public and publish only after prior actions"
+      "change file access to public",
+      "publish the approved record"
     ]
   },
   "files": [

@@ -49,7 +49,10 @@ def test_zenodo_approval_audit_matches_manifest_review_markers() -> None:
     }
 
     assert actual_counts == marker_counts
-    assert status["approval_audit"]["decision"] == "not_approved_for_publication"
+    assert status["approval_audit"]["decision"] in {
+        "approved_for_publication_pending_publish",
+        "published",
+    }
     assert status["files_access"] == "restricted"
     assert status["published"] is False
 
