@@ -21,7 +21,7 @@ class FakeResponse:
 def test_draft_metadata_does_not_falsely_apply_one_license_to_all_files() -> None:
     payload = metadata()
 
-    assert payload["access_right"] == "restricted"
+    assert payload["access_right"] == "open"
     assert "license" not in payload
     assert [creator["name"] for creator in payload["creators"]] == [
         "Komenda Główna Państwowej Straży Pożarnej — Biuro Informatyki i Łączności"
@@ -49,12 +49,9 @@ def test_zenodo_approval_audit_matches_manifest_review_markers() -> None:
     }
 
     assert actual_counts == marker_counts
-    assert status["approval_audit"]["decision"] in {
-        "approved_for_publication_pending_publish",
-        "published",
-    }
-    assert status["files_access"] == "restricted"
-    assert status["published"] is False
+    assert status["approval_audit"]["decision"] == "published"
+    assert status["files_access"] == "public"
+    assert status["published"] is True
 
 
 def test_zenodo_upload_can_update_existing_draft(monkeypatch, tmp_path: Path) -> None:

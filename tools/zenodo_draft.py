@@ -40,11 +40,7 @@ def metadata() -> dict[str, object]:
         ],
         "version": "2026.05",
         "language": "pol",
-        "access_right": "restricted",
-        "access_conditions": (
-            "Draft przedpublikacyjny. Dostęp zostanie otwarty po zgodzie właściciela "
-            "danych, kontroli informacji i zatwierdzeniu macierzy wielu licencji."
-        ),
+        "access_right": "open",
         "keywords": [
             "SOIA", "syreny alarmowe", "GIS", "TERYT", "ochrona ludności",
             "zasięg akustyczny", "reprodukowalność",
@@ -52,8 +48,8 @@ def metadata() -> dict[str, object]:
         "notes": (
             "Pliki mają różne warunki: kod MIT, własna dokumentacja CC BY 4.0, "
             "OpenStreetMap ODbL oraz prawa pozostałych źródeł wskazane w "
-            "data-manifest.json. Przed publikacją należy dodać wszystkie prawa "
-            "w interfejsie Zenodo; jednej licencji nie wolno stosować do całej paczki."
+            "data-manifest.json. Macierz praw i publiczną publikację zatwierdzono "
+            "13 sierpnia 2026 r.; jednej licencji nie stosuje się do całej paczki."
         ),
     }
 

@@ -4,15 +4,13 @@ Repozytorium publikuje analizę kierunkową Systemu Ostrzegania i Alarmowania
 Ludności oraz narzędzia pozwalające odtworzyć ją dla województwa, powiatu lub
 gminy wskazanej kodem TERYT.
 
-> **Status wydania:** publiczny kandydat `v1.0.0-rc`. Publikację repozytorium
-> GitHub zatwierdzono 13 sierpnia 2026 r. Rekord Zenodo `21921103` jest
-> nieopublikowanym draftem, a jego cztery pliki (11,0 GB) pozostają objęte
-> dostępem ograniczonym. DOI `10.5281/zenodo.21921103` jest zarezerwowany, ale
-> nieaktywny do chwili publikacji. **Publiczna publikacja plików Zenodo nie jest
-> jeszcze zatwierdzona**: manifest zawiera 70 wpisów
-> `REQUIRES_LICENSE_REVIEW` i jeden historyczny wpis
-> `REQUIRES_OWNER_APPROVAL`, który trzeba zastąpić zapisem uzyskanej zgody KG
-> PSP. Szczegóły: [audyt Zenodo](publication/zenodo-approval-audit.md) i
+> **Status wydania:** publiczne wydanie `v1.0.0`. Publikację repozytorium
+> GitHub i pakietu danych Zenodo zatwierdzono 13 sierpnia 2026 r. Rekord
+> [`21921103`](https://zenodo.org/records/21921103) zawiera cztery publiczne
+> pliki (11,0 GB), a DOI
+> [`10.5281/zenodo.21921103`](https://doi.org/10.5281/zenodo.21921103) jest
+> aktywny. Manifest nie zawiera znaczników roboczych `REQUIRES_*`. Szczegóły:
+> [audyt Zenodo](publication/zenodo-approval-audit.md) i
 > [bramka publikacyjna](PUBLICATION_APPROVAL.md).
 
 ## Właściciel i opracowanie
@@ -34,7 +32,7 @@ gminy wskazanej kodem TERYT.
 - [Przykładowy raport: gmina wiejska Ostróda](examples/ostroda/README.md)
 - [Przygotowanie draftu Zenodo](docs/how-to/draft-zenodo.md)
 - [Audyt zgody i statusu Zenodo](publication/zenodo-approval-audit.md)
-- [Status draftu Zenodo 2026.05](publication/zenodo-draft-status.json)
+- [Status publikacji Zenodo 2026.05](publication/zenodo-draft-status.json)
 - [Walidacja zastanego snapshotu 2026.05](publication/release-snapshot-validation-2026.05.json)
 
 ## Szybki start
