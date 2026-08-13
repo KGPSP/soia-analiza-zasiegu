@@ -21,7 +21,7 @@ class FakeResponse:
 def test_draft_metadata_does_not_falsely_apply_one_license_to_all_files() -> None:
     payload = metadata()
 
-    assert payload["access_right"] == "restricted"
+    assert payload["access_right"] == "open"
     assert "license" not in payload
     assert [creator["name"] for creator in payload["creators"]] == [
         "Komenda Główna Państwowej Straży Pożarnej — Biuro Informatyki i Łączności"
@@ -31,6 +31,27 @@ def test_draft_metadata_does_not_falsely_apply_one_license_to_all_files() -> Non
         "affiliation": "Biuro Informatyki i Łączności KG PSP",
         "type": "ProjectLeader",
     }]
+
+
+def test_zenodo_approval_audit_matches_manifest_review_markers() -> None:
+    repository = Path(__file__).parents[1]
+    manifest = json.loads(
+        (repository / "data/manifests/data-manifest.json").read_text(encoding="utf-8")
+    )
+    status = json.loads(
+        (repository / "publication/zenodo-draft-status.json").read_text(encoding="utf-8")
+    )
+
+    marker_counts = status["approval_audit"]["manifest_markers"]
+    actual_counts = {
+        marker: sum(item["license"] == marker for item in manifest["files"])
+        for marker in marker_counts
+    }
+
+    assert actual_counts == marker_counts
+    assert status["approval_audit"]["decision"] == "published"
+    assert status["files_access"] == "public"
+    assert status["published"] is True
 
 
 def test_zenodo_upload_can_update_existing_draft(monkeypatch, tmp_path: Path) -> None:

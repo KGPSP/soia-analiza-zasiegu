@@ -78,6 +78,7 @@ def expand_package_specification(root: Path, specification: dict[str, Any]) -> d
         "responsible_unit": specification.get("responsible_unit"),
         "prepared_by": specification.get("prepared_by"),
         "doi": specification.get("doi"),
+        "rights": specification.get("rights", []),
         "archives": specification.get("archives", []),
         "files": files,
     }
@@ -117,6 +118,7 @@ def build_data_manifest(root: Path, specification: dict[str, Any]) -> dict[str, 
         "responsible_unit": specification.get("responsible_unit"),
         "prepared_by": specification.get("prepared_by"),
         "doi": specification.get("doi"),
+        "rights": specification.get("rights", []),
         "archives": specification.get("archives", []),
         "files": output,
     }

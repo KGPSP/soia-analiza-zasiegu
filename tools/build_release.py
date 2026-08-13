@@ -44,6 +44,12 @@ def build_release(
             build_zip64(output, members, force=force)
             archive["size_bytes"] = output.stat().st_size
             archive["sha256"] = sha256_file(output)
+    else:
+        for archive in manifest["archives"]:
+            existing = artifacts_dir / archive["name"]
+            if existing.exists():
+                archive["size_bytes"] = existing.stat().st_size
+                archive["sha256"] = sha256_file(existing)
     write_manifest(manifest_path, manifest)
     return manifest
 

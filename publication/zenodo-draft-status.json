@@ -1,10 +1,35 @@
 {
   "record_id": 21921103,
   "doi": "10.5281/zenodo.21921103",
-  "status": "draft",
-  "files_access": "restricted",
-  "published": false,
+  "status": "published",
+  "files_access": "public",
+  "published": true,
+  "published_at": "2026-08-13T16:27:45.726474+00:00",
   "updated_at": "2026-08-13",
+  "approval_audit": {
+    "verified_at": "2026-08-13",
+    "record_preview_confirmed": true,
+    "public_record_confirmed": true,
+    "doi_resolution_confirmed": true,
+    "owner_approval_confirmed": true,
+    "rights_listed_in_record": [
+      "CC-BY-4.0",
+      "MIT",
+      "ODbL-1.0",
+      "EXTERNAL-RIGHTS-SEE-DATA-MANIFEST"
+    ],
+    "manifest_markers": {
+      "REQUIRES_LICENSE_REVIEW": 0,
+      "REQUIRES_OWNER_APPROVAL": 0
+    },
+    "decision": "published",
+    "published_manifest": {
+      "size_bytes": 220384,
+      "sha256": "ddacba29b3c85e7b8b0d0f4df33a4d30a7700f5439e9b4f3328cf394158648c7",
+      "md5": "99fcbc4ea23b1772f90aac0e09ecd5c5"
+    },
+    "remaining_actions": []
+  },
   "files": [
     {
       "name": "soia-derived-v9-v13-2026.05.zip",
@@ -26,9 +51,9 @@
     },
     {
       "name": "data-manifest.json",
-      "size_bytes": 217194,
-      "sha256": "87ee3e770099c5d433b0710b07a1279e684330406f1bc994e921786fb5a6803d",
-      "zenodo_md5": "6f4879d0afa73995b92deaefdcf56ac5"
+      "size_bytes": 220384,
+      "sha256": "ddacba29b3c85e7b8b0d0f4df33a4d30a7700f5439e9b4f3328cf394158648c7",
+      "zenodo_md5": "99fcbc4ea23b1772f90aac0e09ecd5c5"
     }
   ]
 }
