@@ -17,6 +17,7 @@ data/cache/
 data/releases/
 data/quickstart-2026.05/
 release-artifacts/
+docs/adr/
 tmp/
 *.log
 *.rendered.png
