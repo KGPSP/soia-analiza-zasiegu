@@ -5,6 +5,28 @@
   "files_access": "restricted",
   "published": false,
   "updated_at": "2026-08-13",
+  "approval_audit": {
+    "verified_at": "2026-08-13",
+    "record_preview_confirmed": true,
+    "owner_approval_confirmed": true,
+    "rights_listed_in_record": [
+      "CC-BY-4.0",
+      "MIT",
+      "ODbL-1.0",
+      "EXTERNAL-RIGHTS-SEE-DATA-MANIFEST"
+    ],
+    "manifest_markers": {
+      "REQUIRES_LICENSE_REVIEW": 70,
+      "REQUIRES_OWNER_APPROVAL": 1
+    },
+    "decision": "not_approved_for_publication",
+    "remaining_actions": [
+      "replace all manifest review markers with source-specific rights",
+      "upload the corrected data-manifest.json",
+      "obtain final approval of the per-file rights matrix",
+      "change file access to public and publish only after prior actions"
+    ]
+  },
   "files": [
     {
       "name": "soia-derived-v9-v13-2026.05.zip",
