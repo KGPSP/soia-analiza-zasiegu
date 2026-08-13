@@ -4,26 +4,26 @@
   "owner": "Komenda Główna Państwowej Straży Pożarnej (KG PSP)",
   "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
   "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
-  "doi": null,
+  "doi": "10.5281/zenodo.21921103",
   "archives": [
     {
       "role": "sources",
       "name": "soia-sources-2026.05.zip",
-      "url": null,
+      "url": "https://zenodo.org/records/21921103/files/soia-sources-2026.05.zip?download=1",
       "size_bytes": 5145563059,
       "sha256": "1220fb4638b9c819b0e1b8272debdc93d66e103cb109eda5c1fc034af436d3a6"
     },
     {
       "role": "derived",
       "name": "soia-derived-v9-v13-2026.05.zip",
-      "url": null,
+      "url": "https://zenodo.org/records/21921103/files/soia-derived-v9-v13-2026.05.zip?download=1",
       "size_bytes": 5503029541,
       "sha256": "f2ec971740df258528286959a068313d71f426002d8d114b00869cad1e174a53"
     },
     {
       "role": "quickstart",
       "name": "soia-quickstart-2026.05.zip",
-      "url": null,
+      "url": "https://zenodo.org/records/21921103/files/soia-quickstart-2026.05.zip?download=1",
       "size_bytes": 323646977,
       "sha256": "852ad5c1de25a83627de0bdfea83dca85c0c18ccb78e9c1cda9fbe6358d796a1"
     }

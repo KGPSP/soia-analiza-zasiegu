@@ -3,123 +3,249 @@
   "owner": "Komenda Główna Państwowej Straży Pożarnej (KG PSP)",
   "responsible_unit": "Biuro Informatyki i Łączności KG PSP (BIŁ KG PSP)",
   "prepared_by": "Zespół pod kierownictwem st. bryg. Michała Kłosińskiego",
-  "doi": null,
+  "doi": "10.5281/zenodo.21921103",
   "archives": [
-    {"role": "sources", "name": "soia-sources-2026.05.zip", "url": null, "size_bytes": null, "sha256": null},
-    {"role": "derived", "name": "soia-derived-v9-v13-2026.05.zip", "url": null, "size_bytes": null, "sha256": null},
-    {"role": "quickstart", "name": "soia-quickstart-2026.05.zip", "url": null, "size_bytes": null, "sha256": null}
+    {
+      "role": "sources",
+      "name": "soia-sources-2026.05.zip",
+      "url": "https://zenodo.org/records/21921103/files/soia-sources-2026.05.zip?download=1",
+      "size_bytes": null,
+      "sha256": null
+    },
+    {
+      "role": "derived",
+      "name": "soia-derived-v9-v13-2026.05.zip",
+      "url": "https://zenodo.org/records/21921103/files/soia-derived-v9-v13-2026.05.zip?download=1",
+      "size_bytes": null,
+      "sha256": null
+    },
+    {
+      "role": "quickstart",
+      "name": "soia-quickstart-2026.05.zip",
+      "url": "https://zenodo.org/records/21921103/files/soia-quickstart-2026.05.zip?download=1",
+      "size_bytes": null,
+      "sha256": null
+    }
   ],
   "groups": [
     {
       "glob": "ankieta-pobrana/inwentaryzacja-syren-2026-05-05.csv",
-      "package": "sources", "stage": "source", "source": "KG PSP/JST",
-      "acquired": "2026-05-05", "license": "REQUIRES_OWNER_APPROVAL",
-      "kind": "source", "format": "CSV", "dependencies": []
+      "package": "sources",
+      "stage": "source",
+      "source": "KG PSP/JST",
+      "acquired": "2026-05-05",
+      "license": "REQUIRES_OWNER_APPROVAL",
+      "kind": "source",
+      "format": "CSV",
+      "dependencies": []
     },
     {
-      "glob": "data/osm/*", "package": "sources", "stage": "source",
-      "source": "OpenStreetMap/Geofabrik", "acquired": "2026-05-06",
-      "license": "ODbL-1.0", "kind": "source", "dependencies": []
+      "glob": "data/osm/*",
+      "package": "sources",
+      "stage": "source",
+      "source": "OpenStreetMap/Geofabrik",
+      "acquired": "2026-05-06",
+      "license": "ODbL-1.0",
+      "kind": "source",
+      "dependencies": []
     },
     {
-      "glob": "data/population-grid/*", "package": "sources", "stage": "source",
-      "source": "GUS NSP 2021", "acquired": "2026-05-07",
-      "license": "REQUIRES_LICENSE_REVIEW", "kind": "source", "dependencies": []
+      "glob": "data/population-grid/*",
+      "package": "sources",
+      "stage": "source",
+      "source": "GUS NSP 2021",
+      "acquired": "2026-05-07",
+      "license": "REQUIRES_LICENSE_REVIEW",
+      "kind": "source",
+      "dependencies": []
     },
     {
-      "glob": "data/prg/00_jednostki_administracyjne.zip", "package": "sources",
-      "stage": "source", "source": "PRG/GUGiK", "acquired": "2026-05-09",
-      "license": "CC-BY-4.0", "kind": "source", "dependencies": []
+      "glob": "data/prg/00_jednostki_administracyjne.zip",
+      "package": "sources",
+      "stage": "source",
+      "source": "PRG/GUGiK",
+      "acquired": "2026-05-09",
+      "license": "CC-BY-4.0",
+      "kind": "source",
+      "dependencies": []
     },
     {
-      "glob": "data/prg/index.md", "package": "sources", "stage": "source",
-      "source": "project metadata", "acquired": "2026-05-09",
-      "license": "CC-BY-4.0", "kind": "metadata", "dependencies": []
+      "glob": "data/prg/index.md",
+      "package": "sources",
+      "stage": "source",
+      "source": "project metadata",
+      "acquired": "2026-05-09",
+      "license": "CC-BY-4.0",
+      "kind": "metadata",
+      "dependencies": []
     },
     {
-      "glob": "data/TERYT_nrJOP.xlsx", "package": "sources", "stage": "source",
-      "source": "GUS/KG PSP", "acquired": "2026-05-09",
-      "license": "REQUIRES_LICENSE_REVIEW", "kind": "source", "dependencies": []
+      "glob": "data/TERYT_nrJOP.xlsx",
+      "package": "sources",
+      "stage": "source",
+      "source": "GUS/KG PSP",
+      "acquired": "2026-05-09",
+      "license": "REQUIRES_LICENSE_REVIEW",
+      "kind": "source",
+      "dependencies": []
     },
     {
       "glob": "data/kpp-public-entities/TERC_Urzedowy_2026-05-09.zip",
-      "package": "sources", "stage": "source", "source": "GUS TERYT",
-      "acquired": "2026-05-09", "license": "REQUIRES_LICENSE_REVIEW",
-      "kind": "source", "dependencies": []
+      "package": "sources",
+      "stage": "source",
+      "source": "GUS TERYT",
+      "acquired": "2026-05-09",
+      "license": "REQUIRES_LICENSE_REVIEW",
+      "kind": "source",
+      "dependencies": []
     },
     {
-      "glob": "data/isok-mrp/MZP_MRP_RiskZone_PL_2180.*", "package": "sources",
-      "stage": "source", "source": "Wody Polskie/ISOK", "acquired": "2026-05-08",
-      "license": "REQUIRES_LICENSE_REVIEW", "kind": "source", "crs": "EPSG:2180",
-      "layer": "RiskZone", "feature_count": 1741142, "dependencies": []
+      "glob": "data/isok-mrp/MZP_MRP_RiskZone_PL_2180.*",
+      "package": "sources",
+      "stage": "source",
+      "source": "Wody Polskie/ISOK",
+      "acquired": "2026-05-08",
+      "license": "REQUIRES_LICENSE_REVIEW",
+      "kind": "source",
+      "crs": "EPSG:2180",
+      "layer": "RiskZone",
+      "feature_count": 1741142,
+      "dependencies": []
     },
     {
-      "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/.srtm-cache/*.hgt", "package": "sources",
-      "stage": "source", "source": "NASA/USGS SRTM", "acquired": "2026-05-06",
-      "license": "REQUIRES_LICENSE_REVIEW", "kind": "source", "dependencies": []
+      "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/.srtm-cache/*.hgt",
+      "package": "sources",
+      "stage": "source",
+      "source": "NASA/USGS SRTM",
+      "acquired": "2026-05-06",
+      "license": "REQUIRES_LICENSE_REVIEW",
+      "kind": "source",
+      "dependencies": []
     },
-
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/*.*",
-      "package": "derived", "stage": "V9", "source": "SOIA pipeline V5-V9",
-      "acquired": "2026-05-06", "license": "CC-BY-4.0", "kind": "intermediate",
-      "dependencies": ["ankieta-pobrana/inwentaryzacja-syren-2026-05-05.csv"]
+      "package": "derived",
+      "stage": "V9",
+      "source": "SOIA pipeline V5-V9",
+      "acquired": "2026-05-06",
+      "license": "CC-BY-4.0",
+      "kind": "intermediate",
+      "dependencies": [
+        "ankieta-pobrana/inwentaryzacja-syren-2026-05-05.csv"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180/*",
-      "package": "derived", "stage": "V10", "source": "SOIA/OSM",
-      "acquired": "2026-05-07", "license": "ODbL-1.0", "kind": "intermediate",
-      "crs": "EPSG:2180", "dependencies": ["data/osm/poland-latest.osm.pbf"]
+      "package": "derived",
+      "stage": "V10",
+      "source": "SOIA/OSM",
+      "acquired": "2026-05-07",
+      "license": "ODbL-1.0",
+      "kind": "intermediate",
+      "crs": "EPSG:2180",
+      "dependencies": [
+        "data/osm/poland-latest.osm.pbf"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V9/*",
-      "package": "derived", "stage": "V9", "source": "SOIA",
-      "acquired": "2026-05-07", "license": "CC-BY-4.0", "kind": "intermediate",
-      "crs": "EPSG:2180", "dependencies": ["analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv"]
+      "package": "derived",
+      "stage": "V9",
+      "source": "SOIA",
+      "acquired": "2026-05-07",
+      "license": "CC-BY-4.0",
+      "kind": "intermediate",
+      "crs": "EPSG:2180",
+      "dependencies": [
+        "analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V9.csv"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm/*",
-      "package": "derived", "stage": "V10", "source": "SOIA",
-      "acquired": "2026-05-08", "license": "CC-BY-4.0", "kind": "intermediate",
-      "crs": "EPSG:2180", "dependencies": ["analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"]
+      "package": "derived",
+      "stage": "V10",
+      "source": "SOIA",
+      "acquired": "2026-05-08",
+      "license": "CC-BY-4.0",
+      "kind": "intermediate",
+      "crs": "EPSG:2180",
+      "dependencies": [
+        "analysis-output/inwentaryzacja-syren-2026-05-05/osm_sound_layers_PL_2180"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11/*",
-      "package": "derived", "stage": "V11", "source": "SOIA/GUS/OSM",
-      "acquired": "2026-05-08", "license": "MIXED_SEE_SOURCE_MANIFEST",
-      "kind": "intermediate", "crs": "EPSG:2180",
-      "dependencies": ["data/population-grid/gus_nsp2021_population_grid_500m_tot.gpkg", "analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm"]
+      "package": "derived",
+      "stage": "V11",
+      "source": "SOIA/GUS/OSM",
+      "acquired": "2026-05-08",
+      "license": "MIXED_SEE_SOURCE_MANIFEST",
+      "kind": "intermediate",
+      "crs": "EPSG:2180",
+      "dependencies": [
+        "data/population-grid/gus_nsp2021_population_grid_500m_tot.gpkg",
+        "analysis-output/inwentaryzacja-syren-2026-05-05/atdi_sound_model_V10_osm"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12/*",
-      "package": "derived", "stage": "V12", "source": "SOIA/ISOK/PRG",
-      "acquired": "2026-05-09", "license": "MIXED_SEE_SOURCE_MANIFEST",
-      "kind": "output", "crs": "EPSG:2180",
-      "dependencies": ["analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11", "data/isok-mrp/MZP_MRP_RiskZone_PL_2180.shp"]
+      "package": "derived",
+      "stage": "V12",
+      "source": "SOIA/ISOK/PRG",
+      "acquired": "2026-05-09",
+      "license": "MIXED_SEE_SOURCE_MANIFEST",
+      "kind": "output",
+      "crs": "EPSG:2180",
+      "dependencies": [
+        "analysis-output/inwentaryzacja-syren-2026-05-05/population_model_V11",
+        "data/isok-mrp/MZP_MRP_RiskZone_PL_2180.shp"
+      ]
     },
     {
       "glob": "analysis-output/inwentaryzacja-syren-2026-05-05/report_SOIA_V13/**/*",
-      "package": "derived", "stage": "V13", "source": "SOIA",
-      "acquired": "2026-05-09", "license": "CC-BY-4.0", "kind": "output",
-      "dependencies": ["analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12"]
+      "package": "derived",
+      "stage": "V13",
+      "source": "SOIA",
+      "acquired": "2026-05-09",
+      "license": "CC-BY-4.0",
+      "kind": "output",
+      "dependencies": [
+        "analysis-output/inwentaryzacja-syren-2026-05-05/decision_model_V12"
+      ]
     },
     {
-      "glob": "PUBLIKACJA_GITHUB/data/corrections/*", "strip_prefix": "PUBLIKACJA_GITHUB",
-      "package": "derived", "stage": "V9", "source": "SOIA correction registry",
-      "acquired": "2026-08-12", "license": "CC-BY-4.0", "kind": "intermediate",
-      "dependencies": ["analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V5.csv"]
+      "glob": "PUBLIKACJA_GITHUB/data/corrections/*",
+      "strip_prefix": "PUBLIKACJA_GITHUB",
+      "package": "derived",
+      "stage": "V9",
+      "source": "SOIA correction registry",
+      "acquired": "2026-08-12",
+      "license": "CC-BY-4.0",
+      "kind": "intermediate",
+      "dependencies": [
+        "analysis-output/inwentaryzacja-syren-2026-05-05/inwentaryzacja-syren-2026-05-05.normalized.analysis.final.V5.csv"
+      ]
     },
     {
-      "glob": "PUBLIKACJA_GITHUB/data/sources/*", "strip_prefix": "PUBLIKACJA_GITHUB",
-      "package": "sources", "stage": "source", "source": "SOIA source register",
-      "acquired": "2026-08-12", "license": "CC-BY-4.0", "kind": "metadata",
+      "glob": "PUBLIKACJA_GITHUB/data/sources/*",
+      "strip_prefix": "PUBLIKACJA_GITHUB",
+      "package": "sources",
+      "stage": "source",
+      "source": "SOIA source register",
+      "acquired": "2026-08-12",
+      "license": "CC-BY-4.0",
+      "kind": "metadata",
       "dependencies": []
     },
     {
       "glob": "PUBLIKACJA_GITHUB/data/quickstart-2026.05/**/*",
       "strip_prefix": "PUBLIKACJA_GITHUB/data/quickstart-2026.05",
-      "package": "quickstart", "stage": "V9-V13", "source": "SOIA optimized quickstart",
-      "acquired": "2026-08-12", "license": "MIXED_SEE_SOURCE_MANIFEST", "kind": "input",
+      "package": "quickstart",
+      "stage": "V9-V13",
+      "source": "SOIA optimized quickstart",
+      "acquired": "2026-08-12",
+      "license": "MIXED_SEE_SOURCE_MANIFEST",
+      "kind": "input",
       "dependencies": []
     }
   ]

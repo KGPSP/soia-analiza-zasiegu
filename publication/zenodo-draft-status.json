@@ -1,0 +1,34 @@
+{
+  "record_id": 21921103,
+  "doi": "10.5281/zenodo.21921103",
+  "status": "draft",
+  "files_access": "restricted",
+  "published": false,
+  "updated_at": "2026-08-13",
+  "files": [
+    {
+      "name": "soia-derived-v9-v13-2026.05.zip",
+      "size_bytes": 5503029541,
+      "sha256": "f2ec971740df258528286959a068313d71f426002d8d114b00869cad1e174a53",
+      "zenodo_md5": "00a1a34f3ecd53664c3b1f5af6e5c2ac"
+    },
+    {
+      "name": "soia-sources-2026.05.zip",
+      "size_bytes": 5145563059,
+      "sha256": "1220fb4638b9c819b0e1b8272debdc93d66e103cb109eda5c1fc034af436d3a6",
+      "zenodo_md5": "623415309b136bde250c6f8e2f5ef38d"
+    },
+    {
+      "name": "soia-quickstart-2026.05.zip",
+      "size_bytes": 323646977,
+      "sha256": "852ad5c1de25a83627de0bdfea83dca85c0c18ccb78e9c1cda9fbe6358d796a1",
+      "zenodo_md5": "601917db895e5aabd683cc281d63e981"
+    },
+    {
+      "name": "data-manifest.json",
+      "size_bytes": 217194,
+      "sha256": "87ee3e770099c5d433b0710b07a1279e684330406f1bc994e921786fb5a6803d",
+      "zenodo_md5": "6f4879d0afa73995b92deaefdcf56ac5"
+    }
+  ]
+}

@@ -17,10 +17,12 @@ repozytorium GitHub. Czynności dotyczące Zenodo pozostają osobną bramką.
 ## Oddzielna bramka Zenodo
 
 - [ ] Dodano w Zenodo wszystkie właściwe licencje/prawa i ustawiono widoczność publiczną.
-- [ ] Wykonano skan sekretów trzech pełnych paczek danych Zenodo.
-- [ ] Zarezerwowano DOI i wpisano go do `CITATION.cff`, `README.md` i manifestu.
+- [x] Wykonano skan sekretów trzech pełnych paczek danych Zenodo.
+- [x] Zarezerwowano DOI i wpisano go do `CITATION.cff`, `README.md` i manifestu.
 
 ## Decyzja
 
-Publiczną publikację GitHub zatwierdzono 13 sierpnia 2026 r. Czynności Zenodo
-mogą zostać wykonane dopiero po zamknięciu oddzielnej bramki powyżej.
+Publiczną publikację GitHub zatwierdzono 13 sierpnia 2026 r. Tego samego dnia
+utworzono ograniczony draft Zenodo `21921103` i zarezerwowano DOI
+`10.5281/zenodo.21921103`. Publiczne opublikowanie rekordu Zenodo może nastąpić
+dopiero po zamknięciu pozostałej bramki licencji i widoczności powyżej.

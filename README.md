@@ -8,6 +8,8 @@ gminy wskazanej kodem TERYT.
 > GitHub zatwierdzono 13 sierpnia 2026 r. Publikacja pełnych paczek danych na
 > Zenodo wymaga zamknięcia oddzielnej bramki w
 > [PUBLICATION_APPROVAL.md](PUBLICATION_APPROVAL.md).
+> Ograniczony draft Zenodo ma identyfikator `21921103`; DOI został
+> zarezerwowany, lecz będzie aktywny dopiero po publicznym opublikowaniu rekordu.
 
 ## Właściciel i opracowanie
 
@@ -27,6 +29,7 @@ gminy wskazanej kodem TERYT.
 - [Źródła, licencje i ograniczenia](docs/reference/zrodla-i-licencje.md)
 - [Przykładowy raport: gmina wiejska Ostróda](examples/ostroda/README.md)
 - [Przygotowanie draftu Zenodo](docs/how-to/draft-zenodo.md)
+- [Status draftu Zenodo 2026.05](publication/zenodo-draft-status.json)
 - [Walidacja zastanego snapshotu 2026.05](publication/release-snapshot-validation-2026.05.json)
 
 ## Szybki start
@@ -57,8 +60,7 @@ ignorowanego katalogu `data/releases/`.
 - wersja danych: `2026.05`;
 - dane ludności: GUS NSP 2021;
 - układ obliczeniowy: EPSG:2180;
-- DOI zostanie dopisany do `CITATION.cff` i manifestu po zatwierdzeniu draftu
-  Zenodo.
+- DOI Zenodo: [10.5281/zenodo.21921103](https://doi.org/10.5281/zenodo.21921103).
 
 ## Licencje
 
