@@ -4,9 +4,10 @@ Repozytorium publikuje analizę kierunkową Systemu Ostrzegania i Alarmowania
 Ludności oraz narzędzia pozwalające odtworzyć ją dla województwa, powiatu lub
 gminy wskazanej kodem TERYT.
 
-> **Status wydania:** repozytorium lokalne, wersja `v1.0.0-rc`. Publiczne
-> wysłanie danych operacyjnych na GitHub i Zenodo wymaga zatwierdzenia listy
-> kontrolnej w [PUBLICATION_APPROVAL.md](PUBLICATION_APPROVAL.md).
+> **Status wydania:** publiczny kandydat `v1.0.0-rc`. Publikację repozytorium
+> GitHub zatwierdzono 13 sierpnia 2026 r. Publikacja pełnych paczek danych na
+> Zenodo wymaga zamknięcia oddzielnej bramki w
+> [PUBLICATION_APPROVAL.md](PUBLICATION_APPROVAL.md).
 
 ## Właściciel i opracowanie
 
