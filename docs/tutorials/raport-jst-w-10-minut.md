@@ -12,7 +12,7 @@ samorządu terytorialnego. Nie wymaga lokalnej instalacji bibliotek GIS.
 ## 2. Pobierz repozytorium
 
 ```bash
-git clone https://github.com/<organizacja>/soia-analiza-zasiegu.git
+git clone https://github.com/KGPSP/soia-analiza-zasiegu.git
 cd soia-analiza-zasiegu
 ```
 
@@ -59,4 +59,3 @@ Wartość `>=65 dB(A)` jest podstawową metryką planistyczną. Model nie jest
 pomiarem terenowym i nie zastępuje certyfikowanej analizy propagacji.
 Rekomendacje zakupowe wymagają walidacji lokalizacji, własności gruntu,
 zasilania, łączności i pomiaru tła akustycznego.
-

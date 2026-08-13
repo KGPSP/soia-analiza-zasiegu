@@ -11,7 +11,7 @@ date-released: 2026-08-12
 authors:
   - name: "Komenda Główna Państwowej Straży Pożarnej - Biuro Informatyki i Łączności"
 license: MIT
-repository-code: "https://github.com/r2d2sq13/soia-analiza-zasiegu"
+repository-code: "https://github.com/KGPSP/soia-analiza-zasiegu"
 keywords:
   - SOIA
   - syreny alarmowe
