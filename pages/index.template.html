@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analiza kierunkowa SOIA | KG PSP</title>
+    <meta name="description" content="Analiza zasięgu syren alarmowych w Polsce: pokrycie, luki, RiskZone i kierunki integracji SOIA.">
+    <meta name="theme-color" content="#123b5d">
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:title" content="Analiza kierunkowa SOIA">
+    <meta property="og:description" content="Pokrycie ogólnokrajowe, luki, obszary ryzyka powodziowego i kierunki integracji systemu ostrzegania ludności.">
+    <meta property="og:url" content="https://kgpsp.github.io/soia-analiza-zasiegu/">
+    <meta property="og:image" content="https://kgpsp.github.io/soia-analiza-zasiegu/assets/report/mapa-1-zasiegi-akustyczne-syren-alarmowych-w-polsce-model-v10-rozdzielczosc-100-m-kolory-wg-modelowanego-progu-dzwieku-w-komorce.jpg">
+    <link rel="canonical" href="https://kgpsp.github.io/soia-analiza-zasiegu/">
+    <link rel="stylesheet" href="site.css">
+    <script src="site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#analiza">Przejdź do analizy</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="KG PSP SOIA — początek strony">
+          <img class="brand-mark" src="assets/branding/herb-psp.png" alt="Znak graficzny Państwowej Straży Pożarnej">
+          <span>KG PSP</span><i aria-hidden="true"></i><span>SOIA</span>
+        </a>
+        <nav class="primary-nav" aria-label="Główna nawigacja">
+          <a href="#analiza">Analiza</a>
+          <a href="#wnioski-z-realizacji">Wnioski</a>
+          <a href="https://github.com/KGPSP/soia-analiza-zasiegu/blob/main/docs/explanation/metodyka-v9-v13.md">Metodyka</a>
+          <a href="https://doi.org/10.5281/zenodo.21921103">Dane</a>
+          <a class="repo-link" href="https://github.com/KGPSP/soia-analiza-zasiegu">Repozytorium GitHub <span aria-hidden="true">↗</span></a>
+        </nav>
+        <details class="mobile-nav">
+          <summary aria-label="Otwórz nawigację">Menu</summary>
+          <div>
+            <a href="#analiza">Analiza</a>
+            <a href="#wnioski-z-realizacji">Wnioski</a>
+            <a href="https://github.com/KGPSP/soia-analiza-zasiegu/blob/main/docs/explanation/metodyka-v9-v13.md">Metodyka</a>
+            <a href="https://doi.org/10.5281/zenodo.21921103">Dane</a>
+            <a href="https://github.com/KGPSP/soia-analiza-zasiegu">Repozytorium GitHub ↗</a>
+          </div>
+        </details>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <h1 id="hero-title">Analiza kierunkowa SOIA</h1>
+          <p class="hero-lead">Pokrycie ogólnokrajowe, luki, obszary ryzyka powodziowego i kierunki integracji systemu ostrzegania ludności.</p>
+          <dl class="hero-metrics" aria-label="Najważniejsze wyniki analizy">
+            <div><dt>22 614</dt><dd>syren w inwentaryzacji</dd></div>
+            <div><dt>77,2%</dt><dd>ludności w zasięgu ≥ 65 dB(A)</dd></div>
+            <div><dt>13 050</dt><dd>zidentyfikowanych luk</dd></div>
+            <div><dt>447 593</dt><dd>osoby w RiskZone poza zasięgiem</dd></div>
+          </dl>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#analiza">Czytaj analizę</a>
+            <a class="button button-secondary" href="https://github.com/KGPSP/soia-analiza-zasiegu">Repozytorium GitHub <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+        <figure class="hero-map">
+          <img src="assets/report/mapa-1-zasiegi-akustyczne-syren-alarmowych-w-polsce-model-v10-rozdzielczosc-100-m-kolory-wg-modelowanego-progu-dzwieku-w-komorce.jpg" alt="Zasięgi akustyczne syren alarmowych w Polsce według modelu V10">
+          <figcaption>Model V10, rozdzielczość 100 m. Próg referencyjny analizy: ≥ 65 dB(A).</figcaption>
+        </figure>
+      </section>
+
+      <div class="publication-layout">
+        <aside class="document-nav" aria-label="Spis treści i pliki publikacji">
+          <p class="eyebrow">Spis treści</p>
+          {{TOC}}
+          <div class="download-panel">
+            <p class="eyebrow">Pobierz publikację</p>
+            <a href="source/SOIA_Analiza_Kierunkowa_v2_MSWiA_KGPSP_2_4_CAP_IOT_czytelny.pdf"><strong>Raport źródłowy</strong><span>PDF</span></a>
+            <a href="source/SOIA_Analiza_Kierunkowa_v2_MSWiA_KGPSP_2_4_CAP_IOT_czytelny.docx"><strong>Raport edytowalny</strong><span>DOCX</span></a>
+            <a href="https://doi.org/10.5281/zenodo.21921103"><strong>Dane i metadane</strong><span>Zenodo ↗</span></a>
+            <a href="data-manifest.json"><strong>Manifest plików</strong><span>JSON</span></a>
+          </div>
+        </aside>
+
+        <article id="analiza" class="report-body">
+          <div class="publication-label">
+            <span>Edycja internetowa</span>
+            <span>Dane 2026.05</span>
+          </div>
+          {{REPORT}}
+        </article>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <p><strong>Właściciel:</strong> Komenda Główna Państwowej Straży Pożarnej</p>
+        <p><strong>Jednostka odpowiedzialna:</strong> Biuro Informatyki i Łączności KG PSP</p>
+        <p><strong>Opracowanie:</strong> zespół pod kierownictwem st. bryg. Michała Kłosińskiego</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/KGPSP/soia-analiza-zasiegu">Repozytorium</a>
+        <a href="https://github.com/KGPSP/soia-analiza-zasiegu/releases/tag/v1.0.0">Wydanie v1.0.0</a>
+        <a href="https://doi.org/10.5281/zenodo.21921103">DOI Zenodo</a>
+      </div>
+    </footer>
+  </body>
+</html>

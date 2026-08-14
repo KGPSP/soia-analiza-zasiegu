@@ -484,6 +484,57 @@ Bubble chart pokazuje warianty na dwóch wymiarach jednocześnie — kosztu i li
 - Akceptacja zlecenia walidacji terenowej dla 12 priorytetowych lokalizacji nowych syren (Tabela 6).
 - Akceptacja standardu danych inwentaryzacji syren (formularz, słowniki, walidacje).
 - Akceptacja standardu raportowania jakości i gotowości systemu (kwartalna ocena pokrycia, lista luk, audyt łączności).
+
+# Wnioski z realizacji
+
+Realizacja publicznego wydania analizy, walidacja zastanego snapshotu V9–V13
+oraz przygotowanie ścieżki odtworzenia dla JST prowadzą do następujących
+wniosków organizacyjnych i technicznych:
+
+1. **Rozdzielenie GitHub i Zenodo jest właściwym modelem publikacji.** GitHub
+   zapewnia czytelny raport, kod, metodykę, historię zmian i automatyczne testy,
+   natomiast Zenodo przechowuje duże, wersjonowane paczki danych z trwałym DOI.
+   Oba elementy tworzą jeden pakiet odtwarzalności i powinny być cytowane
+   łącznie.
+2. **Markdown powinien pozostać kanonicznym źródłem publikacji.** Ta sama treść
+   może być prezentowana na GitHub Pages, przeglądana bez dodatkowego portalu i
+   wykorzystywana do generowania PDF. Ogranicza to ryzyko rozbieżności między
+   raportem internetowym, dokumentem do pobrania i kolejnymi wydaniami.
+3. **Manifest, wersje i sumy kontrolne są częścią wyniku analizy.** Bez nich nie
+   można jednoznacznie wykazać, z jakich danych powstał raport ani bezpiecznie
+   wznowić obliczeń. Każde wydanie danych powinno zachowywać niezmienny snapshot
+   i otrzymywać nową wersję rekordu Zenodo.
+4. **Tryb szybki jest niezbędny dla praktycznego użycia przez JST.** Gmina,
+   powiat lub województwo powinny móc wygenerować raport z przygotowanego
+   GeoPackage, COG i tabel bez ponownego liczenia całej Polski. Pełny pipeline
+   V9–V13 pozostaje ścieżką audytową i wydaniową.
+5. **Kod TERYT jest właściwym identyfikatorem zakresu analizy.** Nazwy jednostek
+   mogą się powtarzać lub zmieniać, dlatego wybór obszaru, nakładki CSV i pakiety
+   wynikowe należy wiązać z poprawnym kodem TERYT oraz buforem 10 km wokół
+   granicy JST.
+6. **Zgody publikacyjne i walidacja techniczna są odrębnymi bramkami.** Poprawne
+   testy, działający pipeline i zgodne sumy SHA-256 nie zastępują zgody
+   właściciela danych, kontroli licencji ani przeglądu bezpieczeństwa. Stan tych
+   bramek musi być jawny dla każdego wydania.
+7. **Wyniki służą do planowania, nie zastępują pomiaru terenowego.** Model
+   pozwala porównywać warianty, identyfikować luki i ustalać priorytety, lecz
+   wskazane lokalizacje oraz zasięgi wymagają walidacji terenowej przed decyzją
+   wykonawczą lub zakupową.
+8. **Aktualizacje należy publikować jako nowe, porównywalne wydania.** Nie należy
+   nadpisywać snapshotu `2026.05`. Kolejne inwentaryzacje powinny otrzymać nową
+   wersję danych, rejestr zmian przed/po, manifest i powiązaną wersję raportu.
+
+## Stan osiągnięty i granica weryfikacji
+
+- Repozytorium publiczne: [KGPSP/soia-analiza-zasiegu](https://github.com/KGPSP/soia-analiza-zasiegu).
+- Edycja internetowa: [GitHub Pages — Analiza kierunkowa SOIA](https://kgpsp.github.io/soia-analiza-zasiegu/).
+- Wydanie kodu: [`v1.0.0`](https://github.com/KGPSP/soia-analiza-zasiegu/releases/tag/v1.0.0).
+- Snapshot danych: [`10.5281/zenodo.21921103`](https://doi.org/10.5281/zenodo.21921103).
+- Zastany snapshot V9–V13 przeszedł zadeklarowane kontrole spójności. Pełne
+  ponowne przeliczenie kraju pozostaje osobnym testem wydania wykonywanym poza
+  CI i nie zostało wykonane w ramach przygotowania publikacji
+  (`full_recalculation_executed: false`).
+
 # Załączniki tabelaryczne i materiały źródłowe
 
 ## Lista załączników do dokumentu
@@ -526,6 +577,7 @@ Bubble chart pokazuje warianty na dwóch wymiarach jednocześnie — kosztu i li
 - Koszty są szacunkowe (5 000 zł/integracja GSM, 40 000 zł/nowa syrena) — wymagają uściślenia w studium wykonalności.
 - Lista priorytetowych nowych lokalizacji wskazuje miejsca do sprawdzenia w terenie, nie projekt wykonawczy montażu.
 - Koszty APN KG PSP, zarządzanych modemów/SIM, LoRa i TETRA są szacunkowe — wymagają osobnego studium technicznego, testów producentów oraz decyzji, czy i kiedy wprowadzać zwrotny kanał ACK/telemetrii.
+
 | STATUS DOKUMENTU<br>Materiał roboczy do decyzji kierunkowych — wersja 2 z 10 maja 2026 r.<br>Wykonano w oparciu o etap analityczny V13, indeks projektu z 10 maja 2026 r. i Plan raportu SOIA.<br>Materiał nie zawiera operacyjnych danych sterowania syrenami ani szczegółów łączności.<br>Pełne dane techniczne dostępne na zapotrzebowanie po zatwierdzeniu kierunku przez MSWiA / KG PSP. |
 | --- |
 

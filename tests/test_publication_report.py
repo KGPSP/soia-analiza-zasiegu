@@ -16,6 +16,7 @@ def test_publication_report_has_complete_docx_structure() -> None:
         "# CZĘŚĆ IV — Obszary do doposażenia w syreny",
         "# CZĘŚĆ V — Publiczny CAP, IoT Feed i kanały odpornościowe",
         "# CZĘŚĆ VI — Warianty budżetowe i decyzje",
+        "# Wnioski z realizacji",
         "# Załączniki tabelaryczne i materiały źródłowe",
     ]
     for heading in expected:
@@ -42,3 +43,11 @@ def test_publication_report_preserves_key_values() -> None:
         assert value in markdown
     assert "CAP/PL-CAP" in markdown
     assert "PL-CAP-DIST-IOT" in markdown
+
+
+def test_publication_report_documents_delivery_conclusions() -> None:
+    markdown = REPORT.read_text(encoding="utf-8")
+    assert "https://kgpsp.github.io/soia-analiza-zasiegu/" in markdown
+    assert "https://doi.org/10.5281/zenodo.21921103" in markdown
+    assert "full_recalculation_executed: false" in markdown
+    assert "Tryb szybki jest niezbędny dla praktycznego użycia przez JST" in markdown

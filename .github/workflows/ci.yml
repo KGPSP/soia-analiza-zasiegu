@@ -21,6 +21,8 @@ jobs:
           python-version: "3.12.11"
       - run: uv sync --frozen --extra dev
       - run: uv run pytest
+      - run: uv run python tools/build_pages.py --output build/pages
+      - run: test -s build/pages/index.html
       - run: uv run python tools/check_markdown_links.py .
       - run: uv run ruff check src tests tools
 
