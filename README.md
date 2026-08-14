@@ -13,6 +13,9 @@ gminy wskazanej kodem TERYT.
 > [audyt Zenodo](publication/zenodo-approval-audit.md) i
 > [bramka publikacyjna](PUBLICATION_APPROVAL.md).
 
+**Edycja internetowa:**
+[Analiza kierunkowa SOIA — GitHub Pages](https://kgpsp.github.io/soia-analiza-zasiegu/)
+
 ## Właściciel i opracowanie
 
 - **Właściciel:** Komenda Główna Państwowej Straży Pożarnej (KG PSP).
@@ -23,6 +26,7 @@ gminy wskazanej kodem TERYT.
 ## Najważniejsze materiały
 
 - [Analiza kierunkowa CAP/IoT w Markdown](publication/analiza-kierunkowa.md)
+- [Wnioski z realizacji](publication/analiza-kierunkowa.md#wnioski-z-realizacji)
 - [Raport JST w 10 minut](docs/tutorials/raport-jst-w-10-minut.md)
 - [Aktualizacja własnej inwentaryzacji](docs/how-to/aktualizacja-inwentaryzacji.md)
 - [Metodyka V9-V13](docs/explanation/metodyka-v9-v13.md)
