@@ -27,7 +27,7 @@ gminy wskazanej kodem TERYT.
 
 - [Analiza kierunkowa CAP/IoT w Markdown](publication/analiza-kierunkowa.md)
 - [Wnioski z realizacji](publication/analiza-kierunkowa.md#wnioski-z-realizacji)
-- [Raport JST w 10 minut](docs/tutorials/raport-jst-w-10-minut.md)
+- [Raport JST w 10 minut (instrukcja generowania raportów)](docs/tutorials/raport-jst-w-10-minut.md)
 - [Aktualizacja własnej inwentaryzacji](docs/how-to/aktualizacja-inwentaryzacji.md)
 - [Metodyka V9-V13](docs/explanation/metodyka-v9-v13.md)
 - [Komendy, schematy i artefakty](docs/reference/interfejs-cli-i-dane.md)
