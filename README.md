@@ -1,5 +1,11 @@
 # SOIA - reprodukowalna analiza zasięgu syren alarmowych
 
+<img src="pages/assets/label-ai-modified.svg" alt="Ikona Unii Europejskiej oznaczająca treść częściowo zmodyfikowaną przez sztuczną inteligencję" width="120">
+
+**Treść częściowo zmodyfikowana przez AI.** Część materiałów w tym repozytorium
+powstała z udziałem narzędzi sztucznej inteligencji — zob.
+[Oznaczenie treści AI](#oznaczenie-treści-ai).
+
 Repozytorium publikuje analizę kierunkową Systemu Ostrzegania i Alarmowania
 Ludności oraz narzędzia pozwalające odtworzyć ją dla województwa, powiatu lub
 gminy wskazanej kodem TERYT.
@@ -68,6 +74,22 @@ ignorowanego katalogu `data/releases/`.
 - dane ludności: GUS NSP 2021;
 - układ obliczeniowy: EPSG:2180;
 - DOI Zenodo: [10.5281/zenodo.21921103](https://doi.org/10.5281/zenodo.21921103).
+
+## Oznaczenie treści AI
+
+Część materiałów w tym repozytorium (opracowanie tekstu, kod, wizualizacje)
+powstała z udziałem narzędzi sztucznej inteligencji. Odpowiedzialność za
+publikację ponosi Komenda Główna Państwowej Straży Pożarnej.
+
+Do oznaczenia użyto unijnej ikony „AI modified" z zestawu Komisji Europejskiej
+służącego do oznaczania treści generowanych lub modyfikowanych przez AI,
+wspierającego wymogi przejrzystości z art. 50 aktu o sztucznej inteligencji
+(AI Act). Ikona jest publicznie dostępna, nie wymaga przypisania autorstwa
+i została użyta bez zmian w grafice:
+[EU icons for labelling AI generated content](https://digital-strategy.ec.europa.eu/pl/policies/eu-icons-labelling-ai-generated-content).
+
+To samo oznaczenie widnieje w [edycji internetowej](https://kgpsp.github.io/soia-analiza-zasiegu/)
+nad treścią raportu.
 
 ## Licencje
 
