@@ -375,6 +375,25 @@ summary:focus-visible {
   text-transform: uppercase;
 }
 
+.ai-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--muted);
+  text-align: right;
+}
+
+.report-body .ai-label img {
+  display: block;
+  flex: none;
+  width: 88px;
+  height: 29px;
+  margin: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+}
+
 .report-body h1,
 .report-body h2,
 .report-body h3 {
@@ -687,6 +706,12 @@ summary:focus-visible {
     align-items: flex-start;
     flex-direction: column;
     gap: 4px;
+  }
+
+  .ai-label {
+    align-self: flex-start;
+    margin-top: 4px;
+    text-align: left;
   }
 
   .site-footer {

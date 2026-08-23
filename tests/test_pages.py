@@ -21,6 +21,8 @@ def test_pages_build_contains_canonical_report_and_public_links(tmp_path: Path) 
     assert html.count("<table>") == 19
     assert 'src="assets/branding/herb-psp.png"' in html
     assert "Znak graficzny Państwowej Straży Pożarnej" in html
+    assert 'src="assets/branding/label-ai-modified.svg"' in html
+    assert "Treść częściowo zmodyfikowana przez AI" in html
 
 
 def test_pages_build_copies_report_assets_and_downloads(tmp_path: Path) -> None:
@@ -32,6 +34,7 @@ def test_pages_build_copies_report_assets_and_downloads(tmp_path: Path) -> None:
     assert len(list((output / "source").iterdir())) == 2
     assert (output / "data-manifest.json").is_file()
     assert (output / "assets" / "branding" / "herb-psp.png").is_file()
+    assert (output / "assets" / "branding" / "label-ai-modified.svg").is_file()
 
     targets = re.findall(r'(?:href|src)="([^"]+)"', html)
     for target in targets:
