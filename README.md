@@ -1,6 +1,9 @@
 # SOIA - reprodukowalna analiza zasięgu syren alarmowych
 
-<img src="pages/assets/label-ai-modified.svg" alt="Ikona Unii Europejskiej oznaczająca treść częściowo zmodyfikowaną przez sztuczną inteligencję" width="120">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pages/assets/label-ai-modified-white.svg">
+  <img src="pages/assets/label-ai-modified.svg" alt="Ikona Unii Europejskiej oznaczająca treść częściowo zmodyfikowaną przez sztuczną inteligencję" width="120">
+</picture>
 
 **Treść częściowo zmodyfikowana przez AI.** Część materiałów w tym repozytorium
 powstała z udziałem narzędzi sztucznej inteligencji — zob.

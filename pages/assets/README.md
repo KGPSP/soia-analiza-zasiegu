@@ -12,6 +12,8 @@ z zestawu Komisji Europejskiej do oznaczania treści generowanych lub
 modyfikowanych przez sztuczną inteligencję, zgodnego z sekcją 2 kodeksu
 postępowania do art. 50 AI Act. Ikona jest publicznie dostępna, użyta bez
 zmian w grafice; w serwisie towarzyszy jej etykieta tekstowa
-„Treść częściowo zmodyfikowana przez AI".
+„Treść częściowo zmodyfikowana przez AI". Wariant biały
+(`label-ai-modified-white.svg`) służy ciemnym tłom — używa go README na GitHubie
+w trybie ciemnym.
 
 Źródło: https://digital-strategy.ec.europa.eu/pl/policies/eu-icons-labelling-ai-generated-content
